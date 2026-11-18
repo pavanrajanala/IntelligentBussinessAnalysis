@@ -1,0 +1,784 @@
+{
+ "_note": "Festival dates for 2026-2027. Lunar festivals can move by a day (approx=true). Add next year's dates here; no code change needed.",
+ "festivals": [
+  {
+   "name": "Durga Puja",
+   "date": "2026-10-19",
+   "regions": [
+    "West Bengal",
+    "Odisha",
+    "Assam",
+    "Tripura",
+    "Bihar",
+    "Jharkhand"
+   ],
+   "boost": {
+    "sweets": 1.35,
+    "snacks": 1.2,
+    "personal_care": 1.25,
+    "puja": 1.3,
+    "hot_beverages": 1.1
+   },
+   "lead_days": 12,
+   "ideas": {
+    "sweets": [
+     "Sweet boxes"
+    ],
+    "puja": [
+     "Puja flowers and incense",
+     "Sindoor and alta"
+    ],
+    "personal_care": [
+     "Gift sets"
+    ]
+   },
+   "note": "Shopping peaks in the week before Maha Ashtami.",
+   "approx": false
+  },
+  {
+   "name": "Dussehra",
+   "date": "2026-10-20",
+   "regions": "all",
+   "boost": {
+    "sweets": 1.2,
+    "snacks": 1.15,
+    "puja": 1.2
+   },
+   "lead_days": 10,
+   "ideas": {
+    "sweets": [
+     "Jalebi and sweet packs"
+    ],
+    "puja": [
+     "Puja items"
+    ]
+   },
+   "note": "Smaller bump than Diwali, but it starts the festive buying season.",
+   "approx": false
+  },
+  {
+   "name": "Karwa Chauth",
+   "date": "2026-10-29",
+   "regions": [
+    "Punjab",
+    "Haryana",
+    "Delhi",
+    "Uttar Pradesh",
+    "Rajasthan",
+    "Madhya Pradesh",
+    "Himachal Pradesh",
+    "Uttarakhand",
+    "Chandigarh"
+   ],
+   "boost": {
+    "personal_care": 1.4,
+    "sweets": 1.3,
+    "dry_fruits": 1.2,
+    "puja": 1.25
+   },
+   "lead_days": 7,
+   "ideas": {
+    "personal_care": [
+     "Mehendi cones",
+     "Bangles and bindi",
+     "Makeup and nail colour"
+    ],
+    "sweets": [
+     "Mathri and sweets"
+    ]
+   },
+   "note": "Demand for beauty items and sweets rises a few days before.",
+   "approx": true
+  },
+  {
+   "name": "Dhanteras",
+   "date": "2026-11-06",
+   "regions": "all",
+   "boost": {
+    "puja": 1.4,
+    "sweets": 1.25,
+    "home_care": 1.2
+   },
+   "lead_days": 10,
+   "ideas": {
+    "puja": [
+     "Silver coins packs",
+     "Diyas"
+    ],
+    "home_care": [
+     "Steel and kitchen utensils (if you stock them)"
+    ]
+   },
+   "note": "Start of the Diwali week. Households buy utensils, sweets and puja items.",
+   "approx": false
+  },
+  {
+   "name": "Diwali",
+   "date": "2026-11-08",
+   "regions": "all",
+   "boost": {
+    "sweets": 1.4,
+    "dry_fruits": 1.4,
+    "puja": 1.5,
+    "home_care": 1.3,
+    "oil_ghee": 1.2,
+    "snacks": 1.25,
+    "personal_care": 1.15,
+    "staples": 1.1
+   },
+   "lead_days": 21,
+   "ideas": {
+    "sweets": [
+     "Sweet gift boxes",
+     "Soan papdi",
+     "Chocolate gift packs"
+    ],
+    "dry_fruits": [
+     "Dry fruit gift packs",
+     "Cashew and almond packs"
+    ],
+    "puja": [
+     "Diyas and wicks",
+     "Rangoli colours",
+     "Camphor and agarbatti",
+     "Candles"
+    ],
+    "home_care": [
+     "Floor cleaners",
+     "Phenyl",
+     "Brooms and mops"
+    ],
+    "oil_ghee": [
+     "Ghee",
+     "Cooking oil (5 L packs)"
+    ],
+    "snacks": [
+     "Namkeen and mixture packs"
+    ]
+   },
+   "note": "The biggest buying season of the year. Stock up three weeks ahead.",
+   "approx": false
+  },
+  {
+   "name": "Bhai Dooj",
+   "date": "2026-11-11",
+   "regions": [
+    "Punjab",
+    "Haryana",
+    "Delhi",
+    "Uttar Pradesh",
+    "Rajasthan",
+    "Madhya Pradesh",
+    "Himachal Pradesh",
+    "Uttarakhand",
+    "Chandigarh",
+    "Jammu and Kashmir",
+    "Bihar",
+    "Jharkhand",
+    "Chhattisgarh",
+    "Gujarat"
+   ],
+   "boost": {
+    "sweets": 1.3,
+    "dry_fruits": 1.2,
+    "personal_care": 1.1
+   },
+   "lead_days": 5,
+   "ideas": {
+    "sweets": [
+     "Sweet boxes",
+     "Chocolates"
+    ]
+   },
+   "note": "Gifting of sweets between siblings.",
+   "approx": false
+  },
+  {
+   "name": "Chhath Puja",
+   "date": "2026-11-15",
+   "regions": [
+    "Bihar",
+    "Jharkhand",
+    "Uttar Pradesh",
+    "Delhi"
+   ],
+   "boost": {
+    "puja": 1.4,
+    "sweets": 1.2,
+    "staples": 1.2
+   },
+   "lead_days": 7,
+   "ideas": {
+    "puja": [
+     "Bamboo soop and daura (if you stock them)",
+     "Sugarcane, jaggery, thekua ingredients"
+    ],
+    "staples": [
+     "Wheat flour and jaggery"
+    ]
+   },
+   "note": "Offerings need fruit, jaggery, wheat flour and ghee.",
+   "approx": false
+  },
+  {
+   "name": "Guru Nanak Jayanti",
+   "date": "2026-11-24",
+   "regions": [
+    "Punjab",
+    "Haryana",
+    "Delhi",
+    "Chandigarh",
+    "Himachal Pradesh",
+    "Rajasthan"
+   ],
+   "boost": {
+    "sweets": 1.2,
+    "staples": 1.15,
+    "oil_ghee": 1.15
+   },
+   "lead_days": 5,
+   "ideas": {
+    "staples": [
+     "Langar supplies: atta, dal, rice, sugar"
+    ]
+   },
+   "note": "Community kitchens (langar) buy staples in bulk.",
+   "approx": false
+  },
+  {
+   "name": "Christmas",
+   "date": "2026-12-25",
+   "regions": "all",
+   "boost": {
+    "sweets": 1.3,
+    "bakery": 1.5,
+    "snacks": 1.15,
+    "cold_beverages": 1.1
+   },
+   "lead_days": 12,
+   "ideas": {
+    "bakery": [
+     "Cakes and plum cake",
+     "Cookies"
+    ],
+    "sweets": [
+     "Chocolates"
+    ]
+   },
+   "note": "Cakes, chocolates and party snacks sell more, especially in Kerala, Goa and the North-East.",
+   "approx": false
+  },
+  {
+   "name": "New Year's Eve",
+   "date": "2026-12-31",
+   "regions": "all",
+   "boost": {
+    "snacks": 1.3,
+    "cold_beverages": 1.2,
+    "bakery": 1.2,
+    "sweets": 1.1
+   },
+   "lead_days": 7,
+   "ideas": {
+    "snacks": [
+     "Party snack packs"
+    ],
+    "cold_beverages": [
+     "Soft drinks and mixers"
+    ]
+   },
+   "note": "Party snacks and drinks.",
+   "approx": false
+  },
+  {
+   "name": "Pongal",
+   "date": "2027-01-15",
+   "regions": [
+    "Tamil Nadu",
+    "Puducherry",
+    "Andhra Pradesh",
+    "Telangana"
+   ],
+   "boost": {
+    "staples": 1.35,
+    "sweets": 1.3,
+    "oil_ghee": 1.25,
+    "puja": 1.2
+   },
+   "lead_days": 10,
+   "ideas": {
+    "staples": [
+     "Raw rice, moong dal, jaggery"
+    ],
+    "sweets": [
+     "Sugarcane and jaggery"
+    ],
+    "puja": [
+     "Kolam powder"
+    ]
+   },
+   "note": "Pongal pots need new rice, jaggery, ghee, cashew and raisins.",
+   "approx": false
+  },
+  {
+   "name": "Makar Sankranti",
+   "date": "2027-01-15",
+   "regions": [
+    "Gujarat",
+    "Maharashtra",
+    "Karnataka",
+    "Rajasthan",
+    "Uttar Pradesh",
+    "Delhi",
+    "Punjab",
+    "Haryana",
+    "Madhya Pradesh",
+    "Bihar"
+   ],
+   "boost": {
+    "sweets": 1.3,
+    "staples": 1.15,
+    "snacks": 1.1
+   },
+   "lead_days": 7,
+   "ideas": {
+    "sweets": [
+     "Til-gud (sesame and jaggery) laddoos"
+    ],
+    "staples": [
+     "Sesame, jaggery, peanuts"
+    ]
+   },
+   "note": "Til-gud sweets and kite season.",
+   "approx": false
+  },
+  {
+   "name": "Republic Day",
+   "date": "2027-01-26",
+   "regions": "all",
+   "boost": {
+    "sweets": 1.1,
+    "snacks": 1.1
+   },
+   "lead_days": 2,
+   "ideas": {},
+   "note": "Small bump from school and office events.",
+   "approx": false
+  },
+  {
+   "name": "Maha Shivaratri",
+   "date": "2027-03-06",
+   "regions": "all",
+   "boost": {
+    "dry_fruits": 1.15,
+    "puja": 1.2,
+    "dairy": 1.2
+   },
+   "lead_days": 5,
+   "ideas": {
+    "dairy": [
+     "Milk and thandai ingredients"
+    ],
+    "puja": [
+     "Bael leaves, incense"
+    ]
+   },
+   "note": "Fasting foods, milk and thandai ingredients.",
+   "approx": false
+  },
+  {
+   "name": "Holi",
+   "date": "2027-03-22",
+   "regions": [
+    "Delhi",
+    "Uttar Pradesh",
+    "Rajasthan",
+    "Haryana",
+    "Punjab",
+    "Madhya Pradesh",
+    "Gujarat",
+    "Bihar",
+    "Jharkhand",
+    "Maharashtra",
+    "West Bengal",
+    "Odisha",
+    "Chandigarh",
+    "Himachal Pradesh",
+    "Uttarakhand"
+   ],
+   "boost": {
+    "sweets": 1.4,
+    "snacks": 1.3,
+    "cold_beverages": 1.3,
+    "dairy": 1.25,
+    "personal_care": 1.2
+   },
+   "lead_days": 14,
+   "ideas": {
+    "puja": [
+     "Holi colours (gulal)",
+     "Pichkaris"
+    ],
+    "sweets": [
+     "Gujiya and sweets"
+    ],
+    "cold_beverages": [
+     "Thandai and soft drinks"
+    ]
+   },
+   "note": "Colours, sweets, snacks and cold drinks. Skin oil and soap also sell for cleaning up.",
+   "approx": false
+  },
+  {
+   "name": "Eid al-Fitr",
+   "date": "2027-03-09",
+   "regions": "all",
+   "boost": {
+    "sweets": 1.35,
+    "dairy": 1.3,
+    "dry_fruits": 1.35,
+    "staples": 1.2,
+    "personal_care": 1.2
+   },
+   "lead_days": 12,
+   "ideas": {
+    "dry_fruits": [
+     "Vermicelli (seviyan), dates, dry fruits"
+    ],
+    "personal_care": [
+     "Attar and perfumes"
+    ]
+   },
+   "note": "Date depends on moon sighting and may move by a day. Seviyan, dry fruits, milk and sugar sell strongly.",
+   "approx": true
+  },
+  {
+   "name": "Ugadi / Gudi Padwa",
+   "date": "2027-04-07",
+   "regions": [
+    "Karnataka",
+    "Andhra Pradesh",
+    "Telangana",
+    "Maharashtra",
+    "Goa"
+   ],
+   "boost": {
+    "sweets": 1.2,
+    "staples": 1.15,
+    "puja": 1.2
+   },
+   "lead_days": 7,
+   "ideas": {
+    "staples": [
+     "Neem flowers, jaggery, tamarind (for Ugadi pachadi)"
+    ]
+   },
+   "note": "New year festival in the Deccan region.",
+   "approx": false
+  },
+  {
+   "name": "Tamil New Year / Vishu / Baisakhi",
+   "date": "2027-04-14",
+   "regions": [
+    "Tamil Nadu",
+    "Puducherry",
+    "Kerala",
+    "Punjab",
+    "Haryana",
+    "Delhi"
+   ],
+   "boost": {
+    "sweets": 1.2,
+    "staples": 1.15,
+    "puja": 1.15
+   },
+   "lead_days": 7,
+   "ideas": {
+    "sweets": [
+     "Sweets and payasam ingredients"
+    ]
+   },
+   "note": "Regional new year celebrations (Vishu is on 15 April in Kerala).",
+   "approx": false
+  },
+  {
+   "name": "Ram Navami",
+   "date": "2027-04-15",
+   "regions": "all",
+   "boost": {
+    "puja": 1.15,
+    "sweets": 1.1
+   },
+   "lead_days": 3,
+   "ideas": {},
+   "note": "Small bump in puja items.",
+   "approx": false
+  },
+  {
+   "name": "Eid al-Adha",
+   "date": "2027-05-17",
+   "regions": "all",
+   "boost": {
+    "staples": 1.3,
+    "oil_ghee": 1.2,
+    "dairy": 1.2,
+    "dry_fruits": 1.2
+   },
+   "lead_days": 10,
+   "ideas": {
+    "staples": [
+     "Spices, onion, rice, oil"
+    ]
+   },
+   "note": "Date depends on moon sighting. Spices, rice and oil sell more.",
+   "approx": true
+  },
+  {
+   "name": "Raksha Bandhan",
+   "date": "2027-08-17",
+   "regions": "all",
+   "boost": {
+    "sweets": 1.4,
+    "dry_fruits": 1.2,
+    "personal_care": 1.1
+   },
+   "lead_days": 10,
+   "ideas": {
+    "sweets": [
+     "Sweet and chocolate gift boxes",
+     "Rakhi (if you stock them)"
+    ]
+   },
+   "note": "Sweets and chocolates are the main items.",
+   "approx": false
+  },
+  {
+   "name": "Janmashtami",
+   "date": "2027-08-25",
+   "regions": "all",
+   "boost": {
+    "dairy": 1.3,
+    "sweets": 1.2,
+    "puja": 1.15
+   },
+   "lead_days": 5,
+   "ideas": {
+    "dairy": [
+     "Butter, curd, milk"
+    ],
+    "puja": [
+     "Puja items"
+    ]
+   },
+   "note": "Milk, butter, curd and sweets.",
+   "approx": false
+  },
+  {
+   "name": "Ganesh Chaturthi",
+   "date": "2027-09-04",
+   "regions": [
+    "Maharashtra",
+    "Goa",
+    "Karnataka",
+    "Telangana",
+    "Andhra Pradesh",
+    "Gujarat",
+    "Tamil Nadu"
+   ],
+   "boost": {
+    "sweets": 1.35,
+    "puja": 1.35,
+    "dry_fruits": 1.15,
+    "snacks": 1.1
+   },
+   "lead_days": 12,
+   "ideas": {
+    "puja": [
+     "Camphor, incense, flowers, coconut"
+    ],
+    "sweets": [
+     "Modak ingredients: jaggery, rice flour, coconut"
+    ]
+   },
+   "note": "Ten-day festival. Sweets, coconut and puja items sell the whole week.",
+   "approx": false
+  },
+  {
+   "name": "Onam",
+   "date": "2027-09-12",
+   "regions": [
+    "Kerala"
+   ],
+   "boost": {
+    "staples": 1.4,
+    "oil_ghee": 1.35,
+    "sweets": 1.3,
+    "dairy": 1.25
+   },
+   "lead_days": 12,
+   "ideas": {
+    "staples": [
+     "Raw rice, coconut oil, banana chips, jaggery, payasam mix"
+    ]
+   },
+   "note": "Onam sadya needs rice, coconut oil, jaggery, vegetables and payasam ingredients.",
+   "approx": false
+  },
+  {
+   "name": "Navratri",
+   "date": "2027-10-01",
+   "regions": "all",
+   "boost": {
+    "sweets": 1.2,
+    "puja": 1.25,
+    "dry_fruits": 1.2,
+    "snacks": 1.1
+   },
+   "lead_days": 7,
+   "ideas": {
+    "staples": [
+     "Fasting foods: sabudana, kuttu flour, rock salt"
+    ]
+   },
+   "note": "Fasting foods (sabudana, kuttu atta, makhana) and puja items. Garba season in Gujarat.",
+   "approx": false
+  },
+  {
+   "name": "Durga Puja",
+   "date": "2027-10-08",
+   "regions": [
+    "West Bengal",
+    "Odisha",
+    "Assam",
+    "Tripura",
+    "Bihar",
+    "Jharkhand"
+   ],
+   "boost": {
+    "sweets": 1.35,
+    "snacks": 1.2,
+    "personal_care": 1.25,
+    "puja": 1.3,
+    "hot_beverages": 1.1
+   },
+   "lead_days": 12,
+   "ideas": {
+    "sweets": [
+     "Sweet boxes"
+    ],
+    "puja": [
+     "Puja flowers and incense",
+     "Sindoor and alta"
+    ]
+   },
+   "note": "Shopping peaks in the week before Maha Ashtami.",
+   "approx": true
+  },
+  {
+   "name": "Dussehra",
+   "date": "2027-10-09",
+   "regions": "all",
+   "boost": {
+    "sweets": 1.2,
+    "snacks": 1.15,
+    "puja": 1.2
+   },
+   "lead_days": 10,
+   "ideas": {
+    "sweets": [
+     "Jalebi and sweet packs"
+    ]
+   },
+   "note": "Smaller bump than Diwali, but it starts the festive buying season.",
+   "approx": false
+  },
+  {
+   "name": "Dhanteras",
+   "date": "2027-10-27",
+   "regions": "all",
+   "boost": {
+    "puja": 1.4,
+    "sweets": 1.25,
+    "home_care": 1.2
+   },
+   "lead_days": 10,
+   "ideas": {
+    "puja": [
+     "Diyas"
+    ]
+   },
+   "note": "Start of the Diwali week.",
+   "approx": true
+  },
+  {
+   "name": "Diwali",
+   "date": "2027-10-29",
+   "regions": "all",
+   "boost": {
+    "sweets": 1.4,
+    "dry_fruits": 1.4,
+    "puja": 1.5,
+    "home_care": 1.3,
+    "oil_ghee": 1.2,
+    "snacks": 1.25,
+    "personal_care": 1.15,
+    "staples": 1.1
+   },
+   "lead_days": 21,
+   "ideas": {
+    "sweets": [
+     "Sweet gift boxes",
+     "Soan papdi",
+     "Chocolate gift packs"
+    ],
+    "dry_fruits": [
+     "Dry fruit gift packs",
+     "Cashew and almond packs"
+    ],
+    "puja": [
+     "Diyas and wicks",
+     "Rangoli colours",
+     "Camphor and agarbatti",
+     "Candles"
+    ],
+    "home_care": [
+     "Floor cleaners",
+     "Phenyl",
+     "Brooms and mops"
+    ],
+    "oil_ghee": [
+     "Ghee",
+     "Cooking oil (5 L packs)"
+    ],
+    "snacks": [
+     "Namkeen and mixture packs"
+    ]
+   },
+   "note": "The biggest buying season of the year. Stock up three weeks ahead.",
+   "approx": false
+  },
+  {
+   "name": "Christmas",
+   "date": "2027-12-25",
+   "regions": "all",
+   "boost": {
+    "sweets": 1.3,
+    "bakery": 1.5,
+    "snacks": 1.15,
+    "cold_beverages": 1.1
+   },
+   "lead_days": 12,
+   "ideas": {
+    "bakery": [
+     "Cakes and plum cake",
+     "Cookies"
+    ],
+    "sweets": [
+     "Chocolates"
+    ]
+   },
+   "note": "Cakes, chocolates and party snacks sell more.",
+   "approx": false
+  }
+ ]
+}

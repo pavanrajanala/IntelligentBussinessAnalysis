@@ -1,0 +1,3 @@
+-r requirements.txt
+httpx>=0.27   # powers FastAPI's TestClient used in tests/test_api.py
+pytest>=8.0   # optional: `python -m unittest discover -s tests` works without it

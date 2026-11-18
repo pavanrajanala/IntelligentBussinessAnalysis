@@ -1,0 +1,2444 @@
+date,product,category,quantity,price,customer_id,region
+2026-08-18,Pepsodent,Oral Care,1,88,C019,Trichy
+2026-06-16,Bru Coffee,Beverages,1,210,C058,Madurai
+2026-01-25,Closeup,Oral Care,3,92,C014,Madurai
+2026-03-24,Lays,Snacks,10,20,C056,Chennai
+2026-01-20,Colgate,Oral Care,4,95,C009,Coimbatore
+not a date,Lays,Snacks,15,20,C046,Madurai
+2026-04-22,Tata Tea,Beverages,6,140,C004,Chennai
+2026-06-17,Lays,Snacks,12,20,C040,Chennai
+2026-01-22,Kurkure,Snacks,5,20,C033,Coimbatore
+2026-06-03,Colgate,Oral Care,6,95,C016,Chennai
+2026-02-09,Closeup,Oral Care,5,92,C044,Chennai
+2026-04-24,Lays,Snacks,6,20,C046,Madurai
+2026-09-23,Pepsodent,Oral Care,2,88,C003,Trichy
+2026-08-08,Pepsodent,Oral Care,2,88,C041,Coimbatore
+2026-07-15,Dove,Personal Care,4,62,C041,Coimbatore
+2026-04-21,Tata Tea,Beverages,1,140,C029,Coimbatore
+2026-05-16,Colgate,Oral Care,3,95,C030,Madurai
+2026-04-06,Kurkure,Snacks,500,20,C038,Madurai
+2026-01-10,Lays,Snacks,8,20,C052,Chennai
+2026-02-23,Pepsodent,Oral Care,6,88,C047,Trichy
+2026-04-25,Parle-G,Snacks,8,10,C048,Chennai
+2026-01-02,Colgate,Oral Care,,95,C013,Coimbatore
+2026-07-12,Red Label,Beverages,4,125,C020,Chennai
+2026-06-20,Lays,Snacks,14,20,C037,Coimbatore
+2026-07-01,Bru Coffee,Beverages,6,210,C014,Madurai
+2026-07-01,Red Label,Beverages,4,125,C049,Coimbatore
+2026-04-23,Closeup,Oral Care,1,92,C034,Madurai
+2026-01-21,Red Label,Beverages,4,125,C002,Madurai
+2026-02-12,Tata Tea,Beverages,3,140,C036,Chennai
+2026-04-05,Closeup,Oral Care,1,92,C046,Madurai
+2026-02-14,Red Label,Beverages,1,125,C003,Trichy
+2026-09-10,Colgate,Oral Care,1,95,C022,Madurai
+2026-09-12,Pepsodent,Oral Care,3,88,C012,Chennai
+2026-03-26,Colgate,Oral Care,3,95,C011,Trichy
+2026-08-08,Bru Coffee,Beverages,4,210,C013,Coimbatore
+2026-06-06,Kurkure,Snacks,4,20,C006,Madurai
+2026-05-13,Bru Coffee,Beverages,3,210,C036,Chennai
+2026-06-06,Tata Tea,Beverages,5,140,C036,Chennai
+2026-05-08,Pepsodent,Oral Care,3,88,C007,Trichy
+2026-04-10,Colgate,Oral Care,2,95,C015,Trichy
+2026-09-22,Parle-G,Snacks,15,10,C052,Chennai
+2026-07-03,Pepsodent,Oral Care,2,88,C015,Trichy
+2026-01-19,Lays,Snacks,6,20,C060,Chennai
+2026-06-12,Lays,Snacks,14,20,C033,Coimbatore
+2026-02-09,Colgate,Oral Care,6,95,C015,Trichy
+2026-09-09,Lays,Snacks,6,20,C049,Coimbatore
+2026-03-25,Colgate,Oral Care,5,95,C022,Madurai
+2026-05-02,parle-g,Snacks,12,10,C028,Chennai
+2026-06-18,Pepsodent,Oral Care,5,88,C001,Coimbatore
+2026-09-01,Sensodyne,Oral Care,1,165,C017,Coimbatore
+2026-02-05,Lays,Snacks,4,20,C050,Madurai
+2026-02-25,Sensodyne,Oral Care,1,165,C002,Madurai
+2026-01-15,Red Label,Beverages,6,125,C035,Trichy
+2026-05-10,Lays,Snacks,13,20,C060,Chennai
+2026-02-13,Lux,Personal Care,4,38,C019,Trichy
+2026-04-23,Dove,Personal Care,6,62,C031,Trichy
+2026-08-23,Colgate,Oral Care,4,95,C019,Trichy
+2026-03-03,Tata Tea,Beverages,5,140,C007,Trichy
+2026-06-13,Lux,Personal Care,9,38,C039,Trichy
+2026-05-17,Tata Tea,Beverages,1,140,C032,Chennai
+2026-09-23,Colgate,Oral Care,6,95,C028,Chennai
+2026-09-12,Tata Tea,Beverages,1,140,C041,Coimbatore
+2026-08-25,Parle-G,Snacks,11,10,C004,Chennai
+2026-01-08,Sensodyne,Oral Care,1,165,C037,Coimbatore
+2026-06-25,Parle-G,Snacks,3,10,C048,Chennai
+2026-05-22,Lux,Personal Care,8,38,C037,Coimbatore
+2026-08-20,Lays,Snacks,14,20,C009,Coimbatore
+2026-03-28,Kurkure,Snacks,14,20,C026,Madurai
+2026-01-28,Colgate,Oral Care,2,95,C028,Chennai
+2026-09-10,Pepsodent,Oral Care,3,88,C002,Madurai
+2026-08-19,Lays,Snacks,3,20,C014,Madurai
+2026-01-14,Colgate,Oral Care,2,95,C018,Madurai
+2026-09-11,Pepsodent,Oral Care,5,88,C014,Madurai
+2026-07-20,Tata Tea,Beverages,3,140,C056,Chennai
+2026-05-22,Dove,Personal Care,4,62,C008,Chennai
+2026-05-18,Colgate,Oral Care,1,95,C052,Chennai
+2026-06-19,Dove,Personal Care,4,62,C013,Coimbatore
+2026-04-18,Lays,Snacks,5,20,C021,Coimbatore
+2026-09-11,Kurkure,Snacks,10,20,C005,Coimbatore
+2026-08-19,Colgate,Oral Care,5,95,C016,Chennai
+2026-02-14,Parle-G,Snacks,5,10,C012,Chennai
+2026-03-05,Colgate,Oral Care,6,95,C008,Chennai
+2026-06-05,Pepsodent,Oral Care,4,88,C049,Coimbatore
+2026-02-13,Tata Tea,Beverages,3,140,C048,Chennai
+2026-05-13,Pepsodent,Oral Care,1,88,C011,Trichy
+2026-02-01,Colgate,Oral Care,1,95,C025,Coimbatore
+2026-04-06,Pepsodent,Oral Care,6,88,C042,Madurai
+2026-01-13,Lays,Snacks,5,20,C008,Chennai
+2026-04-05,Colgate,Oral Care,4,95,C049,Coimbatore
+2026-04-26,Tata Tea,Beverages,5,140,C048,Chennai
+2026-03-23,Colgate,Oral Care,1,95,C029,Coimbatore
+2026-02-14,Lays,Snacks,11,20,C042,Madurai
+2026-08-03,Bru Coffee,Beverages,2,210,C031,Trichy
+2026-05-10,Red Label,Beverages,1,125,C040,Chennai
+2026-05-21, Sensodyne ,Oral Care,4,165,C010,Madurai
+2026-04-10,Kurkure,Snacks,4,20,C005,Coimbatore
+2026-02-15,Colgate,Oral Care,1,95,C013,Coimbatore
+2026-07-01,Lux,Personal Care,7,38,C021,Coimbatore
+2026-03-25,Colgate,Oral Care,2,95,C027,Trichy
+2026-09-25,Pepsodent,Oral Care,5,88,C036,Chennai
+2026-07-02,Lays,Snacks,14,20,C011,Trichy
+2026-08-14,Pepsodent,Oral Care,6,88,C009,Coimbatore
+2026-01-01,Colgate,Oral Care,5,95,C022,Madurai
+2026-03-24,Parle-G,Snacks,5,10,C024,Chennai
+2026-05-09,Red Label,Beverages,2,125,C039,Trichy
+2026-03-05,Red Label,Beverages,4,125,C037,Coimbatore
+2026-01-27,Tata Tea,Beverages,2,140,C028,Chennai
+2026-08-15,Lays,Snacks,12,20,C040,Chennai
+2026-02-28,Bru Coffee,Beverages,1,210,C056,Chennai
+2026-08-28,Lays,Snacks,5,20,C057,Coimbatore
+2026-03-11,Bru Coffee,Beverages,4,210,C005,Coimbatore
+2026-06-17,Pepsodent,Oral Care,2,88,C008,Chennai
+2026-09-12,Red Label,Beverages,2,125,C047,Trichy
+2026-02-06,Dove,Personal Care,1,62,C012,Chennai
+2026-02-20,Bru Coffee,Beverages,6,210,C060,Chennai
+2026-08-24,Colgate,Oral Care,4,95,C023,Trichy
+2026-01-26,Kurkure,Snacks,5,20,C019,Trichy
+2026-03-18,Colgate,Oral Care,3,95,C009,Coimbatore
+2026-04-19,Pepsodent,Oral Care,5,88,C005,Coimbatore
+2026-02-04,Colgate,Oral Care,2,95,C026,Madurai
+2026-06-18,Dove,Personal Care,1,62,C054,Madurai
+2026-04-26,Colgate,Oral Care,6,95,C029,Coimbatore
+2026-06-20,Colgate,Oral Care,2,95,C026,Madurai
+2026-09-16,Lux,Personal Care,15,38,C010,Madurai
+2026-09-25,Pepsodent,Oral Care,6,88,C059,Trichy
+2026-03-13,Colgate,Oral Care,1,95,C016,Chennai
+2026-06-19,Tata Tea,Beverages,6,140,C036,Chennai
+2026-09-11,Parle-G,Snacks,14,10,C053,Coimbatore
+2026-05-17,Colgate,Oral Care,1,95,C019,Trichy
+2026-08-11,Bru Coffee,Beverages,3,210,C058,Madurai
+2026-07-17,Tata Tea,Beverages,1,140,C033,Coimbatore
+2026-05-26,Lays,Snacks,12,20,C052,Chennai
+2026-07-25,Lux,Personal Care,7,38,C048,Chennai
+2026-06-20,Dove,Personal Care,2,62,C051,Trichy
+2026-07-25,Sensodyne,Oral Care,2,165,C041,Coimbatore
+2026-03-15,Colgate,Oral Care,6,95,C010,Madurai
+2026-07-18,Colgate,Oral Care,5,95,C021,Coimbatore
+2026-02-16,Lays,Snacks,9,20,C037,Coimbatore
+2026-05-03,Parle-G,Snacks,7,10,C037,Coimbatore
+2026-04-12,Lays,Snacks,13,20,C020,Chennai
+2026-05-01,Pepsodent,Oral Care,1,88,C003,Trichy
+2026-04-25,Bru Coffee,Beverages,1,210,C023,Trichy
+2026-05-21,Tata Tea,Beverages,5,140,C039,Trichy
+2026-02-09,Colgate,Oral Care,5,95,C003,Trichy
+2026-08-26,Colgate,Oral Care,2,95,C021,Coimbatore
+2026-07-08,Pepsodent,Oral Care,4,88,C003,Trichy
+2026-04-07,Lays,Snacks,15,20,C059,Trichy
+2026-06-22,Kurkure,Snacks,8,20,C046,Madurai
+2026-09-02,Parle-G,Snacks,13,10,C055,Trichy
+2026-03-04,Colgate,Oral Care,6,95,C030,Madurai
+2026-09-21,Dove,Personal Care,2,62,C050,Madurai
+2026-03-03,Tata Tea,Beverages,1,140,C035,Trichy
+2026-04-12,Colgate,Oral Care,6,95,C014,Madurai
+2026-03-02,Colgate,Oral Care,4,95,C018,Madurai
+2026-07-07,Tata Tea,Beverages,4,140,C007,Trichy
+2026-03-06,Tata Tea,Beverages,5,140,C039,Trichy
+2026-08-20,Colgate,Oral Care,5,95,C023,Trichy
+2026-08-09,Colgate,Oral Care,1,95,C029,Coimbatore
+2026-02-28,Lux,Personal Care,4,38,C046,Madurai
+2026-03-20,Colgate,Oral Care,5,95,C045,Coimbatore
+2026-05-15,Colgate,Oral Care,,95,C023,Trichy
+2026-07-26,Lays,Snacks,10,20,C052,Chennai
+2026-08-26,Lays,Snacks,12,20,C058,Madurai
+2026-04-02,Tata Tea,Beverages,3,140,C032,Chennai
+2026-03-05,Colgate,Oral Care,5,95,C026,Madurai
+2026-03-23,Pepsodent,Oral Care,3,88,C037,Coimbatore
+2026-09-12,Pepsodent,Oral Care,6,88,C012,Chennai
+2026-05-23,Lays,Snacks,3,20,C040,Chennai
+2026-02-11,Closeup,Oral Care,1,92,C045,Coimbatore
+2026-09-15,Red Label,Beverages,1,125,C037,Coimbatore
+2026-07-21,Tata Tea,Beverages,2,140,C050,Madurai
+2026-04-07,Bru Coffee,Beverages,5,210,C037,Coimbatore
+2026-03-24,Tata Tea,Beverages,4,140,C007,Trichy
+2026-01-20,Bru Coffee,Beverages,5,210,C009,Coimbatore
+2026-08-13,Colgate,Oral Care,6,95,C027,Trichy
+2026-03-15,Bru Coffee,Beverages,3,210,C054,Madurai
+2026-08-03,Pepsodent,Oral Care,3,88,C008,Chennai
+2026-09-19,Pepsodent,Oral Care,6,88,C040,Chennai
+2026-03-26,Closeup,Oral Care,1,92,C007,Trichy
+2026-03-06,Closeup,Oral Care,5,92,C056,Chennai
+2026-06-03,Tata Tea,Beverages,4,140,C018,Madurai
+2026-07-09,Pepsodent,Oral Care,3,88,C009,Coimbatore
+2026-02-10,Closeup,Oral Care,2,92,C052,Chennai
+2026-09-09,Pepsodent,Oral Care,4,88,C001,Coimbatore
+2026-08-11,Pepsodent,Oral Care,6,88,C015,Trichy
+2026-04-04,Lays,Snacks,6,20,C024,Chennai
+2026-06-23,Pepsodent,Oral Care,1,88,C012,Chennai
+2026-06-03,Bru Coffee,Beverages,2,210,C046,Madurai
+2026-03-02,Red Label,Beverages,6,125,C041,Coimbatore
+2026-03-03,Kurkure,Snacks,3,20,C058,Madurai
+2026-01-18,Parle-G,Snacks,14,10,C051,Trichy
+2026-07-20,Colgate,Oral Care,4,95,C030,Madurai
+2026-04-14,Tata Tea,Beverages,6,140,C038,Madurai
+2026-08-15,Lays,Snacks,13,20,C051,Trichy
+2026-09-03,Closeup,Oral Care,2,92,C060,Chennai
+2026-09-13,Lux,Personal Care,11,38,C033,Coimbatore
+2026-06-26,Lays,Snacks,3,20,C016,Chennai
+2026-02-10,Lux,Personal Care,11,38,C001,Coimbatore
+2026-06-05,Colgate,Oral Care,2,95,C023,Trichy
+2026-04-16,Red Label,Beverages,3,125,C044,Chennai
+2026-05-16,Dove,Personal Care,5,62,C032,Chennai
+2026-02-05,Colgate,Oral Care,1,95,C009,Coimbatore
+2026-06-25,Parle-G,Snacks,12,10,C033,Coimbatore
+2026-05-26,Tata Tea,Beverages,5,140,C054,Madurai
+2026-04-20,Colgate,Oral Care,3,95,C021,Coimbatore
+2026-06-20,Pepsodent,Oral Care,6,88,C007,Trichy
+2026-01-21,Closeup,Oral Care,3,92,C006,Madurai
+2026-06-09,Colgate,Oral Care,6,95,C030,Madurai
+2026-07-24,Closeup,Oral Care,3,92,C037,Coimbatore
+2026-09-04,Pepsodent,Oral Care,1,88,C003,Trichy
+2026-04-12,Dove,Personal Care,2,62,C034,Madurai
+2026-05-05,Lux,Personal Care,8,38,C033,Coimbatore
+2026-03-28,Tata Tea,Beverages,5,140,C051,Trichy
+2026-09-23,Pepsodent,Oral Care,3,88,C041,Coimbatore
+2026-09-07,Pepsodent,Oral Care,5,88,C011,Trichy
+2026-09-04,Colgate,Oral Care,5,95,C020,Chennai
+2026-05-02,Lux,Personal Care,12,38,C001,Coimbatore
+2026-02-15,Colgate,Oral Care,1,95,C002,Madurai
+2026-06-27,Pepsodent,Oral Care,5,88,C012,Chennai
+2026-01-16,Sensodyne,Oral Care,5,165,C053,Coimbatore
+2026-02-02,Dove,Personal Care,4,62,C027,Trichy
+2026-07-11,Pepsodent,Oral Care,3,88,C010,Madurai
+2026-08-01,Dove,Personal Care,2,62,C032,Chennai
+2026-08-28,Colgate,Oral Care,3,95,C026,Madurai
+2026-04-09,Closeup,Oral Care,2,92,C027,Trichy
+2026-05-20,Dove,Personal Care,6,62,C011,Trichy
+2026-07-21,Tata Tea,Beverages,4,140,C033,Coimbatore
+2026-09-17,Pepsodent,Oral Care,4,88,C004,Chennai
+2026-06-11,Tata Tea,Beverages,3,140,C045,Coimbatore
+2026-09-17,Lays,Snacks,15,20,C060,Chennai
+2026-05-18,Lux,Personal Care,8,38,C011,Trichy
+2026-07-06,Kurkure,Snacks,14,20,C044,Chennai
+2026-08-22,Sensodyne,Oral Care,1,165,C004,Chennai
+2026-02-16,Colgate,Oral Care,3,95,C003,Trichy
+2026-03-06,Kurkure,Snacks,15,20,C042,Madurai
+2026-05-18,Lux,Personal Care,15,38,C005,Coimbatore
+2026-07-20,Lux,Personal Care,5,38,C059,Trichy
+2026-08-20,Pepsodent,Oral Care,3,88,C059,Trichy
+2026-04-10,Colgate,Oral Care,2,95,C003,Trichy
+2026-04-28,Kurkure,Snacks,7,20,C050,Madurai
+2026-02-09,Sensodyne,Oral Care,5,165,C037,Coimbatore
+2026-01-20,Red Label,Beverages,1,125,C059,Trichy
+2026-03-12,Colgate,Oral Care,6,95,C009,Coimbatore
+2026-03-26,Bru Coffee,Beverages,6,210,C032,Chennai
+2026-09-18,Parle-G,Snacks,15,10,C047,Trichy
+2026-09-17,Colgate,Oral Care,4,95,C020,Chennai
+2026-03-08,Closeup,Oral Care,5,92,C060,Chennai
+2026-06-21,Colgate,Oral Care,6,95,C025,Coimbatore
+2026-09-07,Pepsodent,Oral Care,4,88,C015,Trichy
+2026-06-07,Colgate,Oral Care,6,95,C017,Coimbatore
+2026-05-26,Lays,Snacks,15,20,C019,Trichy
+2026-09-02,Tata Tea,Beverages,1,140,C057,Coimbatore
+2026-01-25,Bru Coffee,Beverages,6,210,C037,Coimbatore
+2026-06-26,Pepsodent,Oral Care,2,88,C038,Madurai
+2026-08-26,Parle-G,Snacks,12,10,C043,Trichy
+2026-04-04,Kurkure,Snacks,3,20,C043,Trichy
+2026-07-22,Colgate,Oral Care,5,95,C019,Trichy
+2026-04-09,Sensodyne,Oral Care,1,165,C039,Trichy
+2026-01-11,Tata Tea,Beverages,4,140,C052,Chennai
+2026-02-20,Lux,Personal Care,14,38,C034,Madurai
+2026-09-27,Kurkure,Snacks,7,20,C019,Trichy
+2026-09-04,Colgate,Oral Care,6,95,C024,Chennai
+2026-01-26,Colgate,Oral Care,1,95,C016,Chennai
+2026-09-26,Lays,Snacks,11,20,C056,Chennai
+2026-03-03,Bru Coffee,Beverages,5,210,C001,Coimbatore
+2026-04-01,Lays,Snacks,3,20,C039,Trichy
+2026-04-09,Tata Tea,Beverages,4,140,C059,Trichy
+2026-06-07,Bru Coffee,Beverages,3,210,C018,Madurai
+2026-02-25,Colgate,Oral Care,5,95,C026,Madurai
+2026-01-14,Tata Tea,Beverages,4,140,C038,Madurai
+2026-04-03,Lays,Snacks,7,20,C031,Trichy
+2026-09-15,Pepsodent,Oral Care,4,88,C003,Trichy
+2026-04-26,Colgate,Oral Care,4,95,C059,Trichy
+2026-03-11,Red Label,Beverages,5,125,C026,Madurai
+2026-02-24,Parle-G,Snacks,6,10,C054,Madurai
+2026-07-17,Colgate,Oral Care,2,95,C029,Coimbatore
+2026-08-25,Pepsodent,Oral Care,1,88,C006,Madurai
+2026-02-11,Bru Coffee,Beverages,4,210,C008,Chennai
+2026-01-08,Lays,Snacks,15,20,C043,Trichy
+2026-04-18,Lays,Snacks,14,20,C036,Chennai
+2026-01-06,Red Label,Beverages,3,125,C050,Madurai
+2026-07-23,Lays,Snacks,14,20,C045,Coimbatore
+2026-08-22,Kurkure,Snacks,10,20,C010,Madurai
+2026-02-09,Dove,Personal Care,3,62,C007,Trichy
+2026-09-21,Closeup,Oral Care,4,92,C059,Trichy
+2026-07-23,Pepsodent,Oral Care,2,88,C016,Chennai
+2026-09-26,Pepsodent,Oral Care,2,88,C013,Coimbatore
+2026-09-07,Pepsodent,Oral Care,5,88,C014,Madurai
+2026-05-17,Bru Coffee,Beverages,5,210,C017,Coimbatore
+2026-04-28,Lays,Snacks,5,20,C025,Coimbatore
+2026-02-20,Colgate,Oral Care,1,95,C059,Trichy
+2026-06-08,Pepsodent,Oral Care,4,88,C015,Trichy
+2026-03-14,Colgate,Oral Care,1,95,C013,Coimbatore
+2026-05-15,Lux,Personal Care,9,38,C009,Coimbatore
+2026-01-17,Colgate,Oral Care,1,95,C008,Chennai
+2026-06-17,Red Label,Beverages,1,125,C033,Coimbatore
+2026-06-20,Lays,Snacks,5,20,C019,Trichy
+2026-03-21,Lux,Personal Care,10,38,C031,Trichy
+2026-07-28,Tata Tea,Beverages,4,140,C040,Chennai
+2026-06-19,Bru Coffee,Beverages,5,210,C034,Madurai
+2026-09-28,Lux,Personal Care,4,38,C044,Chennai
+2026-03-10,Colgate,Oral Care,1,95,C020,Chennai
+2026-05-04,Parle-G,Snacks,13,10,C043,Trichy
+2026-04-23,Tata Tea,Beverages,1,140,C033,Coimbatore
+2026-09-15,Tata Tea,Beverages,6,140,C047,Trichy
+2026-02-17,Lays,Snacks,3,20,C038,Madurai
+2026-07-01,Lux,Personal Care,12,38,C020,Chennai
+2026-01-18,Lux,Personal Care,3,38,C012,Chennai
+2026-01-13,Bru Coffee,Beverages,2,210,C035,Trichy
+2026-04-16,Colgate,Oral Care,2,95,C008,Chennai
+2026-07-16,Dove,Personal Care,5,62,C032,Chennai
+2026-05-22,Red Label,Beverages,3,125,C053,Coimbatore
+2026-02-22,Tata Tea,Beverages,5,140,C053,Coimbatore
+2026-09-17,Pepsodent,Oral Care,4,88,C058,Madurai
+2026-04-27,Colgate,Oral Care,1,95,C003,Trichy
+2026-05-27,Colgate,Oral Care,1,95,C023,Trichy
+2026-03-24,Dove,Personal Care,6,62,C048,Chennai
+2026-09-19,Pepsodent,Oral Care,3,88,C043,Trichy
+2026-05-20,Pepsodent,Oral Care,1,88,C039,Trichy
+2026-02-18,Colgate,Oral Care,2,95,C025,Coimbatore
+2026-09-24,Tata Tea,Beverages,6,140,C058,Madurai
+2026-06-16,Parle-G,Snacks,4,10,C054,Madurai
+2026-04-20,Colgate,Oral Care,1,95,C019,Trichy
+2026-09-09,Closeup,Oral Care,4,92,C033,Coimbatore
+2026-05-16,Tata Tea,Beverages,4,140,C009,Coimbatore
+2026-09-13,Closeup,Oral Care,3,92,C041,Coimbatore
+2026-05-06,Parle-G,Snacks,10,10,C033,Coimbatore
+2026-01-25,Colgate,Oral Care,3,95,C025,Coimbatore
+2026-04-01,Sensodyne,Oral Care,3,165,C049,Coimbatore
+2026-04-13,Tata Tea,Beverages,6,140,C010,Madurai
+2026-04-04,Colgate,Oral Care,4,95,C019,Trichy
+2026-08-15,Lays,Snacks,8,20,C049,Coimbatore
+2026-04-20,Colgate,Oral Care,2,95,C025,Coimbatore
+2026-05-17,Closeup,Oral Care,3,92,C038,Madurai
+2026-01-20,Dove,Personal Care,1,62,C035,Trichy
+2026-08-03,Dove,Personal Care,6,62,C049,Coimbatore
+2026-02-15,Colgate,Oral Care,6,95,C001,Coimbatore
+2026-08-14,Dove,Personal Care,1,62,C016,Chennai
+2026-06-07,tata tea,Beverages,3,140,C008,Chennai
+2026-03-13,Sensodyne,Oral Care,1,165,C041,Coimbatore
+2026-01-01,Sensodyne,Oral Care,2,165,C001,Coimbatore
+2026-08-04,Tata Tea,Beverages,4,140,C059,Trichy
+2026-05-12,Pepsodent,Oral Care,1,88,C015,Trichy
+2026-01-01,Colgate,Oral Care,2,95,C002,Madurai
+2026-03-08,Kurkure,Snacks,14,20,C053,Coimbatore
+2026-06-24,Colgate,Oral Care,6,95,C027,Trichy
+2026-09-25,Pepsodent,Oral Care,1,88,C014,Madurai
+2026-04-03,Bru Coffee,Beverages,1,210,C035,Trichy
+2026-06-09,Lays,Snacks,9,20,C025,Coimbatore
+2026-09-06,Tata Tea,Beverages,1,140,C050,Madurai
+2026-02-16,Sensodyne,Oral Care,6,165,C006,Madurai
+2026-06-20,Pepsodent,Oral Care,6,88,C014,Madurai
+2026-03-10,Colgate,Oral Care,5,95,C004,Chennai
+2026-09-21,Pepsodent,Oral Care,5,88,C005,Coimbatore
+2026-08-23,Pepsodent,Oral Care,2,88,C045,Coimbatore
+2026-02-13,Bru Coffee,Beverages,2,210,C040,Chennai
+2026-02-20,Colgate,Oral Care,3,95,C023,Trichy
+2026-04-25,Dove,Personal Care,6,62,C043,Trichy
+2026-04-01,Lux,Personal Care,8,38,C038,Madurai
+2026-02-03,Colgate,Oral Care,,95,C002,Madurai
+2026-02-03,Tata Tea,Beverages,3,140,C042,Madurai
+2026-01-17,Red Label,Beverages,5,125,C036,Chennai
+2026-07-08,Bru Coffee,Beverages,4,210,C042,Madurai
+2026-01-03,Lux,Personal Care,8,38,C032,Chennai
+2026-02-18,Lux,Personal Care,12,38,C059,Trichy
+2026-07-16,Pepsodent,Oral Care,4,88,C025,Coimbatore
+2026-06-09,Tata Tea,Beverages,4,140,C055,Trichy
+2026-09-17,Tata Tea,Beverages,3,140,C037,Coimbatore
+2026-01-21,Closeup,Oral Care,3,92,C060,Chennai
+2026-01-28,Dove,Personal Care,5,62,C011,Trichy
+2026-07-17,Lays,Snacks,5,20,C018,Madurai
+2026-05-13,Red Label,Beverages,2,125,C027,Trichy
+2026-08-03,Parle-G,Snacks,15,10,C035,Trichy
+2026-07-14,Tata Tea,Beverages,2,140,C019,Trichy
+2026-09-04,Sensodyne,Oral Care,3,165,C054,Madurai
+2026-04-13,Colgate,Oral Care,2,95,C018,Madurai
+2026-05-20,Pepsodent,Oral Care,6,88,C050,Madurai
+2026-06-15,Colgate,Oral Care,1,95,C026,Madurai
+2026-02-03,Bru Coffee,Beverages,1,210,C043,Trichy
+2026-07-22,Pepsodent,Oral Care,6,88,C004,Chennai
+2026-05-10,Tata Tea,Beverages,1,140,C044,Chennai
+2026-05-17,Sensodyne,Oral Care,6,165,C051,Trichy
+2026-03-24,Sensodyne,Oral Care,3,165,C059,Trichy
+2026-03-22,Red Label,Beverages,4,125,C048,Chennai
+2026-05-10,Red Label,Beverages,5,125,C037,Coimbatore
+2026-08-12,Tata Tea,Beverages,6,140,C023,Trichy
+2026-09-11,Pepsodent,Oral Care,6,88,C009,Coimbatore
+2026-04-14, Red Label ,Beverages,3,125,C029,Coimbatore
+2026-06-17,Pepsodent,Oral Care,6,88,C015,Trichy
+2026-04-02,Lays,Snacks,4,20,C001,Coimbatore
+2026-08-25,Pepsodent,Oral Care,4,88,C031,Trichy
+2026-03-06,Colgate,Oral Care,5,95,C023,Trichy
+2026-03-21,Sensodyne,Oral Care,6,165,C014,Madurai
+2026-08-22,Bru Coffee,Beverages,6,210,C038,Madurai
+2026-03-11,Lays,Snacks,15,20,C047,Trichy
+2026-08-25,Tata Tea,Beverages,1,140,C030,Madurai
+2026-02-19,Closeup,Oral Care,4,92,C022,Madurai
+2026-03-07,Colgate,Oral Care,3,95,C019,Trichy
+2026-08-18,Kurkure,Snacks,14,20,C055,Trichy
+2026-06-21,Lays,Snacks,3,20,C009,Coimbatore
+2026-07-18,Closeup,Oral Care,4,92,C044,Chennai
+2026-05-09,Pepsodent,Oral Care,2,88,C011,Trichy
+2026-09-12,Pepsodent,Oral Care,5,88,C001,Coimbatore
+2026-06-27,Lux,Personal Care,15,38,C012,Chennai
+2026-09-15,Tata Tea,Beverages,5,140,C054,Madurai
+2026-08-16,Pepsodent,Oral Care,4,88,C050,Madurai
+2026-07-11,Tata Tea,Beverages,6,140,C019,Trichy
+2026-01-19, Colgate ,Oral Care,5,95,C008,Chennai
+2026-05-25,Colgate,Oral Care,3,95,C022,Madurai
+2026-07-15,Pepsodent,Oral Care,5,88,C016,Chennai
+2026-08-21,Parle-G,Snacks,7,10,C045,Coimbatore
+2026-04-09,Tata Tea,Beverages,2,140,C058,Madurai
+2026-02-17,Bru Coffee,Beverages,6,210,C040,Chennai
+2026-04-23,Dove,Personal Care,5,62,C020,Chennai
+2026-05-03,Red Label,Beverages,5,125,C051,Trichy
+2026-01-22,Kurkure,Snacks,9,20,C040,Chennai
+2026-06-20,Lays,Snacks,7,20,C039,Trichy
+2026-03-02,Lays,Snacks,8,20,C008,Chennai
+2026-05-09,Dove,Personal Care,3,62,C028,Chennai
+2026-08-28,Dove,Personal Care,2,62,C038,Madurai
+2026-05-12,Tata Tea,Beverages,3,140,C031,Trichy
+2026-07-10,Colgate,Oral Care,1,95,C028,Chennai
+2026-09-04,Lays,Snacks,7,20,C045,Coimbatore
+2026-01-08,Colgate,Oral Care,1,95,C021,Coimbatore
+2026-09-27,Bru Coffee,Beverages,6,210,C015,Trichy
+2026-05-13,Tata Tea,Beverages,2,140,C051,Trichy
+2026-07-21,Tata Tea,Beverages,3,140,C024,Chennai
+2026-05-18,Dove,Personal Care,6,62,C059,Trichy
+2026-03-23,Red Label,Beverages,1,125,C023,Trichy
+2026-02-21,Lays,Snacks,12,20,C045,Coimbatore
+2026-04-28,Colgate,Oral Care,6,95,C026,Madurai
+2026-02-22,Colgate,Oral Care,1,95,C013,Coimbatore
+2026-03-16,Sensodyne,Oral Care,2,165,C050,Madurai
+2026-03-03,Colgate,Oral Care,4,95,C012,Chennai
+2026-05-19,Kurkure,Snacks,10,20,C034,Madurai
+2026-02-08,Tata Tea,Beverages,2,140,C043,Trichy
+2026-09-14,Dove,Personal Care,6,62,C047,Trichy
+2026-04-14,Red Label,Beverages,1,125,C050,Madurai
+2026-06-15,Lays,Snacks,5,20,C056,Chennai
+2026-03-14,Colgate,Oral Care,5,95,C059,Trichy
+2026-06-13,Pepsodent,Oral Care,4,88,C013,Coimbatore
+2026-04-08,Closeup,Oral Care,4,92,C007,Trichy
+2026-08-26,Pepsodent,Oral Care,2,88,C007,Trichy
+2026-02-27,Tata Tea,Beverages,2,140,C024,Chennai
+2026-05-05,Lux,Personal Care,13,38,C060,Chennai
+2026-03-23,Colgate,Oral Care,2,95,C004,Chennai
+2026-06-26,Bru Coffee,Beverages,3,210,C054,Madurai
+2026-07-26,Sensodyne,Oral Care,6,165,C045,Coimbatore
+2026-08-17,Sensodyne,Oral Care,6,165,C046,Madurai
+2026-07-07,Pepsodent,Oral Care,3,88,C007,Trichy
+2026-04-03,Bru Coffee,Beverages,2,210,C040,Chennai
+2026-09-11,Bru Coffee,Beverages,6,210,C043,Trichy
+2026-06-07,Red Label,Beverages,3,125,C051,Trichy
+2026-03-27,Colgate,Oral Care,2,95,C013,Coimbatore
+2026-01-02,Closeup,Oral Care,4,92,C039,Trichy
+2026-01-25,Colgate,Oral Care,6,95,C010,Madurai
+2026-03-11,Lux,Personal Care,3,38,C035,Trichy
+2026-03-23,Colgate,Oral Care,4,95,C016,Chennai
+2026-02-07,Colgate,Oral Care,2,95,C005,Coimbatore
+2026-04-22,Colgate,Oral Care,6,95,C012,Chennai
+2026-01-22,Tata Tea,Beverages,2,140,C034,Madurai
+2026-04-28,Closeup,Oral Care,6,92,C034,Madurai
+2026-01-15,Pepsodent,Oral Care,4,88,C036,Chennai
+2026-05-07,Kurkure,Snacks,12,20,C038,Madurai
+2026-07-14,Bru Coffee,Beverages,6,210,C054,Madurai
+2026-08-15,Pepsodent,Oral Care,5,88,C004,Chennai
+2026-05-01,Pepsodent,Oral Care,2,88,C008,Chennai
+2026-02-27,Closeup,Oral Care,2,92,C024,Chennai
+2026-09-27,Parle-G,Snacks,6,10,C044,Chennai
+2026-03-18,Red Label,Beverages,4,125,C044,Chennai
+2026-07-07,Closeup,Oral Care,6,92,C027,Trichy
+2026-05-13,Colgate,Oral Care,5,95,C022,Madurai
+2026-01-08,Closeup,Oral Care,6,92,C036,Chennai
+2026-03-01,Sensodyne,Oral Care,5,165,C055,Trichy
+2026-08-19,Pepsodent,Oral Care,1,88,C043,Trichy
+2026-06-03,Pepsodent,Oral Care,2,88,C038,Madurai
+2026-09-06,Pepsodent,Oral Care,1,88,C008,Chennai
+2026-07-11, Red Label ,Beverages,2,125,C035,Trichy
+2026-05-25,Bru Coffee,Beverages,6,210,C043,Trichy
+2026-08-04,Tata Tea,Beverages,4,140,C030,Madurai
+2026-07-24,Pepsodent,Oral Care,5,88,C013,Coimbatore
+2026-03-03,Dove,Personal Care,1,62,C038,Madurai
+2026-02-12,Lays,Snacks,12,20,C055,Trichy
+2026-03-07,Lays,Snacks,5,20,C039,Trichy
+2026-03-13,Red Label,Beverages,2,125,C060,Chennai
+2026-03-28,Lux,Personal Care,3,38,C032,Chennai
+2026-02-20,Colgate,Oral Care,4,95,C029,Coimbatore
+2026-09-07,Red Label,Beverages,4,125,C013,Coimbatore
+2026-04-15,Sensodyne,Oral Care,1,165,C053,Coimbatore
+2026-08-23,Tata Tea,Beverages,1,140,C027,Trichy
+2026-03-15,Dove,Personal Care,4,62,C043,Trichy
+2026-08-19, Closeup ,Oral Care,5,92,C013,Coimbatore
+2026-03-27,Colgate,Oral Care,5,95,C018,Madurai
+2026-09-01,Kurkure,Snacks,3,20,C023,Trichy
+2026-06-26,Colgate,Oral Care,6,95,C019,Trichy
+2026-01-16,Lays,Snacks,12,20,C043,Trichy
+2026-07-14,Parle-G,Snacks,4,10,C053,Coimbatore
+2026-05-13,Red Label,Beverages,5,125,C058,Madurai
+2026-05-16,Sensodyne,Oral Care,4,165,C024,Chennai
+2026-04-13,BRU COFFEE,Beverages,6,210,C054,Madurai
+2026-08-02,Dove,Personal Care,2,62,C048,Chennai
+2026-08-07,Dove,Personal Care,4,62,C051,Trichy
+2026-03-11,Tata Tea,Beverages,6,140,C033,Coimbatore
+2026-08-08,Colgate,Oral Care,,95,C025,Coimbatore
+2026-08-06,Tata Tea,Beverages,2,140,C051,Trichy
+2026-08-15,Pepsodent,Oral Care,6,88,C015,Trichy
+2026-09-08,Tata Tea,Beverages,4,140,C029,Coimbatore
+2026-02-24,Red Label,Beverages,4,125,C054,Madurai
+2026-01-16,Bru Coffee,Beverages,3,210,C052,Chennai
+2026-03-27,Dove,Personal Care,5,62,C047,Trichy
+2026-08-04,Lays,Snacks,8,20,C034,Madurai
+2026-07-07,Tata Tea,Beverages,3,140,C059,Trichy
+2026-03-02,dove,Personal Care,3,62,C004,Chennai
+2026-09-07,Tata Tea,Beverages,4,140,C036,Chennai
+2026-09-27,Colgate,Oral Care,2,95,C020,Chennai
+2026-07-05,Pepsodent,Oral Care,1,88,C002,Madurai
+2026-06-23,Bru Coffee,Beverages,2,210,C033,Coimbatore
+2026-03-13,Pepsodent,Oral Care,6,88,C043,Trichy
+2026-02-04,Kurkure,Snacks,4,20,C011,Trichy
+2026-04-22,Dove,Personal Care,2,62,C047,Trichy
+2026-09-09,Pepsodent,Oral Care,3,88,C001,Coimbatore
+2026-06-17,Sensodyne,Oral Care,2,165,C026,Madurai
+2026-02-25,Kurkure,Snacks,10,20,C059,Trichy
+2026-07-14,Tata Tea,Beverages,3,140,C057,Coimbatore
+2026-05-20,Dove,Personal Care,5,62,C058,Madurai
+2026-04-14,Colgate,Oral Care,3,95,C008,Chennai
+2026-08-21,Sensodyne,Oral Care,5,165,C036,Chennai
+2026-05-22,Bru Coffee,Beverages,,210,C040,Chennai
+2026-07-02,Closeup,Oral Care,2,92,C051,Trichy
+2026-01-11,Pepsodent,Oral Care,2,88,C034,Madurai
+2026-03-27,Colgate,Oral Care,2,95,C028,Chennai
+2026-01-27,Closeup,Oral Care,3,92,C044,Chennai
+2026-07-15,Red Label,Beverages,1,125,C042,Madurai
+2026-06-03,Parle-G,Snacks,13,10,C021,Coimbatore
+2026-07-02,Pepsodent,Oral Care,4,88,C007,Trichy
+2026-01-26,Parle-G,Snacks,5,10,C003,Trichy
+2026-06-14,Tata Tea,Beverages,1,140,C034,Madurai
+2026-03-13,Closeup,Oral Care,5,92,C050,Madurai
+2026-02-12,Tata Tea,Beverages,4,140,C014,Madurai
+2026-03-11,Colgate,Oral Care,3,95,C006,Madurai
+2026-03-15,Parle-G,Snacks,10,10,C040,Chennai
+2026-05-11,Dove,Personal Care,3,62,C003,Trichy
+2026-01-02,Lays,Snacks,14,20,C057,Coimbatore
+2026-07-10,Colgate,Oral Care,6,95,C030,Madurai
+2026-04-13,Colgate,Oral Care,4,95,C001,Coimbatore
+2026-05-11,Sensodyne,Oral Care,2,165,C003,Trichy
+2026-05-08,Parle-G,Snacks,14,10,C002,Madurai
+2026-06-13,Dove,Personal Care,2,62,C050,Madurai
+2026-06-26,Tata Tea,Beverages,5,140,C037,Coimbatore
+2026-01-09,Colgate,Oral Care,5,95,C007,Trichy
+2026-07-16,Pepsodent,Oral Care,3,88,C009,Coimbatore
+2026-09-24,Tata Tea,Beverages,1,140,C004,Chennai
+2026-09-15,Red Label,Beverages,4,125,C049,Coimbatore
+2026-05-28,Tata Tea,Beverages,2,140,C001,Coimbatore
+2026-06-26,Red Label,Beverages,4,125,C033,Coimbatore
+2026-02-22,Red Label,Beverages,1,125,C004,Chennai
+2026-01-18,Parle-G,Snacks,7,10,C033,Coimbatore
+2026-09-28,Pepsodent,Oral Care,6,88,C050,Madurai
+2026-06-22,Pepsodent,Oral Care,2,88,C009,Coimbatore
+2026-07-23,Pepsodent,Oral Care,1,88,C006,Madurai
+2026-08-20,Colgate,Oral Care,4,95,C020,Chennai
+2026-04-14,Colgate,Oral Care,3,95,C012,Chennai
+2026-02-10,Colgate,Oral Care,1,95,C027,Trichy
+2026-01-08,Dove,Personal Care,1,62,C036,Chennai
+2026-03-09,Sensodyne,Oral Care,3,165,C027,Trichy
+2026-02-11,Lux,Personal Care,6,38,C008,Chennai
+2026-02-15,Dove,Personal Care,2,62,C057,Coimbatore
+2026-03-22,Sensodyne,Oral Care,2,165,C029,Coimbatore
+2026-05-22,Colgate,Oral Care,6,95,C018,Madurai
+2026-05-03,Pepsodent,Oral Care,1,88,C010,Madurai
+2026-01-03,Pepsodent,Oral Care,1,88,C020,Chennai
+2026-05-04,Red Label,Beverages,5,125,C047,Trichy
+2026-08-28,Colgate,Oral Care,4,95,C017,Coimbatore
+2026-07-11,Kurkure,Snacks,4,20,C058,Madurai
+2026-02-02,Sensodyne,Oral Care,6,165,C011,Trichy
+2026-03-09,Closeup,Oral Care,1,92,C034,Madurai
+2026-05-18,Colgate,Oral Care,1,95,C030,Madurai
+2026-06-02,Lays,Snacks,8,20,C060,Chennai
+2026-05-01,Pepsodent,Oral Care,6,88,C011,Trichy
+2026-02-12,Sensodyne,Oral Care,3,165,C058,Madurai
+2026-04-04,Colgate,Oral Care,2,95,C006,Madurai
+2026-07-01,Colgate,Oral Care,3,95,C020,Chennai
+2026-09-17,Tata Tea,Beverages,6,140,C022,Madurai
+2026-07-07,Sensodyne,Oral Care,5,165,C029,Coimbatore
+2026-06-22,Lays,Snacks,11,20,C001,Coimbatore
+2026-09-22,Pepsodent,Oral Care,2,88,C004,Chennai
+2026-05-26,Tata Tea,Beverages,2,140,C038,Madurai
+2026-09-20,Lux,Personal Care,13,38,C012,Chennai
+2026-02-08,Colgate,Oral Care,3,95,C013,Coimbatore
+2026-09-07,Colgate,Oral Care,1,95,C023,Trichy
+2026-02-25,Lays,Snacks,5,20,C015,Trichy
+2026-01-20,Bru Coffee,Beverages,4,210,C033,Coimbatore
+2026-02-03,Colgate,Oral Care,1,95,C030,Madurai
+2026-05-25,Closeup,Oral Care,6,92,C015,Trichy
+2026-03-12,Lux,Personal Care,13,38,C049,Coimbatore
+2026-06-24,Lux,Personal Care,3,38,C024,Chennai
+2026-06-21,Colgate,Oral Care,6,95,C016,Chennai
+2026-04-20,Lays,Snacks,10,20,C035,Trichy
+2026-04-07,Kurkure,Snacks,14,20,C003,Trichy
+2026-01-18,Colgate,Oral Care,3,95,C026,Madurai
+2026-06-23,Lux,Personal Care,3,38,C039,Trichy
+2026-02-05,Colgate,Oral Care,5,95,C009,Coimbatore
+2026-06-22,Bru Coffee,Beverages,1,210,C048,Chennai
+2026-09-13,Colgate,Oral Care,6,95,C030,Madurai
+2026-07-11,Red Label,Beverages,4,125,C060,Chennai
+2026-08-12,Tata Tea,Beverages,6,140,C056,Chennai
+2026-08-09,Colgate,Oral Care,1,95,C023,Trichy
+2026-09-02,Colgate,Oral Care,6,95,C024,Chennai
+2026-01-07,Colgate,Oral Care,2,95,C017,Coimbatore
+2026-08-08,Sensodyne,Oral Care,5,165,C045,Coimbatore
+2026-03-07,Bru Coffee,Beverages,3,210,C058,Madurai
+2026-09-24,Dove,Personal Care,2,62,C031,Trichy
+2026-08-18,Tata Tea,Beverages,4,140,C034,Madurai
+2026-06-12,Lays,Snacks,15,20,C055,Trichy
+2026-02-06,Colgate,Oral Care,4,95,C012,Chennai
+2026-02-23,Parle-G,Snacks,8,10,C034,Madurai
+2026-01-08,Lux,Personal Care,6,38,C005,Coimbatore
+2026-01-16,Colgate,Oral Care,3,95,C040,Chennai
+2026-08-01,Sensodyne,Oral Care,1,165,C040,Chennai
+2026-07-01,Pepsodent,Oral Care,5,88,C032,Chennai
+2026-06-08,Tata Tea,Beverages,4,140,C046,Madurai
+2026-01-11,Colgate,Oral Care,3,95,C050,Madurai
+2026-01-04,Parle-G,Snacks,7,10,C054,Madurai
+2026-05-09,Colgate,Oral Care,4,95,C024,Chennai
+2026-02-23,Lays,Snacks,7,20,C041,Coimbatore
+2026-09-12,Lux,Personal Care,8,38,C032,Chennai
+2026-03-06,Tata Tea,Beverages,1,140,C007,Trichy
+2026-04-11,Parle-G,Snacks,6,10,C036,Chennai
+2026-01-15,Kurkure,Snacks,15,20,C044,Chennai
+2026-05-26,Closeup,Oral Care,4,92,C059,Trichy
+2026-09-28,Sensodyne,Oral Care,1,165,C039,Trichy
+2026-07-12,Dove,Personal Care,2,62,C010,Madurai
+2026-01-28,Colgate,Oral Care,2,95,C027,Trichy
+2026-04-01,Colgate,Oral Care,2,95,C030,Madurai
+2026-03-13,Lays,Snacks,12,20,C052,Chennai
+2026-04-18,Kurkure,Snacks,6,20,C049,Coimbatore
+2026-05-27,Colgate,Oral Care,2,95,C022,Madurai
+2026-06-05,Colgate,Oral Care,5,95,C022,Madurai
+2026-01-28,Colgate,Oral Care,4,95,C024,Chennai
+2026-07-16,Pepsodent,Oral Care,1,88,C005,Coimbatore
+2026-01-28,Kurkure,Snacks,13,20,C017,Coimbatore
+2026-05-22,Lays,Snacks,6,20,C030,Madurai
+2026-09-27,Sensodyne,Oral Care,3,165,C058,Madurai
+2026-05-04,Lux,Personal Care,9,38,C055,Trichy
+2026-01-18,Colgate,Oral Care,6,95,C008,Chennai
+2026-06-25,Red Label,Beverages,5,125,C009,Coimbatore
+2026-05-11,Pepsodent,Oral Care,4,88,C020,Chennai
+2026-09-07,Pepsodent,Oral Care,3,88,C049,Coimbatore
+2026-01-26,Lux,Personal Care,15,38,C047,Trichy
+2026-01-11,Closeup,Oral Care,1,92,C055,Trichy
+2026-04-14,Tata Tea,Beverages,4,140,C022,Madurai
+2026-07-05,Bru Coffee,Beverages,5,210,C039,Trichy
+2026-03-01,Tata Tea,Beverages,6,140,C057,Coimbatore
+2026-09-12,Colgate,Oral Care,3,95,C021,Coimbatore
+2026-05-02,Lays,Snacks,9,20,C039,Trichy
+2026-05-09,Lays,Snacks,3,20,C048,Chennai
+2026-07-26,Pepsodent,Oral Care,1,88,C023,Trichy
+2026-08-22,Lays,Snacks,7,20,C030,Madurai
+2026-02-22,Lux,Personal Care,12,38,C045,Coimbatore
+2026-09-11,Red Label,Beverages,3,125,C007,Trichy
+2026-02-24,Colgate,Oral Care,,95,C030,Madurai
+2026-01-19,Red Label,Beverages,1,125,C026,Madurai
+2026-06-08,Lays,Snacks,5,20,C040,Chennai
+2026-06-17,Red Label,Beverages,1,125,C010,Madurai
+2026-03-25,Lays,Snacks,15,20,C026,Madurai
+2026-01-27,Colgate,Oral Care,5,95,C013,Coimbatore
+2026-04-06,Tata Tea,Beverages,3,140,C044,Chennai
+2026-03-10,Tata Tea,Beverages,6,140,C031,Trichy
+2026-09-16,Red Label,Beverages,3,125,C045,Coimbatore
+2026-01-22,Kurkure,Snacks,11,20,C010,Madurai
+2026-08-24,Tata Tea,Beverages,4,140,C032,Chennai
+2026-06-06,Red Label,Beverages,2,125,C053,Coimbatore
+2026-04-03,Kurkure,Snacks,8,20,C054,Madurai
+2026-02-05,Kurkure,Snacks,13,20,C044,Chennai
+2026-09-08,Colgate,Oral Care,6,95,C022,Madurai
+2026-08-03,Tata Tea,Beverages,6,140,C058,Madurai
+2026-05-08,Kurkure,Snacks,7,20,C031,Trichy
+2026-01-02,Bru Coffee,Beverages,5,210,C020,Chennai
+2026-04-21,Parle-G,Snacks,3,10,C049,Coimbatore
+2026-06-01,Lays,Snacks,15,20,C021,Coimbatore
+2026-07-13,Bru Coffee,Beverages,1,210,C047,Trichy
+2026-07-21,Colgate,Oral Care,1,95,C016,Chennai
+2026-04-17,Parle-G,Snacks,14,10,C042,Madurai
+2026-07-27,Bru Coffee,Beverages,6,210,C017,Coimbatore
+2026-01-06,Bru Coffee,Beverages,4,210,C025,Coimbatore
+2026-07-10,Pepsodent,Oral Care,4,88,C002,Madurai
+2026-01-07,Kurkure,Snacks,13,20,C006,Madurai
+2026-06-24,Tata Tea,Beverages,3,140,C047,Trichy
+2026-09-25,Closeup,Oral Care,3,92,C006,Madurai
+2026-02-07,Colgate,Oral Care,5,95,C004,Chennai
+2026-02-18,Tata Tea,Beverages,3,140,C051,Trichy
+2026-07-26,Tata Tea,Beverages,4,140,C012,Chennai
+2026-05-20,Pepsodent,Oral Care,5,88,C007,Trichy
+2026-08-26,Lays,Snacks,9,20,C038,Madurai
+2026-05-24,Lays,Snacks,4,20,C052,Chennai
+2026-09-19,Lays,Snacks,15,20,C033,Coimbatore
+2026-04-06,Tata Tea,Beverages,6,140,C043,Trichy
+2026-01-08,Pepsodent,Oral Care,5,88,C017,Coimbatore
+2026-03-05,Bru Coffee,Beverages,4,210,C040,Chennai
+2026-02-12,Lays,Snacks,6,20,C054,Madurai
+2026-09-05,Colgate,Oral Care,3,95,C028,Chennai
+2026-03-06,Lays,Snacks,13,20,C034,Madurai
+2026-04-14,Colgate,Oral Care,1,95,C004,Chennai
+2026-01-20,Lays,Snacks,10,20,C033,Coimbatore
+2026-05-16,Red Label,Beverages,2,125,C020,Chennai
+2026-06-05,Pepsodent,Oral Care,3,88,C007,Trichy
+2026-06-18,Red Label,Beverages,4,125,C052,Chennai
+2026-07-15,Lays,Snacks,4,20,C025,Coimbatore
+2026-02-12,Dove,Personal Care,3,62,C033,Coimbatore
+2026-09-10,Colgate,Oral Care,4,95,C016,Chennai
+2026-03-15,Closeup,Oral Care,3,92,C056,Chennai
+2026-09-07,Tata Tea,Beverages,3,140,C046,Madurai
+2026-08-01,Parle-G,Snacks,6,10,C019,Trichy
+2026-04-06,Colgate,Oral Care,6,95,C026,Madurai
+2026-09-09,Kurkure,Snacks,15,20,C033,Coimbatore
+2026-03-19,Red Label,Beverages,5,125,C040,Chennai
+2026-04-26,Colgate,Oral Care,4,95,C010,Madurai
+2026-04-25,Kurkure,Snacks,4,20,C052,Chennai
+2026-06-24,Tata Tea,Beverages,2,140,C052,Chennai
+2026-08-07,Pepsodent,Oral Care,5,88,C037,Coimbatore
+2026-01-04,Dove,Personal Care,3,62,C012,Chennai
+2026-02-02,Sensodyne,Oral Care,4,165,C058,Madurai
+2026-01-20,Parle-G,Snacks,11,10,C049,Coimbatore
+2026-09-01,Lux,Personal Care,3,38,C037,Coimbatore
+2026-09-01,Lays,Snacks,5,20,C040,Chennai
+2026-09-21,Lays,Snacks,5,20,C046,Madurai
+2026-02-03,Dove,Personal Care,2,62,C036,Chennai
+2026-07-28,Sensodyne,Oral Care,5,165,C057,Coimbatore
+2026-02-04,Parle-G,Snacks,13,10,C058,Madurai
+2026-01-12,Colgate,Oral Care,2,95,C026,Madurai
+2026-01-19,Pepsodent,Oral Care,3,88,C019,Trichy
+2026-07-22,Parle-G,Snacks,6,10,C014,Madurai
+2026-05-13,Red Label,Beverages,4,125,C035,Trichy
+2026-04-11,Tata Tea,Beverages,3,140,C009,Coimbatore
+2026-06-13,Lays,Snacks,7,20,C043,Trichy
+2026-02-05,Dove,Personal Care,1,62,C056,Chennai
+2026-01-18,Colgate,Oral Care,2,95,C050,Madurai
+2026-06-02,Pepsodent,Oral Care,,88,C002,Madurai
+2026-05-20,Red Label,Beverages,4,125,C035,Trichy
+2026-03-11,Closeup,Oral Care,4,92,C034,Madurai
+2026-04-15,Colgate,Oral Care,3,95,C006,Madurai
+2026-04-08, Lays ,Snacks,5,20,C018,Madurai
+2026-03-05,Colgate,Oral Care,2,95,C025,Coimbatore
+2026-02-14,Sensodyne,Oral Care,4,165,C003,Trichy
+2026-01-15,Sensodyne,Oral Care,2,165,C037,Coimbatore
+2026-01-09,Lux,Personal Care,10,38,C055,Trichy
+2026-08-27,Closeup,Oral Care,5,92,C012,Chennai
+2026-03-23,Tata Tea,Beverages,2,140,C049,Coimbatore
+2026-02-12,Dove,Personal Care,4,62,C031,Trichy
+2026-07-28,Colgate,Oral Care,6,95,C027,Trichy
+2026-09-20,Bru Coffee,Beverages,6,210,C046,Madurai
+2026-03-22,Parle-G,Snacks,14,10,C040,Chennai
+2026-01-09,Parle-G,Snacks,10,10,C042,Madurai
+2026-04-10,Colgate,Oral Care,3,95,C020,Chennai
+2026-09-05,Closeup,Oral Care,1,92,C010,Madurai
+2026-02-16,Bru Coffee,Beverages,1,210,C047,Trichy
+2026-06-27,Bru Coffee,Beverages,4,210,C026,Madurai
+2026-09-22,Colgate,Oral Care,1,95,C030,Madurai
+2026-07-06,Pepsodent,Oral Care,3,88,C013,Coimbatore
+2026-06-26,Bru Coffee,Beverages,2,210,C040,Chennai
+2026-05-07,Kurkure,Snacks,3,20,C035,Trichy
+2026-02-22,Lays,Snacks,10,20,C038,Madurai
+2026-09-12,Colgate,Oral Care,5,95,C017,Coimbatore
+2026-03-02,Colgate,Oral Care,6,95,C022,Madurai
+2026-05-06,Pepsodent,Oral Care,4,88,C042,Madurai
+2026-06-11,Pepsodent,Oral Care,6,88,C004,Chennai
+2026-03-27,Colgate,Oral Care,1,95,C044,Chennai
+2026-09-05,Pepsodent,Oral Care,5,88,C008,Chennai
+2026-06-13,Pepsodent,Oral Care,3,88,C006,Madurai
+2026-07-01,Lays,Snacks,14,20,C058,Madurai
+2026-05-27,Kurkure,Snacks,5,20,C048,Chennai
+2026-06-16,Tata Tea,Beverages,3,140,C036,Chennai
+2026-06-01,Pepsodent,Oral Care,5,88,C015,Trichy
+2026-03-10,Dove,Personal Care,2,62,C050,Madurai
+2026-06-09,Lays,Snacks,9,20,C044,Chennai
+2026-03-28,Colgate,Oral Care,2,95,C014,Madurai
+2026-02-06,Tata Tea,Beverages,3,140,C048,Chennai
+2026-09-03,Lays,Snacks,11,20,C045,Coimbatore
+2026-06-03,Dove,Personal Care,2,62,C020,Chennai
+2026-09-06,Pepsodent,Oral Care,6,88,C007,Trichy
+2026-07-25,Pepsodent,Oral Care,6,88,C012,Chennai
+2026-03-27,Parle-G,Snacks,13,10,C003,Trichy
+2026-09-19,Closeup,Oral Care,4,92,C043,Trichy
+2026-09-04,Tata Tea,Beverages,4,140,C032,Chennai
+2026-09-06,Lays,Snacks,8,20,C044,Chennai
+2026-04-15,Red Label,Beverages,4,125,C012,Chennai
+2026-06-03,Pepsodent,Oral Care,3,88,C012,Chennai
+2026-09-28,Colgate,Oral Care,4,95,C030,Madurai
+2026-08-27,Parle-G,Snacks,5,10,C018,Madurai
+2026-08-16,Colgate,Oral Care,5,95,C026,Madurai
+2026-07-18,Parle-G,Snacks,6,10,C058,Madurai
+2026-02-15,Pepsodent,Oral Care,3,88,C047,Trichy
+2026-07-14,Lays,Snacks,8,20,C055,Trichy
+2026-05-15,Tata Tea,Beverages,6,140,C021,Coimbatore
+2026-02-08,Tata Tea,Beverages,1,140,C058,Madurai
+2026-06-16,Sensodyne,Oral Care,5,165,C020,Chennai
+2026-04-22,Lux,Personal Care,14,38,C017,Coimbatore
+2026-07-02,Sensodyne,Oral Care,1,165,C050,Madurai
+2026-03-12,Bru Coffee,Beverages,3,210,C014,Madurai
+2026-04-24,Tata Tea,Beverages,4,140,C036,Chennai
+2026-01-27,Lays,Snacks,15,20,C037,Coimbatore
+2026-06-05,Kurkure,Snacks,13,20,C058,Madurai
+2026-08-16,Pepsodent,Oral Care,1,88,C043,Trichy
+2026-03-28,Tata Tea,Beverages,2,140,C043,Trichy
+2026-05-06,Pepsodent,Oral Care,4,88,C015,Trichy
+2026-02-10,Kurkure,Snacks,9,20,C011,Trichy
+2026-09-16,Kurkure,Snacks,3,20,C050,Madurai
+2026-08-14,Lays,Snacks,12,20,C054,Madurai
+2026-01-24,Bru Coffee,Beverages,6,210,C048,Chennai
+2026-05-24,Pepsodent,Oral Care,4,88,C009,Coimbatore
+2026-01-02,Bru Coffee,Beverages,1,210,C018,Madurai
+2026-07-18,Pepsodent,Oral Care,2,88,C003,Trichy
+2026-05-05,Pepsodent,Oral Care,1,88,C013,Coimbatore
+2026-04-28,Parle-G,Snacks,8,10,C057,Coimbatore
+2026-04-15,Tata Tea,Beverages,1,140,C052,Chennai
+2026-05-20,Tata Tea,Beverages,4,140,C020,Chennai
+2026-01-26,Colgate,Oral Care,2,95,C028,Chennai
+2026-01-06,Kurkure,Snacks,10,20,C037,Coimbatore
+2026-05-01,Parle-G,Snacks,13,10,C045,Coimbatore
+2026-05-14,Kurkure,Snacks,14,20,C012,Chennai
+2026-08-26,Dove,Personal Care,6,62,C057,Coimbatore
+2026-04-20,Sensodyne,Oral Care,3,165,C009,Coimbatore
+2026-01-24,Colgate,Oral Care,1,95,C004,Chennai
+2026-03-12,Colgate,Oral Care,4,95,C001,Coimbatore
+2026-05-20,Closeup,Oral Care,1,92,C012,Chennai
+2026-01-28,Colgate,Oral Care,5,95,C015,Trichy
+2026-02-19,Bru Coffee,Beverages,6,210,C047,Trichy
+2026-04-07,Kurkure,Snacks,7,20,C037,Coimbatore
+2026-05-11,Pepsodent,Oral Care,2,88,C005,Coimbatore
+2026-09-26,Kurkure,Snacks,9,20,C033,Coimbatore
+2026-09-07,Lays,Snacks,14,20,C047,Trichy
+2026-01-08,Tata Tea,Beverages,3,140,C054,Madurai
+2026-07-05,Kurkure,Snacks,5,20,C012,Chennai
+2026-02-23,Colgate,Oral Care,5,95,C006,Madurai
+2026-05-18,Colgate,Oral Care,4,95,C016,Chennai
+2026-01-03,Dove,Personal Care,2,62,C018,Madurai
+2026-06-04,Sensodyne,Oral Care,4,165,C037,Coimbatore
+2026-01-08,Closeup,Oral Care,1,92,C043,Trichy
+2026-01-09,Colgate,Oral Care,6,95,C008,Chennai
+2026-04-17,Sensodyne,Oral Care,5,165,C059,Trichy
+2026-04-07,Lays,Snacks,8,20,C025,Coimbatore
+2026-03-15,Bru Coffee,Beverages,3,210,C038,Madurai
+2026-07-19,Kurkure,Snacks,13,20,C054,Madurai
+2026-08-24,Tata Tea,Beverages,3,140,C003,Trichy
+2026-03-01,Bru Coffee,Beverages,,210,C009,Coimbatore
+2026-04-05,Tata Tea,Beverages,5,140,C038,Madurai
+2026-05-15,Parle-G,Snacks,10,10,C031,Trichy
+2026-08-04,Closeup,Oral Care,4,92,C032,Chennai
+2026-08-05,Red Label,Beverages,4,125,C018,Madurai
+2026-02-14,Lux,Personal Care,4,38,C010,Madurai
+2026-03-23,Tata Tea,Beverages,3,140,C027,Trichy
+2026-09-07,Tata Tea,Beverages,3,140,C011,Trichy
+2026-03-05,Parle-G,Snacks,13,10,C013,Coimbatore
+2026-05-10,Closeup,Oral Care,1,92,C041,Coimbatore
+2026-05-14,Colgate,Oral Care,2,95,C019,Trichy
+2026-09-26,Pepsodent,Oral Care,3,88,C045,Coimbatore
+2026-08-11,Closeup,Oral Care,6,92,C042,Madurai
+2026-08-05,Dove,Personal Care,1,62,C054,Madurai
+2026-08-16,Colgate,Oral Care,5,95,C017,Coimbatore
+2026-08-14,Dove,Personal Care,4,62,C050,Madurai
+2026-07-19,Lays,Snacks,13,20,C001,Coimbatore
+2026-01-21,Dove,Personal Care,4,62,C048,Chennai
+2026-09-14,Sensodyne,Oral Care,6,165,C044,Chennai
+2026-09-27,Tata Tea,Beverages,2,140,C049,Coimbatore
+2026-08-23,Pepsodent,Oral Care,4,88,C001,Coimbatore
+2026-07-10,Dove,Personal Care,6,62,C031,Trichy
+2026-07-11,Pepsodent,Oral Care,3,88,C015,Trichy
+2026-09-19,Kurkure,Snacks,14,20,C010,Madurai
+2026-09-12,Colgate,Oral Care,3,95,C018,Madurai
+2026-06-06,Lux,Personal Care,11,38,C049,Coimbatore
+2026-02-25,Lays,Snacks,8,20,C015,Trichy
+2026-01-22,Bru Coffee,Beverages,5,210,C036,Chennai
+2026-04-18,Colgate,Oral Care,4,95,C022,Madurai
+2026-06-17,Pepsodent,Oral Care,5,88,C008,Chennai
+2026-06-06,Tata Tea,Beverages,3,140,C057,Coimbatore
+2026-05-05,Pepsodent,Oral Care,1,88,C007,Trichy
+2026-08-02,Tata Tea,Beverages,1,140,C052,Chennai
+2026-08-18,Colgate,Oral Care,2,95,C017,Coimbatore
+2026-07-08,Pepsodent,Oral Care,1,88,C011,Trichy
+2026-04-08,Tata Tea,Beverages,6,140,C034,Madurai
+2026-03-24,Colgate,Oral Care,4,95,C006,Madurai
+2026-09-14,Colgate,Oral Care,2,95,C028,Chennai
+2026-03-01,Bru Coffee,Beverages,6,210,C059,Trichy
+2026-07-24,Lays,Snacks,3,20,C024,Chennai
+2026-08-04,Sensodyne,Oral Care,6,165,C038,Madurai
+2026-04-24,Closeup,Oral Care,4,92,C035,Trichy
+2026-07-03,Colgate,Oral Care,4,95,C026,Madurai
+2026-06-18,Closeup,Oral Care,1,92,C016,Chennai
+2026-02-25,Closeup,Oral Care,3,92,C039,Trichy
+2026-01-14,Lux,Personal Care,11,38,C052,Chennai
+2026-02-26,Colgate,Oral Care,3,95,C017,Coimbatore
+2026-02-20,Colgate,Oral Care,3,95,C022,Madurai
+2026-04-07,Colgate,Oral Care,3,95,C011,Trichy
+2026-09-12,Sensodyne,Oral Care,6,165,C027,Trichy
+2026-04-04,Colgate,Oral Care,3,95,C006,Madurai
+2026-06-24,Tata Tea,Beverages,3,140,C055,Trichy
+2026-01-04,Colgate,Oral Care,1,95,C003,Trichy
+2026-07-14,Pepsodent,Oral Care,1,88,C004,Chennai
+2026-02-16,Sensodyne,Oral Care,5,165,C010,Madurai
+2026-01-24,Dove,Personal Care,5,62,C032,Chennai
+2026-04-23,Colgate,Oral Care,4,95,C020,Chennai
+2026-03-10,Pepsodent,Oral Care,6,88,C014,Madurai
+2026-07-25,Tata Tea,Beverages,3,140,C053,Coimbatore
+2026-09-07,Lays,Snacks,9,20,C032,Chennai
+2026-01-13,Colgate,Oral Care,2,95,C008,Chennai
+2026-03-15,Parle-G,Snacks,8,10,C010,Madurai
+2026-04-17,Colgate,Oral Care,4,95,C015,Trichy
+2026-09-23,Colgate,Oral Care,3,95,C026,Madurai
+2026-04-04,Red Label,Beverages,2,125,C055,Trichy
+2026-04-15,Tata Tea,Beverages,1,140,C028,Chennai
+2026-02-13,Lux,Personal Care,3,38,C039,Trichy
+2026-06-13,Closeup,Oral Care,1,92,C058,Madurai
+2026-05-21,Sensodyne,Oral Care,1,165,C013,Coimbatore
+2026-07-17,Lux,Personal Care,4,38,C031,Trichy
+2026-01-20,Closeup,Oral Care,2,92,C043,Trichy
+2026-04-08,Colgate,Oral Care,5,95,C014,Madurai
+2026-09-19,Red Label,Beverages,5,125,C039,Trichy
+2026-01-22,Red Label,Beverages,1,125,C022,Madurai
+2026-09-08,Kurkure,Snacks,11,20,C020,Chennai
+2026-02-15,Closeup,Oral Care,2,92,C018,Madurai
+2026-02-15,Bru Coffee,Beverages,5,210,C048,Chennai
+2026-07-01,LAYS,Snacks,7,20,C049,Coimbatore
+2026-07-04,Colgate,Oral Care,2,95,C019,Trichy
+2026-05-14,Parle-G,Snacks,10,10,C057,Coimbatore
+2026-04-03,Tata Tea,Beverages,6,140,C031,Trichy
+2026-03-09,Colgate,Oral Care,1,95,C009,Coimbatore
+2026-08-20,Tata Tea,Beverages,5,140,C046,Madurai
+2026-03-14,Colgate,Oral Care,2,95,C016,Chennai
+2026-06-20,Closeup,Oral Care,4,92,C031,Trichy
+2026-04-02,Bru Coffee,Beverages,5,210,C044,Chennai
+2026-09-14,Dove,Personal Care,6,62,C051,Trichy
+2026-06-22,Colgate,Oral Care,5,95,C023,Trichy
+2026-03-24,Pepsodent,Oral Care,4,88,C053,Coimbatore
+2026-05-23,Parle-G,Snacks,15,10,C046,Madurai
+2026-01-10,Sensodyne,Oral Care,1,165,C053,Coimbatore
+2026-06-21,Colgate,Oral Care,3,95,C018,Madurai
+2026-07-24,Tata Tea,Beverages,5,140,C042,Madurai
+2026-04-12,Colgate,Oral Care,4,95,C019,Trichy
+2026-05-12,Lays,Snacks,7,20,C042,Madurai
+2026-03-05,Closeup,Oral Care,2,92,C055,Trichy
+2026-04-10,Sensodyne,Oral Care,2,165,C054,Madurai
+2026-09-10,Sensodyne,Oral Care,2,165,C057,Coimbatore
+2026-09-23,Pepsodent,Oral Care,2,88,C006,Madurai
+2026-01-13,Colgate,Oral Care,3,95,C004,Chennai
+2026-07-17,Dove,Personal Care,6,62,C004,Chennai
+2026-09-21,Sensodyne,Oral Care,4,165,C048,Chennai
+2026-07-24,Pepsodent,Oral Care,3,88,C004,Chennai
+2026-05-24,Kurkure,Snacks,5,20,C030,Madurai
+2026-04-05,Closeup,Oral Care,4,92,C055,Trichy
+2026-09-02,Colgate,Oral Care,4,95,C028,Chennai
+2026-03-09,Parle-G,Snacks,7,10,C060,Chennai
+2026-08-20,Parle-G,Snacks,8,10,C026,Madurai
+2026-04-20,Red Label,Beverages,2,125,C009,Coimbatore
+2026-02-10,Colgate,Oral Care,6,95,C005,Coimbatore
+2026-02-13,Parle-G,Snacks,13,10,C009,Coimbatore
+2026-07-15,Pepsodent,Oral Care,4,88,C045,Coimbatore
+2026-08-11,Lux,Personal Care,7,38,C031,Trichy
+2026-04-02,Parle-G,Snacks,10,10,C060,Chennai
+2026-06-22,Tata Tea,Beverages,5,140,C041,Coimbatore
+2026-03-09,Parle-G,Snacks,3,10,C007,Trichy
+2026-05-04,Tata Tea,Beverages,5,140,C058,Madurai
+2026-06-10,Red Label,Beverages,1,125,C001,Coimbatore
+2026-07-26,Pepsodent,Oral Care,2,88,C059,Trichy
+2026-04-10,Colgate,Oral Care,6,95,C016,Chennai
+2026-01-26,Dove,Personal Care,6,62,C034,Madurai
+2026-03-24,Colgate,Oral Care,4,95,C020,Chennai
+2026-08-11,Pepsodent,Oral Care,1,88,C005,Coimbatore
+2026-06-13,Pepsodent,Oral Care,6,88,C004,Chennai
+2026-05-05,Parle-G,Snacks,8,10,C004,Chennai
+2026-07-22,Parle-G,Snacks,13,10,C031,Trichy
+2026-05-05,Colgate,Oral Care,1,95,C018,Madurai
+2026-05-22,Colgate,Oral Care,3,95,C030,Madurai
+2026-04-01,Colgate,Oral Care,4,95,C007,Trichy
+2026-09-16,Lays,Snacks,5,20,C035,Trichy
+2026-07-16,Tata Tea,Beverages,5,140,C049,Coimbatore
+2026-01-09,Lays,Snacks,5,20,C058,Madurai
+2026-02-24,Colgate,Oral Care,3,95,C015,Trichy
+2026-08-24,Tata Tea,Beverages,2,140,C055,Trichy
+2026-01-19,Kurkure,Snacks,13,20,C046,Madurai
+2026-09-16,Pepsodent,Oral Care,4,88,C004,Chennai
+2026-01-02,Tata Tea,Beverages,4,140,C047,Trichy
+2026-08-25,Pepsodent,Oral Care,2,88,C042,Madurai
+2026-01-24,Colgate,Oral Care,5,95,C011,Trichy
+2026-06-04,Parle-G,Snacks,7,10,C044,Chennai
+2026-08-28,Red Label,Beverages,4,125,C052,Chennai
+2026-01-19,Sensodyne,Oral Care,1,165,C030,Madurai
+2026-01-14,Colgate,Oral Care,3,95,C025,Coimbatore
+2026-08-21,Colgate,Oral Care,1,95,C029,Coimbatore
+2026-04-14,Lays,Snacks,14,20,C032,Chennai
+2026-08-13,Pepsodent,Oral Care,2,88,C013,Coimbatore
+2026-06-19,Pepsodent,Oral Care,5,88,C005,Coimbatore
+2026-08-05,Kurkure,Snacks,5,20,C042,Madurai
+2026-07-11,Pepsodent,Oral Care,6,88,C009,Coimbatore
+2026-06-09,Pepsodent,Oral Care,3,88,C010,Madurai
+2026-02-14,Lays,Snacks,12,20,C060,Chennai
+2026-06-06,Colgate,Oral Care,3,95,C017,Coimbatore
+2026-07-05,Colgate,Oral Care,1,95,C025,Coimbatore
+2026-05-20,Sensodyne,Oral Care,2,165,C022,Madurai
+2026-04-08,Red Label,Beverages,5,125,C048,Chennai
+2026-04-27,Colgate,Oral Care,4,95,C026,Madurai
+2026-09-10,Dove,Personal Care,2,62,C038,Madurai
+2026-08-01,Pepsodent,Oral Care,1,88,C037,Coimbatore
+2026-08-21,Lux,Personal Care,13,38,C035,Trichy
+2026-06-12,Tata Tea,Beverages,5,140,C056,Chennai
+2026-01-01,Kurkure,Snacks,5,20,C054,Madurai
+2026-05-17,Parle-G,Snacks,5,10,C057,Coimbatore
+2026-06-18,Pepsodent,Oral Care,6,88,C014,Madurai
+2026-05-27,Lays,Snacks,3,20,C027,Trichy
+2026-02-04,Lays,Snacks,15,20,C029,Coimbatore
+2026-02-11,Dove,Personal Care,3,62,C003,Trichy
+2026-08-03,Colgate,Oral Care,1,95,C022,Madurai
+2026-02-03,Parle-G,Snacks,7,10,C057,Coimbatore
+2026-07-23,Tata Tea,Beverages,5,140,C046,Madurai
+2026-02-04,Colgate,Oral Care,1,95,C025,Coimbatore
+2026-02-25,Lux,Personal Care,12,38,C036,Chennai
+2026-02-14,Dove,Personal Care,2,62,C042,Madurai
+2026-07-26,Colgate,Oral Care,5,95,C022,Madurai
+2026-02-15,Colgate,Oral Care,3,95,C046,Madurai
+2026-06-22,Dove,Personal Care,4,62,C020,Chennai
+2026-07-02,Bru Coffee,Beverages,1,210,C009,Coimbatore
+2026-05-20,Lays,Snacks,9,20,C040,Chennai
+2026-05-28,Kurkure,Snacks,3,20,C026,Madurai
+2026-06-06,Lays,Snacks,12,20,C052,Chennai
+2026-09-26,Dove,Personal Care,6,62,C013,Coimbatore
+2026-06-15,Pepsodent,Oral Care,6,88,C005,Coimbatore
+2026-03-16,Colgate,Oral Care,4,95,C042,Madurai
+2026-05-24,Pepsodent,Oral Care,1,88,C025,Coimbatore
+2026-03-05,Bru Coffee,Beverages,1,210,C017,Coimbatore
+2026-07-04,Closeup,Oral Care,1,92,C038,Madurai
+2026-02-25,Red Label,Beverages,6,125,C002,Madurai
+2026-06-07,Bru Coffee,Beverages,6,210,C041,Coimbatore
+2026-02-01,Sensodyne,Oral Care,2,165,C059,Trichy
+2026-08-12,Lux,Personal Care,3,38,C016,Chennai
+2026-07-26,Lux,Personal Care,10,38,C007,Trichy
+2026-06-27,Lays,Snacks,5,20,C047,Trichy
+2026-07-20,Colgate,Oral Care,2,95,C016,Chennai
+2026-03-17,Colgate,Oral Care,1,95,C022,Madurai
+2026-02-17,Bru Coffee,Beverages,3,210,C043,Trichy
+2026-04-02,Colgate,Oral Care,6,95,C002,Madurai
+2026-08-24,Sensodyne,Oral Care,6,165,C025,Coimbatore
+2026-06-21,Colgate,Oral Care,3,95,C019,Trichy
+2026-02-03,Kurkure,Snacks,6,20,C035,Trichy
+2026-05-09,Pepsodent,Oral Care,5,88,C014,Madurai
+2026-09-28,Parle-G,Snacks,11,10,C005,Coimbatore
+2026-01-13,Colgate,Oral Care,4,95,C019,Trichy
+2026-04-11,Lays,Snacks,12,20,C004,Chennai
+2026-03-26,Colgate,Oral Care,1,95,C006,Madurai
+2026-08-07,Pepsodent,Oral Care,2,88,C002,Madurai
+2026-04-08,Tata Tea,Beverages,6,140,C047,Trichy
+2026-04-10,Lays,Snacks,14,20,C041,Coimbatore
+2026-03-07,Dove,Personal Care,3,62,C052,Chennai
+2026-03-03,Colgate,Oral Care,4,95,C028,Chennai
+2026-02-12,Colgate,Oral Care,6,95,C022,Madurai
+2026-05-11,Sensodyne,Oral Care,5,165,C029,Coimbatore
+2026-07-23,Pepsodent,Oral Care,5,88,C013,Coimbatore
+2026-09-08,Lays,Snacks,5,20,C034,Madurai
+2026-05-16,Lays,Snacks,12,20,C026,Madurai
+2026-03-01,Colgate,Oral Care,5,95,C059,Trichy
+2026-06-24,Tata Tea,Beverages,1,140,C029,Coimbatore
+2026-06-12,Colgate,Oral Care,6,95,C018,Madurai
+2026-01-10,Lays,Snacks,8,20,C032,Chennai
+2026-04-28,Sensodyne,Oral Care,1,165,C036,Chennai
+2026-06-09,Pepsodent,Oral Care,4,88,C004,Chennai
+2026-05-15,Parle-G,Snacks,6,10,C056,Chennai
+2026-06-18,Tata Tea,Beverages,3,140,C051,Trichy
+2026-04-08,Tata Tea,Beverages,3,140,C051,Trichy
+2026-05-26,Colgate,Oral Care,3,95,C026,Madurai
+2026-03-18,Colgate,Oral Care,3,95,C010,Madurai
+2026-08-28,Lux,Personal Care,10,38,C047,Trichy
+2026-05-23,Lays,Snacks,3,20,C038,Madurai
+2026-07-13,Dove,Personal Care,3,62,C020,Chennai
+2026-02-08,Tata Tea,Beverages,3,140,C009,Coimbatore
+2026-08-03,Closeup,Oral Care,6,92,C029,Coimbatore
+2026-09-20,Lays,Snacks,11,20,C058,Madurai
+2026-09-28,Tata Tea,Beverages,4,140,C056,Chennai
+2026-02-16,Dove,Personal Care,2,62,C055,Trichy
+2026-04-06,Colgate,Oral Care,4,95,C017,Coimbatore
+2026-09-26,Pepsodent,Oral Care,3,88,C006,Madurai
+2026-07-20,Pepsodent,Oral Care,1,88,C003,Trichy
+2026-03-16,Kurkure,Snacks,8,20,C054,Madurai
+2026-05-06,Bru Coffee,Beverages,4,210,C050,Madurai
+2026-02-20,Bru Coffee,Beverages,3,210,C028,Chennai
+2026-02-20,Bru Coffee,Beverages,3,210,C001,Coimbatore
+2026-09-24,Lays,Snacks,7,20,C048,Chennai
+2026-01-04,Dove,Personal Care,5,62,C055,Trichy
+2026-08-18,Red Label,Beverages,5,125,C021,Coimbatore
+2026-09-21,Lux,Personal Care,4,38,C017,Coimbatore
+2026-04-11,Tata Tea,Beverages,2,140,C060,Chennai
+2026-08-19,Sensodyne,Oral Care,1,165,C001,Coimbatore
+2026-08-10,Pepsodent,Oral Care,5,88,C015,Trichy
+2026-03-13,Sensodyne,Oral Care,2,165,C051,Trichy
+2026-02-17,Parle-G,Snacks,14,10,C052,Chennai
+2026-04-26,Colgate,Oral Care,2,95,C029,Coimbatore
+2026-07-17,Lays,Snacks,12,20,C056,Chennai
+2026-02-10,Tata Tea,Beverages,1,140,C039,Trichy
+2026-03-19,Kurkure,Snacks,3,20,C036,Chennai
+2026-05-12,Lays,Snacks,3,20,C054,Madurai
+2026-03-02,Bru Coffee,Beverages,2,210,C054,Madurai
+2026-06-27,Lays,Snacks,12,20,C042,Madurai
+2026-09-14,Lays,Snacks,8,20,C046,Madurai
+2026-05-13,Colgate,Oral Care,1,95,C029,Coimbatore
+2026-08-22,Tata Tea,Beverages,1,140,C059,Trichy
+2026-02-05,Colgate,Oral Care,3,95,C021,Coimbatore
+2026-01-20,Colgate,Oral Care,1,95,C012,Chennai
+2026-09-19,Colgate,Oral Care,3,95,C017,Coimbatore
+2026-09-05,Lays,Snacks,5,20,C014,Madurai
+2026-06-28,Colgate,Oral Care,2,95,C017,Coimbatore
+2026-05-10,Colgate,Oral Care,4,95,C029,Coimbatore
+2026-05-08,Closeup,Oral Care,4,92,C007,Trichy
+2026-03-25,Kurkure,Snacks,5,20,C003,Trichy
+2026-02-12,Kurkure,Snacks,13,20,C043,Trichy
+2026-02-21,Dove,Personal Care,3,62,C020,Chennai
+2026-07-15,Closeup,Oral Care,3,92,C045,Coimbatore
+2026-02-05,Lays,Snacks,6,20,C032,Chennai
+2026-02-04,Parle-G,Snacks,12,10,C033,Coimbatore
+2026-07-16,Kurkure,Snacks,12,20,C055,Trichy
+2026-07-23,Colgate,Oral Care,1,95,C024,Chennai
+2026-08-25,Colgate,Oral Care,6,95,C030,Madurai
+2026-05-09,Lays,Snacks,10,20,C044,Chennai
+2026-07-24,Pepsodent,Oral Care,6,88,C012,Chennai
+2026-03-21,Sensodyne,Oral Care,2,165,C015,Trichy
+2026-06-12, Tata Tea ,Beverages,3,140,C042,Madurai
+2026-09-13,Lays,Snacks,8,20,C035,Trichy
+2026-01-19,Colgate,Oral Care,4,95,C016,Chennai
+2026-08-11,Lays,Snacks,9,20,C034,Madurai
+2026-08-01,Red Label,Beverages,5,125,C039,Trichy
+2026-07-28,Tata Tea,Beverages,5,140,C054,Madurai
+2026-09-28,Colgate,Oral Care,6,95,C025,Coimbatore
+2026-08-05,Pepsodent,Oral Care,4,88,C003,Trichy
+2026-02-12,Sensodyne,Oral Care,3,165,C025,Coimbatore
+2026-04-17,Tata Tea,Beverages,1,140,C004,Chennai
+2026-07-24,Lays,Snacks,11,20,C042,Madurai
+2026-06-22,Red Label,Beverages,2,125,C031,Trichy
+2026-08-20,Bru Coffee,Beverages,4,210,C012,Chennai
+2026-04-21,Bru Coffee,Beverages,5,210,C040,Chennai
+2026-02-07,Sensodyne,Oral Care,2,165,C052,Chennai
+2026-02-01,Red Label,Beverages,1,125,C040,Chennai
+2026-07-05,Lays,Snacks,11,20,C060,Chennai
+2026-02-02,Sensodyne,Oral Care,4,165,C048,Chennai
+2026-02-11,Dove,Personal Care,6,62,C045,Coimbatore
+2026-01-23,Colgate,Oral Care,3,95,C003,Trichy
+2026-02-27,Closeup,Oral Care,1,92,C043,Trichy
+2026-04-19,Tata Tea,Beverages,5,140,C047,Trichy
+2026-01-08,Colgate,Oral Care,2,95,C022,Madurai
+2026-08-03,Pepsodent,Oral Care,1,88,C003,Trichy
+2026-01-27,Kurkure,Snacks,7,20,C049,Coimbatore
+2026-09-25,Colgate,Oral Care,2,95,C019,Trichy
+2026-03-24,Kurkure,Snacks,3,20,C031,Trichy
+2026-08-04,Kurkure,Snacks,13,20,C047,Trichy
+2026-03-17,Colgate,Oral Care,2,95,C019,Trichy
+2026-03-27,Red Label,Beverages,3,125,C035,Trichy
+2026-03-10,Bru Coffee,Beverages,1,210,C033,Coimbatore
+2026-04-13,Kurkure,Snacks,15,20,C034,Madurai
+2026-07-18,Lux,Personal Care,6,38,C034,Madurai
+2026-06-22,Lays,Snacks,15,20,C045,Coimbatore
+2026-09-24,Pepsodent,Oral Care,1,88,C010,Madurai
+2026-01-15,Red Label,Beverages,2,125,C033,Coimbatore
+2026-02-01,Closeup,Oral Care,2,92,C035,Trichy
+2026-02-09,Colgate,Oral Care,3,95,C034,Madurai
+2026-02-19,Lux,Personal Care,11,38,C031,Trichy
+2026-07-03,Lays,Snacks,4,20,C044,Chennai
+2026-08-19,Red Label,Beverages,4,125,C053,Coimbatore
+2026-08-27,Red Label,Beverages,4,125,C013,Coimbatore
+2026-06-27,Lays,Snacks,11,20,C030,Madurai
+2026-08-21,Tata Tea,Beverages,4,140,C044,Chennai
+2026-02-14,Bru Coffee,Beverages,1,210,C051,Trichy
+2026-09-21,Pepsodent,Oral Care,2,88,C047,Trichy
+2026-02-17,Closeup,Oral Care,1,92,C007,Trichy
+2026-04-19,Lays,Snacks,4,20,C056,Chennai
+2026-07-15,Parle-G,Snacks,10,10,C044,Chennai
+2026-03-26,Red Label,Beverages,1,125,C050,Madurai
+2026-03-20,Bru Coffee,Beverages,6,210,C016,Chennai
+2026-03-14,Kurkure,Snacks,10,20,C037,Coimbatore
+2026-06-12,Lays,Snacks,10,20,C049,Coimbatore
+2026-09-13,Lays,Snacks,8,20,C043,Trichy
+2026-02-15,Colgate,Oral Care,3,95,C008,Chennai
+2026-07-07,Lays,Snacks,4,20,C054,Madurai
+2026-05-01,Lux,Personal Care,9,38,C006,Madurai
+2026-03-09,Parle-G,Snacks,15,10,C024,Chennai
+2026-09-04,Dove,Personal Care,4,62,C021,Coimbatore
+2026-04-10,Parle-G,Snacks,14,10,C053,Coimbatore
+2026-04-03,Tata Tea,Beverages,2,140,C020,Chennai
+2026-03-19,Kurkure,Snacks,12,20,C024,Chennai
+2026-07-08,Lays,Snacks,6,20,C038,Madurai
+2026-07-02,Tata Tea,Beverages,1,140,C040,Chennai
+2026-01-17,Colgate,Oral Care,3,95,C022,Madurai
+2026-02-27,Colgate,Oral Care,1,95,C003,Trichy
+2026-02-15,Lays,Snacks,15,20,C054,Madurai
+2026-09-15,Lays,Snacks,5,20,C006,Madurai
+2026-05-24,Lux,Personal Care,13,38,C059,Trichy
+2026-07-23,Tata Tea,Beverages,4,140,C041,Coimbatore
+2026-04-04,Lays,Snacks,8,20,C013,Coimbatore
+2026-08-26,Colgate,Oral Care,4,95,C018,Madurai
+2026-02-10,Pepsodent,Oral Care,2,88,C060,Chennai
+2026-04-11,Red Label,Beverages,2,125,C052,Chennai
+2026-07-14,Lux,Personal Care,15,38,C036,Chennai
+2026-06-09,Dove,Personal Care,3,62,C057,Coimbatore
+2026-05-12,Parle-G,Snacks,6,10,C053,Coimbatore
+2026-08-14,Sensodyne,Oral Care,6,165,C049,Coimbatore
+2026-01-23,Colgate,Oral Care,6,95,C007,Trichy
+2026-01-23,Closeup,Oral Care,2,92,C048,Chennai
+2026-01-20,Kurkure,Snacks,7,20,C050,Madurai
+2026-06-21,Lays,Snacks,5,20,C055,Trichy
+2026-05-21,Dove,Personal Care,3,62,C028,Chennai
+2026-06-06,Pepsodent,Oral Care,5,88,C008,Chennai
+2026-05-15,Tata Tea,Beverages,4,140,C046,Madurai
+2026-09-18,Lays,Snacks,15,20,C038,Madurai
+2026-01-13,Lays,Snacks,10,20,C014,Madurai
+2026-09-13,Tata Tea,Beverages,5,140,C039,Trichy
+2026-06-16,Dove,Personal Care,1,62,C025,Coimbatore
+2026-04-04,Colgate,Oral Care,3,95,C016,Chennai
+2026-08-16,Red Label,Beverages,6,125,C034,Madurai
+2026-03-16,Closeup,Oral Care,5,92,C056,Chennai
+2026-07-21,Lays,Snacks,14,20,C026,Madurai
+2026-09-11,Pepsodent,Oral Care,6,88,C042,Madurai
+2026-08-03,Lays,Snacks,12,20,C044,Chennai
+2026-04-16,Tata Tea,Beverages,2,140,C008,Chennai
+2026-01-24,Kurkure,Snacks,15,20,C044,Chennai
+2026-06-06,Lays,Snacks,8,20,C040,Chennai
+2026-08-12,Tata Tea,Beverages,5,140,C045,Coimbatore
+2026-03-11,Dove,Personal Care,4,62,C017,Coimbatore
+2026-05-16,Dove,Personal Care,1,62,C048,Chennai
+2026-09-10, Pepsodent ,Oral Care,3,88,C015,Trichy
+2026-01-26,Tata Tea,Beverages,1,140,C028,Chennai
+2026-08-21,Pepsodent,Oral Care,3,88,C012,Chennai
+2026-08-19,Pepsodent,Oral Care,6,88,C010,Madurai
+2026-06-19,Dove,Personal Care,4,62,C049,Coimbatore
+2026-07-25,Lux,Personal Care,12,38,C038,Madurai
+2026-01-26,Parle-G,Snacks,14,10,C028,Chennai
+2026-07-09,Lux,Personal Care,6,38,C040,Chennai
+2026-01-01,Bru Coffee,Beverages,5,210,C031,Trichy
+2026-01-23,Dove,Personal Care,1,62,C059,Trichy
+2026-05-03,Dove,Personal Care,4,62,C052,Chennai
+2026-03-02,Kurkure,Snacks,6,20,C025,Coimbatore
+2026-08-16,Bru Coffee,Beverages,4,210,C037,Coimbatore
+2026-01-14,Colgate,Oral Care,4,95,C017,Coimbatore
+2026-08-06,Kurkure,Snacks,6,20,C052,Chennai
+2026-01-18,Kurkure,Snacks,11,20,C039,Trichy
+2026-05-06,Bru Coffee,Beverages,6,210,C060,Chennai
+2026-05-17,Colgate,Oral Care,1,95,C024,Chennai
+2026-04-12,Pepsodent,Oral Care,1,88,C024,Chennai
+2026-08-05,Lux,Personal Care,6,38,C060,Chennai
+2026-04-18,Colgate,Oral Care,3,95,C021,Coimbatore
+2026-05-05,Tata Tea,Beverages,6,140,C033,Coimbatore
+2026-01-19,Closeup,Oral Care,6,92,C035,Trichy
+2026-06-06,Colgate,Oral Care,4,95,C030,Madurai
+2026-07-10,Sensodyne,Oral Care,3,165,C021,Coimbatore
+2026-03-21,Sensodyne,Oral Care,2,165,C034,Madurai
+2026-01-01,Colgate,Oral Care,3,95,C028,Chennai
+2026-08-11,Pepsodent,Oral Care,6,88,C007,Trichy
+2026-02-11,Lux,Personal Care,10,38,C052,Chennai
+2026-08-08,Pepsodent,Oral Care,5,88,C050,Madurai
+2026-01-26,Sensodyne,Oral Care,3,165,C050,Madurai
+2026-09-17,Closeup,Oral Care,5,92,C026,Madurai
+2026-08-06,Kurkure,Snacks,10,20,C048,Chennai
+2026-03-01,Kurkure,Snacks,15,20,C034,Madurai
+2026-07-15,Lays,Snacks,14,20,C032,Chennai
+2026-06-03,Lays,Snacks,14,20,C039,Trichy
+2026-06-22,Pepsodent,Oral Care,4,88,C012,Chennai
+2026-04-26,Tata Tea,Beverages,3,140,C039,Trichy
+2026-07-17,Parle-G,Snacks,8,10,C002,Madurai
+2026-01-19,Colgate,Oral Care,3,95,C045,Coimbatore
+2026-01-24,Lays,Snacks,8,20,C031,Trichy
+2026-03-28,Colgate,Oral Care,4,95,C024,Chennai
+2026-03-14,Dove,Personal Care,2,62,C032,Chennai
+2026-07-10,Tata Tea,Beverages,1,140,C051,Trichy
+2026-02-10,Lays,Snacks,8,20,C032,Chennai
+2026-02-27,Red Label,Beverages,2,125,C057,Coimbatore
+2026-01-25,Dove,Personal Care,1,62,C035,Trichy
+2026-06-15,Colgate,Oral Care,3,95,C020,Chennai
+2026-02-27,Sensodyne,Oral Care,6,165,C046,Madurai
+2026-01-28,Lux,Personal Care,11,38,C014,Madurai
+2026-09-26,Tata Tea,Beverages,6,140,C045,Coimbatore
+2026-08-10,Parle-G,Snacks,4,10,C040,Chennai
+2026-08-10,Lays,Snacks,5,20,C018,Madurai
+2026-02-03,Colgate,Oral Care,6,95,C030,Madurai
+2026-03-26,Tata Tea,Beverages,3,140,C060,Chennai
+2026-08-23,Lays,Snacks,14,20,C017,Coimbatore
+2026-03-11,Red Label,Beverages,4,125,C026,Madurai
+2026-07-18,Colgate,Oral Care,3,95,C019,Trichy
+2026-09-22,Bru Coffee,Beverages,6,210,C050,Madurai
+2026-04-18,Colgate,Oral Care,6,95,C012,Chennai
+2026-03-07,Colgate,Oral Care,1,95,C010,Madurai
+2026-08-11,Lux,Personal Care,12,38,C024,Chennai
+2026-02-26,Sensodyne,Oral Care,1,165,C045,Coimbatore
+2026-09-15,Pepsodent,Oral Care,1,88,C010,Madurai
+2026-08-14,Lux,Personal Care,3,38,C054,Madurai
+2026-07-26,Lux,Personal Care,,38,C055,Trichy
+2026-04-11,Sensodyne,Oral Care,1,165,C047,Trichy
+2026-04-26,Pepsodent,Oral Care,3,88,C034,Madurai
+2026-04-01,Lux,Personal Care,6,38,C056,Chennai
+2026-01-10,Pepsodent,Oral Care,2,88,C056,Chennai
+2026-05-28,Bru Coffee,Beverages,2,210,C050,Madurai
+2026-09-09,Pepsodent,Oral Care,4,88,C043,Trichy
+2026-04-26,Lays,Snacks,15,20,C018,Madurai
+2026-03-07,Sensodyne,Oral Care,5,165,C029,Coimbatore
+2026-06-08,Colgate,Oral Care,2,95,C030,Madurai
+2026-04-15,Red Label,Beverages,1,125,C016,Chennai
+2026-06-20,Tata Tea,Beverages,5,140,C007,Trichy
+2026-04-21,Kurkure,Snacks,9,20,C028,Chennai
+2026-05-12,Red Label,Beverages,5,125,C015,Trichy
+2026-02-11,Parle-G,Snacks,5,10,C058,Madurai
+2026-06-23,Kurkure,Snacks,3,20,C034,Madurai
+2026-05-07,Parle-G,Snacks,10,10,C002,Madurai
+2026-08-04,Pepsodent,Oral Care,1,88,C002,Madurai
+2026-05-23,Kurkure,Snacks,7,20,C058,Madurai
+2026-03-12,Colgate,Oral Care,5,95,C008,Chennai
+2026-04-08,Lays,Snacks,10,20,C058,Madurai
+2026-08-28,Lays,Snacks,12,20,C056,Chennai
+2026-07-18,Parle-G,Snacks,6,10,C050,Madurai
+2026-08-24,Closeup,Oral Care,6,92,C039,Trichy
+2026-07-19,Pepsodent,Oral Care,2,88,C010,Madurai
+2026-05-13,Red Label,Beverages,5,125,C052,Chennai
+2026-01-09,Parle-G,Snacks,13,10,C060,Chennai
+2026-07-25,Tata Tea,Beverages,1,140,C014,Madurai
+2026-01-13,Kurkure,Snacks,11,20,C032,Chennai
+2026-02-04,Colgate,Oral Care,5,95,C021,Coimbatore
+2026-05-05,Tata Tea,Beverages,6,140,C018,Madurai
+2026-05-26,Kurkure,Snacks,4,20,C034,Madurai
+2026-09-25,Lays,Snacks,15,20,C057,Coimbatore
+2026-02-12,Kurkure,Snacks,10,20,C030,Madurai
+2026-07-28,Lays,Snacks,6,20,C035,Trichy
+2026-02-28,Lays,Snacks,9,20,C018,Madurai
+2026-05-17,Kurkure,Snacks,11,20,C057,Coimbatore
+2026-06-25,Colgate,Oral Care,4,95,C022,Madurai
+2026-05-14,Colgate,Oral Care,6,95,C020,Chennai
+2026-06-01,Colgate,Oral Care,2,95,C050,Madurai
+2026-08-11,Parle-G,Snacks,5,10,C014,Madurai
+2026-04-19,Colgate,Oral Care,1,95,C002,Madurai
+2026-05-03,Kurkure,Snacks,8,20,C050,Madurai
+2026-02-11,Lays,Snacks,9,20,C031,Trichy
+2026-01-23,Colgate,Oral Care,6,95,C005,Coimbatore
+2026-08-25,Kurkure,Snacks,6,20,C024,Chennai
+2026-05-24,Tata Tea,Beverages,6,140,C036,Chennai
+2026-08-02,Pepsodent,Oral Care,5,88,C032,Chennai
+2026-03-23,Kurkure,Snacks,5,20,C011,Trichy
+2026-07-24,Tata Tea,Beverages,2,140,C038,Madurai
+2026-03-22,Parle-G,Snacks,6,10,C047,Trichy
+2026-08-09,Closeup,Oral Care,2,92,C025,Coimbatore
+2026-02-05,Dove,Personal Care,3,62,C050,Madurai
+2026-02-03,Closeup,Oral Care,6,92,C044,Chennai
+2026-03-19,Tata Tea,Beverages,3,140,C020,Chennai
+2026-05-28,Kurkure,Snacks,3,20,C045,Coimbatore
+2026-05-22,Closeup,Oral Care,1,92,C039,Trichy
+2026-08-06,Lays,Snacks,14,20,C059,Trichy
+2026-02-18,Sensodyne,Oral Care,4,165,C029,Coimbatore
+2026-03-05,Sensodyne,Oral Care,6,165,C045,Coimbatore
+2026-03-26,Colgate,Oral Care,2,95,C011,Trichy
+2026-01-25,Colgate,Oral Care,1,95,C011,Trichy
+2026-02-16,Red Label,Beverages,5,125,C044,Chennai
+2026-07-05,Colgate,Oral Care,3,95,C022,Madurai
+2026-04-18,Colgate,Oral Care,6,95,C024,Chennai
+2026-02-14,Colgate,Oral Care,3,95,C030,Madurai
+2026-08-16,Parle-G,Snacks,6,10,C053,Coimbatore
+2026-04-24,Lays,Snacks,6,20,C032,Chennai
+2026-07-06,Lays,Snacks,15,20,C027,Trichy
+2026-01-15,Tata Tea,Beverages,3,140,C005,Coimbatore
+2026-02-21,Colgate,Oral Care,4,95,C022,Madurai
+2026-03-02,Lays,Snacks,13,20,C058,Madurai
+2026-03-25,Pepsodent,Oral Care,6,88,C045,Coimbatore
+2026-05-21,Pepsodent,Oral Care,4,88,C034,Madurai
+2026-08-16,Sensodyne,Oral Care,6,165,C047,Trichy
+2026-03-12,Lux,Personal Care,9,38,C043,Trichy
+2026-01-15,Sensodyne,Oral Care,5,165,C057,Coimbatore
+2026-04-15,Colgate,Oral Care,4,95,C024,Chennai
+2026-01-04,Tata Tea,Beverages,4,140,C016,Chennai
+2026-09-12,Colgate,Oral Care,3,95,C018,Madurai
+2026-01-20,Tata Tea,Beverages,4,140,C036,Chennai
+2026-07-15,Red Label,Beverages,2,125,C027,Trichy
+2026-05-24,Kurkure,Snacks,4,20,C055,Trichy
+2026-01-18,Pepsodent,Oral Care,2,88,C038,Madurai
+2026-05-24,Parle-G,Snacks,10,10,C005,Coimbatore
+2026-04-10,Parle-G,Snacks,13,10,C001,Coimbatore
+2026-06-03,Lays,Snacks,9,20,C059,Trichy
+2026-05-06,Lux,Personal Care,10,38,C014,Madurai
+2026-07-21,Parle-G,Snacks,14,10,C057,Coimbatore
+2026-02-11,Sensodyne,Oral Care,1,165,C020,Chennai
+2026-01-21,Colgate,Oral Care,6,95,C006,Madurai
+2026-01-05,Colgate,Oral Care,3,95,C003,Trichy
+2026-09-23,Tata Tea,Beverages,1,140,C058,Madurai
+2026-05-20,Bru Coffee,Beverages,4,210,C037,Coimbatore
+2026-06-04,Tata Tea,Beverages,2,140,C059,Trichy
+2026-09-09,Colgate,Oral Care,6,95,C016,Chennai
+2026-02-27,Lays,Snacks,3,20,C002,Madurai
+2026-08-16,Lays,Snacks,12,20,C041,Coimbatore
+2026-03-21,Lays,Snacks,11,20,C031,Trichy
+2026-05-14,Lux,Personal Care,10,38,C033,Coimbatore
+2026-09-22,Colgate,Oral Care,1,95,C030,Madurai
+2026-06-14,Lux,Personal Care,14,38,C012,Chennai
+2026-08-14,Kurkure,Snacks,14,20,C058,Madurai
+2026-03-10,Colgate,Oral Care,6,95,C028,Chennai
+2026-06-23,Pepsodent,Oral Care,3,88,C001,Coimbatore
+2026-02-17,Bru Coffee,Beverages,2,210,C056,Chennai
+2026-06-26,Pepsodent,Oral Care,5,88,C017,Coimbatore
+2026-04-16,Colgate,Oral Care,6,95,C028,Chennai
+2026-03-12,Tata Tea,Beverages,6,140,C002,Madurai
+2026-05-17,Lays,Snacks,12,20,C049,Coimbatore
+2026-03-24,Lux,Personal Care,8,38,C037,Coimbatore
+2026-06-10,Sensodyne,Oral Care,5,165,C010,Madurai
+2026-06-21,Pepsodent,Oral Care,1,88,C028,Chennai
+2026-06-21,Colgate,Oral Care,6,95,C029,Coimbatore
+2026-07-02,Sensodyne,Oral Care,4,165,C043,Trichy
+2026-02-24,Red Label,Beverages,2,125,C040,Chennai
+2026-04-07,Colgate,Oral Care,6,95,C018,Madurai
+2026-09-18,Tata Tea,Beverages,6,140,C009,Coimbatore
+2026-05-28,Pepsodent,Oral Care,4,88,C014,Madurai
+2026-07-01,Colgate,Oral Care,6,95,C029,Coimbatore
+2026-08-04,Pepsodent,Oral Care,6,88,C005,Coimbatore
+2026-06-28,Tata Tea,Beverages,4,140,C052,Chennai
+2026-07-09,Tata Tea,Beverages,5,140,C026,Madurai
+2026-03-20,Lays,Snacks,10,20,C020,Chennai
+2026-01-17,Lays,Snacks,12,20,C034,Madurai
+2026-05-22,Closeup,Oral Care,4,92,C017,Coimbatore
+2026-05-02,Pepsodent,Oral Care,2,88,C003,Trichy
+2026-02-23,Colgate,Oral Care,3,95,C014,Madurai
+2026-06-16,Lux,Personal Care,8,38,C051,Trichy
+2026-03-04,Parle-G,Snacks,6,10,C011,Trichy
+2026-09-14,Tata Tea,Beverages,2,140,C014,Madurai
+2026-05-15,Colgate,Oral Care,5,95,C027,Trichy
+2026-07-04,Lays,Snacks,9,20,C008,Chennai
+2026-05-12,Lays,Snacks,13,20,C048,Chennai
+2026-03-18,Lux,Personal Care,4,38,C042,Madurai
+2026-03-19,Kurkure,Snacks,7,20,C055,Trichy
+2026-06-13,Lux,Personal Care,9,38,C010,Madurai
+2026-02-01,Red Label,Beverages,4,125,C057,Coimbatore
+2026-05-04,Dove,Personal Care,4,62,C032,Chennai
+2026-03-05,Lays,Snacks,10,20,C007,Trichy
+2026-04-26,Closeup,Oral Care,3,92,C040,Chennai
+2026-01-26,Colgate,Oral Care,5,95,C030,Madurai
+2026-01-24,Colgate,Oral Care,6,95,C001,Coimbatore
+2026-08-22,Pepsodent,Oral Care,3,88,C011,Trichy
+2026-05-05,Lux,Personal Care,3,38,C057,Coimbatore
+2026-03-19,Closeup,Oral Care,6,92,C015,Trichy
+2026-05-11,Sensodyne,Oral Care,1,165,C042,Madurai
+2026-08-25,Parle-G,Snacks,4,10,C034,Madurai
+2026-01-18,Colgate,Oral Care,4,95,C001,Coimbatore
+2026-08-28,Pepsodent,Oral Care,3,88,C012,Chennai
+2026-04-08,Colgate,Oral Care,3,95,C027,Trichy
+2026-07-19,Kurkure,Snacks,14,20,C023,Trichy
+2026-09-27,Lays,Snacks,5,20,C060,Chennai
+2026-07-10,Red Label,Beverages,6,125,C038,Madurai
+2026-06-20,Lux,Personal Care,10,38,C043,Trichy
+2026-06-10,Sensodyne,Oral Care,6,165,C059,Trichy
+2026-05-13,Pepsodent,Oral Care,6,88,C006,Madurai
+2026-03-22,Bru Coffee,Beverages,4,210,C052,Chennai
+2026-06-20,Bru Coffee,Beverages,1,210,C032,Chennai
+2026-02-13,Red Label,Beverages,3,125,C035,Trichy
+2026-04-25,Kurkure,Snacks,14,20,C049,Coimbatore
+2026-05-08,Red Label,Beverages,6,125,C049,Coimbatore
+2026-01-13,Dove,Personal Care,5,62,C039,Trichy
+2026-08-02,Tata Tea,Beverages,6,140,C022,Madurai
+2026-09-20,Red Label,Beverages,1,125,C011,Trichy
+2026-09-19,Sensodyne,Oral Care,3,165,C025,Coimbatore
+2026-08-02,Lays,Snacks,7,20,C021,Coimbatore
+2026-01-08,Closeup,Oral Care,1,92,C058,Madurai
+2026-05-02,Lux,Personal Care,13,38,C056,Chennai
+2026-05-14,Pepsodent,Oral Care,6,88,C013,Coimbatore
+2026-02-27,Closeup,Oral Care,5,92,C056,Chennai
+2026-01-01,Dove,Personal Care,4,62,C048,Chennai
+2026-06-18,Pepsodent,Oral Care,6,88,C007,Trichy
+2026-06-20,Colgate,Oral Care,5,95,C030,Madurai
+2026-05-19,Pepsodent,Oral Care,4,88,C013,Coimbatore
+2026-06-17,Colgate,Oral Care,5,95,C028,Chennai
+2026-07-11,Tata Tea,Beverages,5,140,C059,Trichy
+2026-09-10,Tata Tea,Beverages,3,140,C044,Chennai
+2026-05-14,Red Label,Beverages,1,125,C048,Chennai
+2026-06-14,Lays,Snacks,7,20,C035,Trichy
+2026-01-08,Colgate,Oral Care,4,95,C015,Trichy
+2026-04-03,Dove,Personal Care,1,62,C041,Coimbatore
+2026-01-05,Closeup,Oral Care,6,92,C032,Chennai
+2026-04-01,Colgate,Oral Care,5,95,C007,Trichy
+2026-05-18,Pepsodent,Oral Care,3,88,C012,Chennai
+2026-04-22,Red Label,Beverages,1,125,C033,Coimbatore
+2026-03-20,Colgate,Oral Care,2,95,C027,Trichy
+2026-01-17,Colgate,Oral Care,5,95,C030,Madurai
+2026-03-20,Closeup,Oral Care,3,92,C006,Madurai
+2026-01-06,Closeup,Oral Care,6,92,C053,Coimbatore
+2026-03-27,Lays,Snacks,15,20,C057,Coimbatore
+2026-06-21,Lays,Snacks,9,20,C057,Coimbatore
+2026-04-26,Tata Tea,Beverages,6,140,C051,Trichy
+2026-04-02,Red Label,Beverages,4,125,C046,Madurai
+2026-02-27,Lux,Personal Care,13,38,C051,Trichy
+2026-05-17,Lux,Personal Care,8,38,C027,Trichy
+2026-09-03,Tata Tea,Beverages,4,140,C011,Trichy
+2026-02-05,Pepsodent,Oral Care,1,88,C052,Chennai
+2026-02-05,Kurkure,Snacks,3,20,C035,Trichy
+2026-09-14,Colgate,Oral Care,1,95,C021,Coimbatore
+2026-07-09,Colgate,Oral Care,5,95,C025,Coimbatore
+2026-03-07,Tata Tea,Beverages,2,140,C053,Coimbatore
+2026-08-08,Colgate,Oral Care,5,95,C019,Trichy
+2026-03-20,Sensodyne,Oral Care,1,165,C029,Coimbatore
+2026-04-15,Colgate,Oral Care,6,95,C009,Coimbatore
+2026-07-16,Pepsodent,Oral Care,1,88,C001,Coimbatore
+2026-03-18,Parle-G,Snacks,7,10,C027,Trichy
+2026-01-08,Pepsodent,Oral Care,3,88,C046,Madurai
+2026-07-27,Dove,Personal Care,6,62,C037,Coimbatore
+2026-07-14,Colgate,Oral Care,2,95,C026,Madurai
+2026-01-12,Tata Tea,Beverages,5,140,C029,Coimbatore
+2026-07-21,Sensodyne,Oral Care,2,165,C048,Chennai
+2026-01-08,Colgate,Oral Care,1,95,C014,Madurai
+2026-02-08,Parle-G,Snacks,6,10,C023,Trichy
+2026-09-12,Pepsodent,Oral Care,4,88,C012,Chennai
+2026-05-15,Tata Tea,Beverages,5,140,C039,Trichy
+2026-01-11,Pepsodent,Oral Care,3,88,C029,Coimbatore
+2026-02-27,COLGATE,Oral Care,4,95,C017,Coimbatore
+2026-08-05,Lays,Snacks,9,20,C033,Coimbatore
+2026-09-01,Colgate,Oral Care,6,95,C025,Coimbatore
+2026-03-11,Bru Coffee,Beverages,2,210,C022,Madurai
+2026-08-04,Pepsodent,Oral Care,5,88,C006,Madurai
+2026-01-28,Red Label,Beverages,1,125,C041,Coimbatore
+2026-09-16,Lays,Snacks,11,20,C002,Madurai
+2026-06-10,Red Label,Beverages,2,125,C059,Trichy
+2026-02-14,Lux,Personal Care,6,38,C007,Trichy
+2026-03-19,Colgate,Oral Care,2,95,C013,Coimbatore
+2026-02-07,Colgate,Oral Care,5,95,C017,Coimbatore
+2026-06-16,Tata Tea,Beverages,2,140,C046,Madurai
+2026-08-23,Parle-G,Snacks,10,10,C034,Madurai
+2026-01-24,Bru Coffee,Beverages,6,210,C053,Coimbatore
+2026-09-28,Tata Tea,Beverages,5,140,C042,Madurai
+2026-02-15,Pepsodent,Oral Care,4,88,C060,Chennai
+2026-03-11,Sensodyne,Oral Care,4,165,C056,Chennai
+2026-03-11,Colgate,Oral Care,6,95,C026,Madurai
+2026-04-01,Dove,Personal Care,3,62,C060,Chennai
+2026-01-25,Colgate,Oral Care,6,95,C013,Coimbatore
+2026-09-26,Lux,Personal Care,14,38,C055,Trichy
+2026-09-22,Pepsodent,Oral Care,3,88,C008,Chennai
+2026-04-20,Colgate,Oral Care,4,95,C021,Coimbatore
+2026-08-14,Red Label,Beverages,3,125,C019,Trichy
+2026-09-27,Dove,Personal Care,2,62,C007,Trichy
+2026-04-19,Lays,Snacks,4,20,C045,Coimbatore
+2026-01-15,Kurkure,Snacks,12,20,C023,Trichy
+2026-05-22,Colgate,Oral Care,2,95,C029,Coimbatore
+2026-09-08,Closeup,Oral Care,6,92,C052,Chennai
+2026-03-04,Bru Coffee,Beverages,4,210,C028,Chennai
+2026-05-12,Tata Tea,Beverages,1,140,C036,Chennai
+2026-07-17,Colgate,Oral Care,5,95,C024,Chennai
+2026-07-24,Lays,Snacks,3,20,C052,Chennai
+2026-04-19,Colgate,Oral Care,5,95,C023,Trichy
+2026-05-22,Colgate,Oral Care,3,95,C024,Chennai
+2026-06-19,Colgate,Oral Care,1,95,C021,Coimbatore
+2026-07-22,Red Label,Beverages,4,125,C059,Trichy
+2026-02-09,Red Label,Beverages,4,125,C037,Coimbatore
+2026-03-15,Lays,Snacks,11,20,C009,Coimbatore
+2026-06-25,Tata Tea,Beverages,4,140,C044,Chennai
+2026-02-04,Parle-G,Snacks,4,10,C023,Trichy
+2026-05-12,Pepsodent,Oral Care,6,88,C002,Madurai
+2026-05-20,Lays,Snacks,14,20,C059,Trichy
+2026-01-04,Parle-G,Snacks,9,10,C055,Trichy
+2026-01-15,Colgate,Oral Care,6,95,C011,Trichy
+2026-04-11,Colgate,Oral Care,6,95,C049,Coimbatore
+2026-04-13,Pepsodent,Oral Care,4,88,C038,Madurai
+2026-06-03,Bru Coffee,Beverages,6,210,C042,Madurai
+2026-08-20,Bru Coffee,Beverages,2,210,C058,Madurai
+2026-04-06,Tata Tea,Beverages,2,140,C058,Madurai
+2026-09-28,Pepsodent,Oral Care,4,88,C012,Chennai
+2026-01-12,Dove,Personal Care,4,62,C027,Trichy
+2026-06-21,Parle-G,Snacks,6,10,C045,Coimbatore
+2026-05-06,Colgate,Oral Care,2,95,C023,Trichy
+2026-05-28,Lux,Personal Care,3,38,C006,Madurai
+2026-05-27,Bru Coffee,Beverages,2,210,C042,Madurai
+2026-09-28,Parle-G,Snacks,4,10,C048,Chennai
+2026-08-11,Lays,Snacks,5,20,C001,Coimbatore
+2026-05-08,Lays,Snacks,5,20,C015,Trichy
+2026-07-17,Lays,Snacks,14,20,C042,Madurai
+2026-09-23,Lux,Personal Care,8,38,C054,Madurai
+2026-05-28,Red Label,Beverages,5,125,C053,Coimbatore
+2026-05-27,Colgate,Oral Care,5,95,C016,Chennai
+2026-03-27,Colgate,Oral Care,4,95,C023,Trichy
+2026-06-16,Lux,Personal Care,3,38,C049,Coimbatore
+2026-08-16,Pepsodent,Oral Care,6,88,C036,Chennai
+2026-05-10,Colgate,Oral Care,4,95,C021,Coimbatore
+2026-01-18,Colgate,Oral Care,5,95,C014,Madurai
+2026-06-08, Lays ,Snacks,7,20,C022,Madurai
+2026-02-08,Lays,Snacks,13,20,C015,Trichy
+2026-01-19,Bru Coffee,Beverages,1,210,C041,Coimbatore
+2026-05-25,Lays,Snacks,10,20,C053,Coimbatore
+2026-03-07,Tata Tea,Beverages,4,140,C010,Madurai
+2026-09-08,Lux,Personal Care,6,38,C053,Coimbatore
+2026-04-25,Colgate,Oral Care,6,95,C023,Trichy
+2026-06-07,Lux,Personal Care,7,38,C005,Coimbatore
+2026-01-26,Colgate,Oral Care,5,95,C023,Trichy
+2026-07-28,Closeup,Oral Care,6,92,C036,Chennai
+2026-07-19,Bru Coffee,Beverages,6,210,C056,Chennai
+2026-04-19,Lux,Personal Care,11,38,C002,Madurai
+2026-02-03,Tata Tea,Beverages,5,140,C049,Coimbatore
+2026-03-20,Dove,Personal Care,6,62,C058,Madurai
+2026-07-01,Closeup,Oral Care,4,92,C057,Coimbatore
+2026-05-04,Parle-G,Snacks,3,10,C044,Chennai
+2026-06-17,Pepsodent,Oral Care,4,88,C001,Coimbatore
+2026-05-14,Kurkure,Snacks,4,20,C045,Coimbatore
+2026-01-03,Lays,Snacks,5,20,C041,Coimbatore
+2026-03-16,Colgate,Oral Care,2,95,C030,Madurai
+2026-06-26,Bru Coffee,Beverages,1,210,C032,Chennai
+2026-02-24,Colgate,Oral Care,4,95,C009,Coimbatore
+2026-09-25,Tata Tea,Beverages,3,140,C001,Coimbatore
+2026-08-24,Colgate,Oral Care,6,95,C027,Trichy
+2026-04-10,Colgate,Oral Care,3,95,C026,Madurai
+2026-06-19,Tata Tea,Beverages,6,140,C046,Madurai
+2026-04-10,Closeup,Oral Care,3,92,C031,Trichy
+2026-07-16,Lays,Snacks,11,20,C013,Coimbatore
+2026-04-05,Kurkure,Snacks,4,20,C050,Madurai
+2026-02-28,Colgate,Oral Care,1,95,C004,Chennai
+2026-09-27,Colgate,Oral Care,5,95,C022,Madurai
+2026-02-14,Lays,Snacks,3,20,C002,Madurai
+2026-08-26,Colgate,Oral Care,6,95,C026,Madurai
+2026-06-05,Closeup,Oral Care,6,92,C028,Chennai
+2026-04-21,Pepsodent,Oral Care,2,88,C037,Coimbatore
+2026-03-10,Sensodyne,Oral Care,5,165,C054,Madurai
+2026-07-16,Lays,Snacks,8,20,C039,Trichy
+2026-08-21,Lux,Personal Care,4,38,C020,Chennai
+2026-04-27,Colgate,Oral Care,6,95,C027,Trichy
+2026-08-24,Dove,Personal Care,5,62,C059,Trichy
+2026-03-12,Colgate,Oral Care,1,95,C023,Trichy
+2026-07-19,Colgate,Oral Care,3,95,C022,Madurai
+2026-04-05,Tata Tea,Beverages,3,140,C040,Chennai
+2026-04-27,Parle-G,Snacks,15,10,C011,Trichy
+2026-01-08,Colgate,Oral Care,2,95,C023,Trichy
+2026-01-10,Closeup,Oral Care,5,92,C033,Coimbatore
+2026-03-19,Pepsodent,Oral Care,4,88,C040,Chennai
+2026-05-27,Pepsodent,Oral Care,5,88,C010,Madurai
+2026-01-04,Bru Coffee,Beverages,4,210,C056,Chennai
+2026-01-17,Bru Coffee,Beverages,6,210,C002,Madurai
+2026-04-11,Parle-G,Snacks,7,10,C043,Trichy
+2026-09-25,Bru Coffee,Beverages,1,210,C046,Madurai
+2026-02-26,Colgate,Oral Care,2,95,C024,Chennai
+2026-02-15,Parle-G,Snacks,8,10,C041,Coimbatore
+2026-09-14,Dove,Personal Care,1,62,C037,Coimbatore
+2026-07-18,Pepsodent,Oral Care,4,88,C003,Trichy
+2026-01-28,Colgate,Oral Care,6,95,C025,Coimbatore
+2026-09-21,Bru Coffee,Beverages,6,210,C018,Madurai
+2026-08-19,Bru Coffee,Beverages,3,210,C042,Madurai
+2026-06-03,Tata Tea,Beverages,3,140,C056,Chennai
+2026-02-01,Pepsodent,Oral Care,1,88,C006,Madurai
+2026-02-15,Lays,Snacks,5,20,C006,Madurai
+2026-06-17,Kurkure,Snacks,4,20,C059,Trichy
+2026-07-01,Tata Tea,Beverages,3,140,C033,Coimbatore
+2026-04-05,Lays,Snacks,5,20,C042,Madurai
+2026-03-20,Colgate,Oral Care,6,95,C017,Coimbatore
+2026-09-28,Pepsodent,Oral Care,6,88,C011,Trichy
+2026-08-01,Lays,Snacks,14,20,C054,Madurai
+2026-08-13,Kurkure,Snacks,3,20,C043,Trichy
+2026-03-24,Parle-G,Snacks,3,10,C051,Trichy
+2026-07-07,Pepsodent,Oral Care,1,88,C008,Chennai
+2026-08-18,Lays,Snacks,6,20,C060,Chennai
+2026-04-02,Lays,Snacks,12,20,C058,Madurai
+2026-01-13,Colgate,Oral Care,5,95,C021,Coimbatore
+2026-03-20,Lays,Snacks,12,20,C015,Trichy
+2026-05-12,Colgate,Oral Care,3,95,C021,Coimbatore
+2026-07-08,Pepsodent,Oral Care,1,88,C006,Madurai
+2026-08-23,Colgate,Oral Care,5,95,C020,Chennai
+2026-01-16,Lays,Snacks,10,20,C051,Trichy
+2026-04-25,Colgate,Oral Care,5,95,C007,Trichy
+2026-08-23,Bru Coffee,Beverages,1,210,C045,Coimbatore
+2026-01-10,Red Label,Beverages,4,125,C055,Trichy
+2026-07-02,Lays,Snacks,5,20,C044,Chennai
+2026-07-06,Lays,Snacks,8,20,C014,Madurai
+2026-08-11,Lays,Snacks,13,20,C010,Madurai
+2026-06-15,Colgate,Oral Care,6,95,C040,Chennai
+2026-08-15,Red Label,Beverages,2,125,C057,Coimbatore
+2026-04-25,Lux,Personal Care,3,38,C037,Coimbatore
+2026-04-28,Kurkure,Snacks,14,20,C028,Chennai
+2026-08-10,Lays,Snacks,15,20,C052,Chennai
+2026-06-07,Colgate,Oral Care,6,95,C017,Coimbatore
+2026-09-21,Tata Tea,Beverages,5,140,C060,Chennai
+2026-04-17,Tata Tea,Beverages,5,140,C060,Chennai
+2026-04-20,Colgate,Oral Care,3,95,C053,Coimbatore
+2026-06-09,Lays,Snacks,14,20,C021,Coimbatore
+2026-08-09,Tata Tea,Beverages,5,140,C027,Trichy
+2026-04-19,Colgate,Oral Care,4,95,C029,Coimbatore
+2026-08-15,Lays,Snacks,4,20,C032,Chennai
+2026-04-20,Lays,Snacks,7,20,C042,Madurai
+2026-08-08,Red Label,Beverages,1,125,C037,Coimbatore
+2026-04-14,Lays,Snacks,8,20,C050,Madurai
+2026-02-15,Tata Tea,Beverages,5,140,C007,Trichy
+2026-02-19,Colgate,Oral Care,6,95,C014,Madurai
+2026-08-20,Tata Tea,Beverages,6,140,C031,Trichy
+2026-06-04,Red Label,Beverages,3,125,C033,Coimbatore
+2026-04-17,Pepsodent,Oral Care,6,88,C043,Trichy
+2026-06-19,Pepsodent,Oral Care,1,88,C014,Madurai
+2026-04-16,Colgate,Oral Care,4,95,C022,Madurai
+2026-04-18,Lays,Snacks,10,20,C014,Madurai
+2026-05-05,Parle-G,Snacks,11,10,C050,Madurai
+2026-04-12,Sensodyne,Oral Care,5,165,C048,Chennai
+2026-05-23,Lays,Snacks,9,20,C027,Trichy
+2026-09-16,Red Label,Beverages,3,125,C038,Madurai
+2026-04-28,Colgate,Oral Care,3,95,C002,Madurai
+2026-06-02,Sensodyne,Oral Care,3,165,C054,Madurai
+2026-08-19,Lux,Personal Care,6,38,C053,Coimbatore
+2026-05-09,Pepsodent,Oral Care,3,88,C015,Trichy
+2026-05-07,Colgate,Oral Care,2,95,C028,Chennai
+2026-08-27,Lux,Personal Care,6,38,C042,Madurai
+2026-04-26,Kurkure,Snacks,10,20,C059,Trichy
+2026-08-28,Tata Tea,Beverages,5,140,C022,Madurai
+2026-03-18,Tata Tea,Beverages,4,140,C050,Madurai
+2026-01-27,Dove,Personal Care,4,62,C037,Coimbatore
+2026-07-26,Pepsodent,Oral Care,1,88,C042,Madurai
+2026-02-04,Tata Tea,Beverages,3,140,C041,Coimbatore
+2026-04-21,Lays,Snacks,11,20,C038,Madurai
+2026-02-03,Colgate,Oral Care,3,95,C001,Coimbatore
+2026-04-16,Colgate,Oral Care,4,95,C014,Madurai
+2026-01-22,Kurkure,Snacks,14,20,C031,Trichy
+2026-01-01,Kurkure,Snacks,3,20,C042,Madurai
+2026-09-14,Colgate,Oral Care,3,95,C028,Chennai
+2026-04-10,Colgate,Oral Care,4,95,C009,Coimbatore
+2026-07-07,Pepsodent,Oral Care,5,88,C015,Trichy
+2026-04-04,Kurkure,Snacks,8,20,C015,Trichy
+2026-06-07,Colgate,Oral Care,3,95,C024,Chennai
+2026-07-18,Tata Tea,Beverages,6,140,C043,Trichy
+2026-01-13,Lux,Personal Care,6,38,C045,Coimbatore
+2026-04-17,Lays,Snacks,8,20,C028,Chennai
+2026-09-23,Colgate,Oral Care,2,95,C023,Trichy
+2026-06-13,Closeup,Oral Care,2,92,C054,Madurai
+2026-07-28,Pepsodent,Oral Care,2,88,C013,Coimbatore
+2026-02-13,Colgate,Oral Care,1,95,C029,Coimbatore
+2026-05-08,Tata Tea,Beverages,4,140,C025,Coimbatore
+2026-09-07,Parle-G,Snacks,10,10,C027,Trichy
+2026-03-02,Dove,Personal Care,1,62,C031,Trichy
+2026-08-18,Pepsodent,Oral Care,5,88,C012,Chennai
+2026-02-18,Lux,Personal Care,14,38,C056,Chennai
+2026-06-18,Kurkure,Snacks,10,20,C036,Chennai
+2026-07-19,Dove,Personal Care,2,62,C047,Trichy
+2026-09-23,Lays,Snacks,4,20,C031,Trichy
+2026-06-21,Colgate,Oral Care,5,95,C025,Coimbatore
+2026-02-25,Colgate,Oral Care,4,95,C004,Chennai
+2026-06-18,Pepsodent,Oral Care,2,88,C006,Madurai
+2026-05-05,Colgate,Oral Care,6,95,C021,Coimbatore
+2026-07-11,Bru Coffee,Beverages,1,210,C060,Chennai
+2026-07-04,Pepsodent,Oral Care,4,88,C010,Madurai
+2026-08-20,Colgate,Oral Care,5,95,C019,Trichy
+2026-06-20,Kurkure,Snacks,6,20,C003,Trichy
+2026-03-21,Colgate,Oral Care,4,95,C012,Chennai
+2026-03-16,Colgate,Oral Care,4,95,C019,Trichy
+2026-03-24,Sensodyne,Oral Care,1,165,C041,Coimbatore
+2026-08-04,Lays,Snacks,8,20,C036,Chennai
+2026-08-14,Bru Coffee,Beverages,4,210,C055,Trichy
+2026-08-22,Sensodyne,Oral Care,5,165,C029,Coimbatore
+2026-05-06,Pepsodent,Oral Care,1,88,C003,Trichy
+2026-06-10,Closeup,Oral Care,1,92,C002,Madurai
+2026-08-24,Kurkure,Snacks,3,20,C055,Trichy
+2026-06-21,Pepsodent,Oral Care,3,88,C025,Coimbatore
+2026-09-27,Closeup,Oral Care,6,92,C016,Chennai
+2026-08-02,Tata Tea,Beverages,6,140,C039,Trichy
+2026-06-25,Parle-G,Snacks,13,10,C039,Trichy
+2026-07-15,Tata Tea,Beverages,5,140,C005,Coimbatore
+2026-02-27,Pepsodent,Oral Care,6,88,C051,Trichy
+2026-03-09,Lays,Snacks,14,20,C036,Chennai
+2026-04-09,Tata Tea,Beverages,1,140,C028,Chennai
+2026-01-12,Lays,Snacks,15,20,C003,Trichy
+2026-06-22,Tata Tea,Beverages,2,140,C035,Trichy
+2026-05-28,Closeup,Oral Care,2,92,C021,Coimbatore
+2026-03-07,Bru Coffee,Beverages,5,210,C019,Trichy
+2026-09-11,Lays,Snacks,4,20,C051,Trichy
+2026-01-25,Closeup,Oral Care,2,92,C058,Madurai
+2026-05-23,Tata Tea,Beverages,4,140,C056,Chennai
+2026-06-19,Dove,Personal Care,4,62,C045,Coimbatore
+2026-01-07,Closeup,Oral Care,6,92,C024,Chennai
+2026-01-14,Tata Tea,Beverages,5,140,C057,Coimbatore
+2026-03-28,Bru Coffee,Beverages,6,210,C043,Trichy
+2026-04-14,Lays,Snacks,5,20,C051,Trichy
+2026-05-03,Tata Tea,Beverages,3,140,C046,Madurai
+2026-03-06,Pepsodent,Oral Care,3,88,C001,Coimbatore
+2026-09-06,Pepsodent,Oral Care,1,88,C007,Trichy
+2026-08-22,Kurkure,Snacks,9,20,C014,Madurai
+2026-01-20,Colgate,Oral Care,6,95,C030,Madurai
+2026-06-25,Sensodyne,Oral Care,1,165,C034,Madurai
+2026-01-26,Colgate,Oral Care,3,95,C052,Chennai
+2026-08-28,Tata Tea,Beverages,3,140,C001,Coimbatore
+2026-09-23,Pepsodent,Oral Care,3,88,C016,Chennai
+2026-06-01,Sensodyne,Oral Care,5,165,C031,Trichy
+2026-03-09,Lays,Snacks,12,20,C021,Coimbatore
+2026-06-22,Sensodyne,Oral Care,1,165,C052,Chennai
+2026-08-26,Kurkure,Snacks,4,20,C055,Trichy
+2026-02-06,Closeup,Oral Care,6,92,C053,Coimbatore
+2026-09-03,Tata Tea,Beverages,4,140,C017,Coimbatore
+2026-05-28,Colgate,Oral Care,6,95,C030,Madurai
+2026-05-12,Pepsodent,Oral Care,5,88,C005,Coimbatore
+2026-07-21,pepsodent,Oral Care,3,88,C001,Coimbatore
+2026-09-17,Tata Tea,Beverages,1,140,C052,Chennai
+2026-01-03,Colgate,Oral Care,4,95,C013,Coimbatore
+2026-02-26,Colgate,Oral Care,3,95,C013,Coimbatore
+2026-05-04,Red Label,Beverages,6,125,C049,Coimbatore
+2026-06-04,Tata Tea,Beverages,4,140,C045,Coimbatore
+2026-03-22,Bru Coffee,Beverages,6,210,C036,Chennai
+2026-09-06,Lays,Snacks,15,20,C059,Trichy
+2026-03-16,Colgate,Oral Care,6,95,C024,Chennai
+2026-05-11,Pepsodent,Oral Care,2,88,C012,Chennai
+2026-04-25,Sensodyne,Oral Care,3,165,C053,Coimbatore
+2026-01-21,Colgate,Oral Care,1,95,C043,Trichy
+2026-02-19,Red Label,Beverages,4,125,C041,Coimbatore
+2026-03-27,Pepsodent,Oral Care,3,88,C012,Chennai
+2026-05-10,Pepsodent,Oral Care,6,88,C006,Madurai
+2026-09-24,Colgate,Oral Care,4,95,C029,Coimbatore
+2026-01-01,Red Label,Beverages,6,125,C059,Trichy
+2026-06-04,Kurkure,Snacks,10,20,C036,Chennai
+2026-06-16,Colgate,Oral Care,5,95,C027,Trichy
+2026-06-11,Lays,Snacks,4,20,C030,Madurai
+2026-03-22,Red Label,Beverages,2,125,C059,Trichy
+2026-08-02,Lays,Snacks,7,20,C033,Coimbatore
+2026-05-19,Pepsodent,Oral Care,3,88,C005,Coimbatore
+2026-07-18,Tata Tea,Beverages,6,140,C050,Madurai
+2026-01-23,Colgate,Oral Care,5,95,C039,Trichy
+2026-03-14,Colgate,Oral Care,3,95,C020,Chennai
+2026-02-04,Lays,Snacks,6,20,C032,Chennai
+2026-06-05,Parle-G,Snacks,14,10,C053,Coimbatore
+2026-04-24,Colgate,Oral Care,3,95,C006,Madurai
+2026-05-16,Closeup,Oral Care,6,92,C055,Trichy
+2026-09-13,Kurkure,Snacks,10,20,C009,Coimbatore
+2026-07-25,Tata Tea,Beverages,1,140,C008,Chennai
+2026-03-27,Bru Coffee,Beverages,5,210,C039,Trichy
+2026-06-22,Colgate,Oral Care,1,95,C018,Madurai
+2026-04-26,Tata Tea,Beverages,3,140,C023,Trichy
+2026-05-19,Closeup,Oral Care,4,92,C056,Chennai
+2026-05-16,Sensodyne,Oral Care,2,165,C041,Coimbatore
+2026-09-14,Colgate,Oral Care,2,95,C020,Chennai
+2026-05-12,Parle-G,Snacks,8,10,C045,Coimbatore
+2026-05-21,Pepsodent,Oral Care,6,88,C008,Chennai
+2026-08-15,Pepsodent,Oral Care,3,88,C010,Madurai
+2026-05-17,Lays,Snacks,13,20,C053,Coimbatore
+2026-04-10,Colgate,Oral Care,3,95,C024,Chennai
+2026-04-09,Colgate,Oral Care,6,95,C005,Coimbatore
+2026-06-19,Parle-G,Snacks,9,10,C019,Trichy
+2026-02-19,Red Label,Beverages,2,125,C008,Chennai
+2026-08-19,Bru Coffee,Beverages,2,210,C013,Coimbatore
+2026-09-04,Tata Tea,Beverages,4,140,C034,Madurai
+2026-03-22,Colgate,Oral Care,1,95,C010,Madurai
+2026-07-04,Pepsodent,Oral Care,6,88,C015,Trichy
+2026-09-14,Kurkure,Snacks,4,20,C023,Trichy
+2026-03-28,Parle-G,Snacks,11,10,C038,Madurai
+2026-03-01,Colgate,Oral Care,4,95,C025,Coimbatore
+2026-06-16,Dove,Personal Care,4,62,C038,Madurai
+2026-08-08,Kurkure,Snacks,8,20,C050,Madurai
+2026-03-04,Colgate,Oral Care,,95,C021,Coimbatore
+2026-08-23,Lux,Personal Care,4,38,C016,Chennai
+2026-05-08,Pepsodent,Oral Care,4,88,C013,Coimbatore
+2026-06-06,Colgate,Oral Care,2,95,C019,Trichy
+2026-06-01,Parle-G,Snacks,8,10,C010,Madurai
+2026-07-08,Red Label,Beverages,1,125,C041,Coimbatore
+2026-04-26,Red Label,Beverages,3,125,C005,Coimbatore
+2026-04-05,Parle-G,Snacks,4,10,C012,Chennai
+2026-03-11,Colgate,Oral Care,1,95,C017,Coimbatore
+2026-04-04,Colgate,Oral Care,4,95,C057,Coimbatore
+2026-07-05,Lays,Snacks,12,20,C036,Chennai
+2026-07-20,Lays,Snacks,6,20,C050,Madurai
+2026-08-02,Pepsodent,Oral Care,2,88,C014,Madurai
+2026-09-04,Colgate,Oral Care,3,95,C027,Trichy
+2026-08-26,Bru Coffee,Beverages,3,210,C037,Coimbatore
+2026-09-18,Colgate,Oral Care,3,95,C019,Trichy
+2026-05-27,Colgate,Oral Care,4,95,C022,Madurai
+2026-08-22,Sensodyne,Oral Care,1,165,C046,Madurai
+2026-05-11,Closeup,Oral Care,4,92,C052,Chennai
+2026-05-07,Sensodyne,Oral Care,6,165,C060,Chennai
+2026-01-10,Colgate,Oral Care,6,95,C019,Trichy
+2026-06-17,Bru Coffee,Beverages,6,210,C045,Coimbatore
+2026-04-28,Colgate,Oral Care,4,95,C001,Coimbatore
+2026-01-09,Colgate,Oral Care,4,95,C031,Trichy
+2026-04-17,Tata Tea,Beverages,4,140,C019,Trichy
+2026-02-25,Colgate,Oral Care,5,95,C015,Trichy
+2026-06-12,Sensodyne,Oral Care,4,165,C051,Trichy
+2026-04-13,Tata Tea,Beverages,6,140,C004,Chennai
+2026-03-14,Colgate,Oral Care,5,95,C025,Coimbatore
+2026-03-25,Sensodyne,Oral Care,3,165,C035,Trichy
+2026-01-13,Red Label,Beverages,3,125,C039,Trichy
+2026-01-06,Lays,Snacks,7,20,C034,Madurai
+2026-04-12,Lays,Snacks,13,20,C055,Trichy
+2026-07-05,Pepsodent,Oral Care,5,88,C005,Coimbatore
+2026-06-06,Colgate,Oral Care,6,95,C026,Madurai
+2026-01-06,Colgate,Oral Care,2,95,C006,Madurai
+2026-08-01,Colgate,Oral Care,1,95,C018,Madurai
+2026-02-26,Colgate,Oral Care,1,95,C007,Trichy
+2026-04-08,Colgate,Oral Care,2,95,C023,Trichy
+2026-01-18,Colgate,Oral Care,5,95,C016,Chennai
+2026-08-26,Pepsodent,Oral Care,4,88,C010,Madurai
+2026-06-04,Pepsodent,Oral Care,5,88,C011,Trichy
+2026-06-28,Red Label,Beverages,5,125,C060,Chennai
+2026-04-04,Colgate,Oral Care,2,95,C055,Trichy
+2026-07-18,Colgate,Oral Care,4,95,C026,Madurai
+2026-04-02,Colgate,Oral Care,4,95,C030,Madurai
+2026-07-25,Sensodyne,Oral Care,3,165,C047,Trichy
+2026-04-05,Colgate,Oral Care,3,95,C008,Chennai
+2026-09-13,Tata Tea,Beverages,2,140,C049,Coimbatore
+2026-04-08,Colgate,Oral Care,5,95,C017,Coimbatore
+2026-09-16,Lays,Snacks,7,20,C055,Trichy
+2026-08-24,Pepsodent,Oral Care,5,88,C005,Coimbatore
+2026-02-21,Closeup,Oral Care,5,92,C047,Trichy
+2026-06-09,Lays,Snacks,9,20,C057,Coimbatore
+2026-04-06,Colgate,Oral Care,6,95,C013,Coimbatore
+2026-05-06,Pepsodent,Oral Care,6,88,C001,Coimbatore
+2026-06-18,Pepsodent,Oral Care,3,88,C043,Trichy
+2026-06-06,Tata Tea,Beverages,1,140,C043,Trichy
+2026-02-17,Colgate,Oral Care,2,95,C010,Madurai
+2026-08-26,Pepsodent,Oral Care,5,88,C003,Trichy
+2026-06-02,Sensodyne,Oral Care,2,165,C002,Madurai
+2026-05-04,Closeup,Oral Care,6,92,C047,Trichy
+2026-09-28,Red Label,Beverages,3,125,C048,Chennai
+2026-04-21,Colgate,Oral Care,5,95,C010,Madurai
+2026-09-15,Lays,Snacks,15,20,C057,Coimbatore
+2026-06-08,Colgate,Oral Care,3,95,C026,Madurai
+2026-03-02,Dove,Personal Care,2,62,C052,Chennai
+2026-03-16,Colgate,Oral Care,6,95,C004,Chennai
+2026-01-10,Parle-G,Snacks,9,10,C039,Trichy
+2026-02-28,Tata Tea,Beverages,4,140,C018,Madurai
+2026-04-02,Dove,Personal Care,5,62,C050,Madurai
+2026-03-10,Colgate,Oral Care,3,95,C013,Coimbatore
+2026-03-12,Lays,Snacks,6,20,C037,Coimbatore
+2026-04-28,Parle-G,Snacks,7,10,C037,Coimbatore
+2026-07-23,Tata Tea,Beverages,2,140,C007,Trichy
+2026-07-25,Tata Tea,Beverages,4,140,C018,Madurai
+2026-02-15,Red Label,Beverages,3,125,C055,Trichy
+2026-01-27,Dove,Personal Care,3,62,C004,Chennai
+2026-06-15,Lux,Personal Care,14,38,C050,Madurai
+2026-08-05,Colgate,Oral Care,6,95,C018,Madurai
+2026-08-16,Kurkure,Snacks,11,20,C025,Coimbatore
+2026-08-19,Colgate,Oral Care,6,95,C033,Coimbatore
+2026-02-19,Lays,Snacks,4,20,C035,Trichy
+2026-07-19,Colgate,Oral Care,5,95,C024,Chennai
+2026-01-25,Bru Coffee,Beverages,4,210,C057,Coimbatore
+2026-02-09,Colgate,Oral Care,4,95,C004,Chennai
+2026-07-16,Pepsodent,Oral Care,5,88,C012,Chennai
+2026-03-10,Bru Coffee,Beverages,2,210,C034,Madurai
+2026-03-05,Lux,Personal Care,11,38,C048,Chennai
+2026-09-22,Tata Tea,Beverages,5,140,C019,Trichy
+2026-02-21,Kurkure,Snacks,11,20,C011,Trichy
+2026-09-26,Lux,Personal Care,8,38,C055,Trichy
+2026-09-17,Dove,Personal Care,5,62,C052,Chennai
+2026-06-10,Lays,Snacks,11,20,C034,Madurai
+2026-04-03,Bru Coffee,Beverages,1,210,C048,Chennai
+2026-04-24,Pepsodent,Oral Care,1,88,C051,Trichy
+2026-09-21,Tata Tea,Beverages,1,140,C041,Coimbatore
+2026-04-06,Colgate,Oral Care,1,95,C023,Trichy
+2026-06-03,Colgate,Oral Care,5,95,C022,Madurai
+2026-03-16,Colgate,Oral Care,6,95,C016,Chennai
+2026-06-03,Red Label,Beverages,2,125,C032,Chennai
+2026-02-14,Colgate,Oral Care,5,95,C012,Chennai
+2026-03-17,Lux,Personal Care,6,38,C047,Trichy
+2026-07-16,Closeup,Oral Care,6,92,C054,Madurai
+2026-09-17,Red Label,Beverages,3,125,C024,Chennai
+2026-07-22,Closeup,Oral Care,6,92,C034,Madurai
+2026-01-18,Sensodyne,Oral Care,2,165,C054,Madurai
+2026-05-02,Lux,Personal Care,5,38,C047,Trichy
+2026-02-02,Kurkure,Snacks,4,20,C016,Chennai
+2026-01-11,Dove,Personal Care,1,62,C049,Coimbatore
+2026-09-11,Sensodyne,Oral Care,5,165,C042,Madurai
+2026-08-03,Tata Tea,Beverages,3,140,C035,Trichy
+2026-05-16,Colgate,Oral Care,4,95,C016,Chennai
+2026-07-10,Bru Coffee,Beverages,4,210,C014,Madurai
+2026-08-14,Tata Tea,Beverages,6,140,C041,Coimbatore
+2026-08-15,Pepsodent,Oral Care,1,88,C011,Trichy
+2026-07-01,Colgate,Oral Care,1,95,C028,Chennai
+2026-06-20,Sensodyne,Oral Care,5,165,C055,Trichy
+2026-05-12,Kurkure,Snacks,5,20,C038,Madurai
+2026-05-08,Kurkure,Snacks,5,20,C038,Madurai
+2026-06-04,Tata Tea,Beverages,6,140,C055,Trichy
+2026-01-09,Dove,Personal Care,2,62,C049,Coimbatore
+2026-09-15,Pepsodent,Oral Care,1,88,C015,Trichy
+2026-06-19,Red Label,Beverages,2,125,C044,Chennai
+2026-07-04,Colgate,Oral Care,3,95,C022,Madurai
+2026-09-21,Lux,Personal Care,8,38,C056,Chennai
+2026-07-10,Pepsodent,Oral Care,1,88,C002,Madurai
+2026-04-14,Colgate,Oral Care,6,95,C021,Coimbatore
+2026-08-08,Pepsodent,Oral Care,5,88,C011,Trichy
+2026-07-07,Lays,Snacks,8,20,C060,Chennai
+2026-01-18,Colgate,Oral Care,1,95,C025,Coimbatore
+2026-06-18,Bru Coffee,Beverages,6,210,C022,Madurai
+2026-09-04,Lays,Snacks,6,20,C043,Trichy
+2026-06-21,lays,Snacks,15,20,C005,Coimbatore
+2026-05-13,Colgate,Oral Care,5,95,C035,Trichy
+2026-04-01,Lux,Personal Care,10,38,C054,Madurai
+2026-07-07,Lays,Snacks,12,20,C035,Trichy
+2026-06-10,Tata Tea,Beverages,4,140,C015,Trichy
+2026-07-17,Colgate,Oral Care,1,95,C026,Madurai
+2026-02-11,Dove,Personal Care,4,62,C009,Coimbatore
+2026-07-03,Closeup,Oral Care,4,92,C046,Madurai
+2026-03-14,Kurkure,Snacks,9,20,C005,Coimbatore
+2026-08-27,Colgate,Oral Care,4,95,C024,Chennai
+2026-07-01,Kurkure,Snacks,9,20,C037,Coimbatore
+2026-06-13,Lays,Snacks,8,20,C050,Madurai
+2026-01-09,Colgate,Oral Care,1,95,C024,Chennai
+2026-06-17,Red Label,Beverages,6,125,C050,Madurai
+2026-03-18,Tata Tea,Beverages,2,140,C043,Trichy
+2026-06-28,Sensodyne,Oral Care,3,165,C056,Chennai
+2026-09-13,Parle-G,Snacks,14,10,C053,Coimbatore
+2026-02-17,Lays,Snacks,14,20,C060,Chennai
+2026-04-16,Lux,Personal Care,11,38,C042,Madurai
+2026-08-07,red label,Beverages,3,125,C048,Chennai
+2026-09-05,Tata Tea,Beverages,5,140,C035,Trichy
+2026-01-16,Pepsodent,Oral Care,6,88,C055,Trichy
+2026-02-20,Lays,Snacks,9,20,C046,Madurai
+2026-05-17,Kurkure,Snacks,4,20,C041,Coimbatore
+2026-01-24,Closeup,Oral Care,1,92,C053,Coimbatore
+2026-04-21,Tata Tea,Beverages,6,140,C018,Madurai
+2026-09-16,Lays,Snacks,7,20,C055,Trichy
+2026-01-20,Tata Tea,Beverages,1,140,C032,Chennai
+2026-07-06,Tata Tea,Beverages,2,140,C006,Madurai
+2026-08-02,Pepsodent,Oral Care,3,88,C047,Trichy
+2026-04-04,Sensodyne,Oral Care,2,165,C050,Madurai
+2026-07-19,Dove,Personal Care,2,62,C045,Coimbatore
+2026-07-17,Bru Coffee,Beverages,5,210,C029,Coimbatore
+2026-07-06,Sensodyne,Oral Care,4,165,C015,Trichy
+2026-02-21,Colgate,Oral Care,2,95,C020,Chennai
+2026-09-06,Pepsodent,Oral Care,1,88,C003,Trichy
+2026-06-13,Pepsodent,Oral Care,2,88,C008,Chennai
+2026-03-27,Sensodyne,Oral Care,4,165,C044,Chennai
+2026-03-12,Colgate,Oral Care,1,95,C002,Madurai
+2026-07-12, Pepsodent ,Oral Care,4,88,C039,Trichy
+2026-09-25,Lux,Personal Care,8,38,C039,Trichy
+2026-01-11,Colgate,Oral Care,4,95,C010,Madurai
+2026-01-24,Sensodyne,Oral Care,5,165,C024,Chennai
+2026-05-16,Pepsodent,Oral Care,6,88,C014,Madurai
+2026-02-01,Closeup,Oral Care,2,92,C039,Trichy
+2026-09-20,Closeup,Oral Care,3,92,C053,Coimbatore
+2026-03-13,Colgate,Oral Care,5,95,C021,Coimbatore
+2026-04-18,Parle-G,Snacks,14,10,C046,Madurai
+2026-08-18,Sensodyne,Oral Care,2,165,C043,Trichy
+2026-04-09,Tata Tea,Beverages,1,140,C010,Madurai
+2026-06-05,Bru Coffee,Beverages,2,210,C059,Trichy
+2026-01-22,Tata Tea,Beverages,5,140,C047,Trichy
+2026-04-08,Kurkure,Snacks,3,20,C045,Coimbatore
+2026-08-08,Closeup,Oral Care,6,92,C050,Madurai
+2026-08-03,Tata Tea,Beverages,5,140,C053,Coimbatore
+2026-02-08,Parle-G,Snacks,11,10,C033,Coimbatore
+2026-02-16,Colgate,Oral Care,5,95,C020,Chennai
+2026-01-14,Pepsodent,Oral Care,2,88,C060,Chennai
+2026-04-13,Lays,Snacks,15,20,C040,Chennai
+2026-06-24,Tata Tea,Beverages,5,140,C003,Trichy
+2026-01-16,Closeup,Oral Care,4,92,C040,Chennai
+2026-06-09,Kurkure,Snacks,8,20,C041,Coimbatore
+2026-06-13,Pepsodent,Oral Care,6,88,C015,Trichy
+2026-03-15,Bru Coffee,Beverages,5,210,C012,Chennai
+2026-02-12,Red Label,Beverages,3,125,C038,Madurai
+2026-05-16,Closeup,Oral Care,1,92,C043,Trichy
+2026-02-07,Dove,Personal Care,1,62,C014,Madurai
+2026-07-23,Dove,Personal Care,5,62,C023,Trichy
+2026-08-15,Colgate,Oral Care,5,95,C020,Chennai
+2026-08-24,Lays,Snacks,4,20,C038,Madurai
+2026-04-09,Lays,Snacks,6,20,C036,Chennai
+2026-07-19,Pepsodent,Oral Care,6,88,C001,Coimbatore
+2026-03-08,Kurkure,Snacks,9,20,C046,Madurai
+2026-06-01,Tata Tea,Beverages,2,140,C034,Madurai
+2026-05-22,Lays,Snacks,11,20,C057,Coimbatore
+2026-06-01,Pepsodent,Oral Care,6,88,C007,Trichy
+2026-08-01,Pepsodent,Oral Care,6,88,C008,Chennai
+2026-07-18,Colgate,Oral Care,2,95,C018,Madurai
+2026-04-01,Red Label,Beverages,6,125,C011,Trichy
+2026-09-02,Colgate,Oral Care,5,95,C018,Madurai
+2026-03-04,Dove,Personal Care,5,62,C059,Trichy
+2026-06-12,Colgate,Oral Care,6,95,C024,Chennai
+2026-06-07,Colgate,Oral Care,4,95,C029,Coimbatore
+2026-05-10,Red Label,Beverages,3,125,C028,Chennai
+2026-09-11,Pepsodent,Oral Care,6,88,C011,Trichy
+2026-08-10,Pepsodent,Oral Care,3,88,C006,Madurai
+2026-09-22,Bru Coffee,Beverages,5,210,C039,Trichy
+2026-04-05,Colgate,Oral Care,4,95,C021,Coimbatore
+2026-04-05,Lays,Snacks,11,20,C033,Coimbatore
+2026-07-11,Pepsodent,Oral Care,5,88,C037,Coimbatore
+2026-06-14,Pepsodent,Oral Care,4,88,C013,Coimbatore
+2026-08-07,Pepsodent,Oral Care,5,88,C007,Trichy
+2026-03-17,Colgate,Oral Care,1,95,C057,Coimbatore
+2026-09-09,Kurkure,Snacks,7,20,C050,Madurai
+2026-03-21,Colgate,Oral Care,4,95,C028,Chennai
+2026-01-09,Colgate,Oral Care,6,95,C021,Coimbatore
+2026-07-14,Tata Tea,Beverages,2,140,C035,Trichy
+2026-07-21,Tata Tea,Beverages,5,140,C046,Madurai
+2026-06-01,Tata Tea,Beverages,5,140,C016,Chennai
+2026-08-27,Colgate,Oral Care,4,95,C028,Chennai
+2026-09-26,Parle-G,Snacks,11,10,C037,Coimbatore
+2026-08-09,Tata Tea,Beverages,6,140,C011,Trichy
+2026-07-18,Tata Tea,Beverages,1,140,C018,Madurai
+2026-05-01,Pepsodent,Oral Care,6,88,C004,Chennai
+2026-01-08,Sensodyne,Oral Care,3,165,C059,Trichy
+2026-05-06,Lays,Snacks,15,20,C048,Chennai
+2026-08-23,Closeup,Oral Care,2,92,C044,Chennai
+2026-01-07,Colgate,Oral Care,1,95,C019,Trichy
+2026-01-05,Closeup,Oral Care,5,92,C056,Chennai
+2026-04-04,Colgate,Oral Care,4,95,C032,Chennai
+2026-08-20,Colgate,Oral Care,4,95,C022,Madurai
+2026-08-20,Colgate,Oral Care,3,95,C021,Coimbatore
+2026-07-23,Lux,Personal Care,10,38,C002,Madurai
+2026-08-02,Lays,Snacks,12,20,C022,Madurai
+2026-01-05,Lays,Snacks,3,20,C035,Trichy
+2026-05-25,Dove,Personal Care,6,62,C025,Coimbatore
+2026-08-20,Colgate,Oral Care,5,95,C029,Coimbatore
+2026-07-24,Tata Tea,Beverages,3,140,C016,Chennai
+2026-07-12,Dove,Personal Care,1,62,C031,Trichy
+2026-02-06,Kurkure,Snacks,3,20,C036,Chennai
+2026-01-05,Parle-G,Snacks,9,10,C009,Coimbatore
+2026-06-26,Lays,Snacks,14,20,C003,Trichy
+2026-01-04,Red Label,Beverages,3,125,C048,Chennai
+2026-06-16,kurkure,Snacks,10,20,C056,Chennai
+2026-05-24,Colgate,Oral Care,4,95,C029,Coimbatore
+2026-04-18,Red Label,Beverages,6,125,C005,Coimbatore
+2026-04-22,Kurkure,Snacks,14,20,C042,Madurai
+2026-07-06,Dove,Personal Care,2,62,C047,Trichy
+2026-01-06,Colgate,Oral Care,5,95,C020,Chennai
+2026-08-23,Pepsodent,Oral Care,3,88,C009,Coimbatore
+2026-08-16,Pepsodent,Oral Care,6,88,C020,Chennai
+2026-07-13,Dove,Personal Care,3,62,C043,Trichy
+2026-03-12,Tata Tea,Beverages,3,140,C022,Madurai
+2026-03-18,Bru Coffee,Beverages,2,210,C033,Coimbatore
+2026-08-12,Lux,Personal Care,6,38,C051,Trichy
+2026-01-04,Colgate,Oral Care,2,95,C022,Madurai
+2026-07-11,Sensodyne,Oral Care,6,165,C023,Trichy
+2026-08-04,Pepsodent,Oral Care,4,88,C012,Chennai
+2026-09-25,Colgate,Oral Care,2,95,C026,Madurai
+2026-09-15,Pepsodent,Oral Care,2,88,C006,Madurai
+2026-05-09,Sensodyne,Oral Care,2,165,C034,Madurai
+2026-02-12,Lays,Snacks,12,20,C019,Trichy
+2026-08-20,Parle-G,Snacks,15,10,C048,Chennai
+2026-09-12,Red Label,Beverages,5,125,C033,Coimbatore
+2026-04-28,Sensodyne,Oral Care,2,165,C041,Coimbatore
+2026-03-02,Colgate,Oral Care,1,95,C015,Trichy
+2026-08-13,Colgate,Oral Care,4,95,C017,Coimbatore
+2026-04-10,Colgate,Oral Care,6,95,C012,Chennai
+2026-01-20,Lux,Personal Care,6,38,C027,Trichy
+2026-03-18,Tata Tea,Beverages,3,140,C053,Coimbatore
+2026-01-04,Colgate,Oral Care,6,95,C017,Coimbatore
+2026-02-16,Red Label,Beverages,3,125,C045,Coimbatore
+2026-03-18,Lays,Snacks,13,20,C056,Chennai
+2026-01-19,Colgate,Oral Care,1,95,C015,Trichy
+2026-03-22,Colgate,Oral Care,4,95,C006,Madurai
+2026-02-27,Red Label,Beverages,3,125,C057,Coimbatore
+2026-02-02,Colgate,Oral Care,4,95,C021,Coimbatore
+2026-09-22,Tata Tea,Beverages,2,140,C041,Coimbatore
+2026-08-05,Pepsodent,Oral Care,5,88,C052,Chennai
+2026-06-17,Lays,Snacks,12,20,C029,Coimbatore
+2026-05-01,Lays,Snacks,13,20,C036,Chennai
+2026-08-16,Tata Tea,Beverages,3,140,C021,Coimbatore
+2026-07-03,Pepsodent,Oral Care,2,88,C007,Trichy
+2026-07-10,Tata Tea,Beverages,1,140,C058,Madurai
+2026-08-10,Pepsodent,Oral Care,1,88,C014,Madurai
+2026-03-25,Sensodyne,Oral Care,5,165,C038,Madurai
+2026-01-17,Colgate,Oral Care,2,95,C014,Madurai
+2026-02-22,Tata Tea,Beverages,3,140,C049,Coimbatore
+2026-06-24,Pepsodent,Oral Care,2,88,C058,Madurai
+2026-09-05,Colgate,Oral Care,6,95,C017,Coimbatore
+2026-01-02,Colgate,Oral Care,1,95,C019,Trichy
+2026-07-10,Tata Tea,Beverages,4,140,C032,Chennai
+2026-02-28,Kurkure,Snacks,9,20,C040,Chennai
+2026-04-21,Red Label,Beverages,2,125,C056,Chennai
+2026-02-11,Sensodyne,Oral Care,3,165,C012,Chennai
+2026-03-11,Lays,Snacks,10,20,C051,Trichy
+2026-04-22,Lux,Personal Care,8,38,C013,Coimbatore
+2026-03-01,Sensodyne,Oral Care,2,165,C053,Coimbatore
+2026-06-18,Pepsodent,Oral Care,1,88,C011,Trichy
+2026-05-08,Pepsodent,Oral Care,6,88,C001,Coimbatore
+2026-07-14,Tata Tea,Beverages,6,140,C048,Chennai
+2026-07-13,Parle-G,Snacks,15,10,C053,Coimbatore
+2026-05-06,Closeup,Oral Care,4,92,C046,Madurai
+2026-05-14,Parle-G,Snacks,8,10,C031,Trichy
+2026-07-03,Pepsodent,Oral Care,2,88,C017,Coimbatore
+2026-02-21,Tata Tea,Beverages,4,140,C016,Chennai
+2026-01-11,Tata Tea,Beverages,4,140,C042,Madurai
+2026-06-28,Dove,Personal Care,1,62,C057,Coimbatore
+2026-03-02,Bru Coffee,Beverages,5,210,C048,Chennai
+2026-03-08,Closeup,Oral Care,1,92,C045,Coimbatore
+2026-07-10,Lays,Snacks,13,20,C060,Chennai
+2026-02-02,Red Label,Beverages,5,125,C047,Trichy
+2026-01-11,Pepsodent,Oral Care,2,88,C017,Coimbatore
+2026-08-02,Lux,Personal Care,13,38,C036,Chennai
+2026-02-10,Colgate,Oral Care,6,95,C014,Madurai
+2026-04-03,Lux,Personal Care,5,38,C052,Chennai
+2026-06-08,Sensodyne,Oral Care,3,165,C024,Chennai
+2026-04-17,Closeup,Oral Care,4,92,C051,Trichy
+2026-08-16,Tata Tea,Beverages,3,140,C002,Madurai
+2026-02-11,Pepsodent,Oral Care,3,88,C028,Chennai
+2026-07-17,Kurkure,Snacks,5,20,C014,Madurai
+2026-07-08,Colgate,Oral Care,4,95,C025,Coimbatore
+2026-08-11,Pepsodent,Oral Care,3,88,C042,Madurai
+2026-02-06,Parle-G,Snacks,12,10,C041,Coimbatore
+2026-09-08,Pepsodent,Oral Care,3,88,C006,Madurai
+2026-01-13,Tata Tea,Beverages,4,140,C042,Madurai
+2026-02-21,Colgate,Oral Care,3,95,C011,Trichy
+2026-01-12,Closeup,Oral Care,5,92,C044,Chennai
+2026-05-19,Lays,Snacks,6,20,C029,Coimbatore
+2026-07-12,Pepsodent,Oral Care,3,88,C027,Trichy
+2026-08-28,Tata Tea,Beverages,3,140,C054,Madurai
+2026-04-03,Dove,Personal Care,3,62,C048,Chennai
+2026-09-26,Lays,Snacks,4,20,C002,Madurai
+2026-09-25,Bru Coffee,Beverages,4,210,C036,Chennai
+2026-09-04,Closeup,Oral Care,4,92,C031,Trichy
+2026-05-21,Lux,Personal Care,8,38,C034,Madurai
+2026-08-11,Pepsodent,Oral Care,6,88,C014,Madurai
+2026-02-20,Bru Coffee,Beverages,5,210,C012,Chennai
+2026-07-23,Dove,Personal Care,2,62,C036,Chennai
+2026-09-23,Tata Tea,Beverages,1,140,C038,Madurai
+2026-05-13,Colgate,Oral Care,5,95,C025,Coimbatore
+2026-02-10,Colgate,Oral Care,4,95,C016,Chennai
+2026-08-15,Bru Coffee,Beverages,1,210,C055,Trichy
+2026-08-23,Lays,Snacks,13,20,C058,Madurai
+2026-08-15,Colgate,Oral Care,6,95,C028,Chennai
+2026-03-19,Colgate,Oral Care,6,95,C024,Chennai
+2026-04-27,Colgate,Oral Care,1,95,C025,Coimbatore
+2026-08-03,Tata Tea,Beverages,1,140,C001,Coimbatore
+2026-06-07,Kurkure,Snacks,13,20,C011,Trichy
+2026-08-08,Lux,Personal Care,12,38,C045,Coimbatore
+2026-01-08,Sensodyne,Oral Care,3,165,C038,Madurai
+2026-02-24,Colgate,Oral Care,4,95,C026,Madurai
+2026-07-14,Closeup,Oral Care,2,92,C025,Coimbatore
+2026-07-12,Lays,Snacks,6,20,C033,Coimbatore
+2026-03-26,Kurkure,Snacks,14,20,C052,Chennai
+2026-06-19,Tata Tea,Beverages,3,140,C035,Trichy
+2026-07-21,Colgate,Oral Care,6,95,C023,Trichy
+2026-02-22,Colgate,Oral Care,6,95,C023,Trichy
+2026-07-25,Colgate,Oral Care,4,95,C023,Trichy
+2026-05-03,Pepsodent,Oral Care,6,88,C004,Chennai
+2026-08-06,Pepsodent,Oral Care,6,88,C013,Coimbatore
+2026-06-05,Red Label,Beverages,1,125,C053,Coimbatore
+2026-07-06,Red Label,Beverages,5,125,C044,Chennai
+2026-08-08,Colgate,Oral Care,5,95,C023,Trichy
+2026-04-05,Lays,Snacks,4,20,C004,Chennai
+2026-08-10,Tata Tea,Beverages,4,140,C044,Chennai
+2026-09-16,Lays,Snacks,8,20,C058,Madurai
+2026-02-08,Colgate,Oral Care,4,95,C029,Coimbatore
+2026-06-22,Colgate,Oral Care,3,95,C027,Trichy
+2026-03-02,Colgate,Oral Care,3,95,C003,Trichy
+2026-05-07,Lays,Snacks,10,20,C042,Madurai
+2026-07-13,Tata Tea,Beverages,4,140,C031,Trichy
+2026-08-27,Colgate,Oral Care,6,95,C025,Coimbatore
+2026-05-02,Dove,Personal Care,5,62,C031,Trichy
+2026-02-05,Lays,Snacks,5,20,C053,Coimbatore
+2026-03-24,Lays,Snacks,11,20,C023,Trichy
+2026-05-09,Colgate,Oral Care,5,95,C020,Chennai
+2026-07-05,Pepsodent,Oral Care,6,88,C005,Coimbatore
+2026-06-28,Lays,Snacks,11,20,C053,Coimbatore
+2026-03-01,Lux,Personal Care,5,38,C030,Madurai
+2026-04-19,Closeup,Oral Care,5,92,C011,Trichy
+2026-09-01,Dove,Personal Care,4,62,C057,Coimbatore
+2026-02-08,Pepsodent,Oral Care,6,88,C022,Madurai
+2026-09-18,Pepsodent,Oral Care,5,88,C014,Madurai
+2026-04-14,Lays,Snacks,4,20,C040,Chennai
+2026-03-10,Red Label,Beverages,6,125,C044,Chennai
+2026-04-05,Pepsodent,Oral Care,4,88,C052,Chennai
+2026-07-10,Pepsodent,Oral Care,3,88,C002,Madurai
+2026-02-24,Colgate,Oral Care,1,95,C026,Madurai
+2026-06-07,Sensodyne,Oral Care,2,165,C047,Trichy
+2026-02-16,Colgate,Oral Care,6,95,C005,Coimbatore
+2026-01-08,Tata Tea,Beverages,2,140,C052,Chennai
+2026-05-23,Red Label,Beverages,1,125,C054,Madurai
+2026-09-01,Closeup,Oral Care,1,92,C034,Madurai
+2026-01-19,Kurkure,Snacks,9,20,C045,Coimbatore
+2026-04-04,Colgate,Oral Care,3,95,C014,Madurai
+2026-03-10,Colgate,Oral Care,5,95,C001,Coimbatore
+2026-05-09,Lays,Snacks,6,20,C055,Trichy
+2026-07-22,Lays,Snacks,12,20,C051,Trichy
+2026-01-24,Closeup,Oral Care,4,92,C040,Chennai
+2026-05-17,Tata Tea,Beverages,6,140,C059,Trichy
+2026-01-08,Parle-G,Snacks,9,10,C007,Trichy
+2026-05-21,Pepsodent,Oral Care,6,88,C005,Coimbatore
+2026-07-23,Lays,Snacks,12,20,C052,Chennai
+2026-08-13,Parle-G,Snacks,3,10,C016,Chennai
+2026-07-10,Tata Tea,Beverages,5,140,C058,Madurai
+2026-02-08,Colgate,Oral Care,3,95,C014,Madurai
+2026-01-28,Colgate,Oral Care,3,95,C029,Coimbatore
+2026-03-20,Closeup,Oral Care,5,92,C022,Madurai
+2026-05-11,Tata Tea,Beverages,6,140,C054,Madurai
+2026-02-26,Tata Tea,Beverages,4,140,C040,Chennai
+2026-06-02,Kurkure,Snacks,11,20,C040,Chennai
+2026-06-14,Sensodyne,Oral Care,1,165,C058,Madurai
+2026-02-10,Lux,Personal Care,15,38,C055,Trichy
+2026-05-04,Closeup,Oral Care,3,92,C019,Trichy
+2026-01-10,Colgate,Oral Care,1,95,C026,Madurai
+2026-05-11,Lux,Personal Care,10,38,C059,Trichy
+2026-02-16,Red Label,Beverages,1,125,C028,Chennai
+2026-08-27,Tata Tea,Beverages,4,140,C031,Trichy
+2026-04-02,Dove,Personal Care,1,62,C045,Coimbatore
+2026-02-28,Bru Coffee,Beverages,3,210,C011,Trichy
+2026-07-17,Colgate,Oral Care,6,95,C017,Coimbatore
+2026-09-01,Kurkure,Snacks,12,20,C024,Chennai
+2026-08-10,Sensodyne,Oral Care,4,165,C056,Chennai
+2026-01-28,Colgate,Oral Care,3,95,C005,Coimbatore
+2026-09-03,Lays,Snacks,12,20,C045,Coimbatore
+2026-05-23,Pepsodent,Oral Care,3,88,C008,Chennai
+2026-08-03,Parle-G,Snacks,4,10,C040,Chennai
+2026-03-06,Lux,Personal Care,,38,C035,Trichy
+2026-03-25,Dove,Personal Care,1,62,C046,Madurai
+2026-05-05,Lays,Snacks,4,20,C019,Trichy
+2026-04-03,Parle-G,Snacks,9,10,C007,Trichy
+2026-02-24,Dove,Personal Care,5,62,C027,Trichy
+2026-06-08,Colgate,Oral Care,5,95,C018,Madurai
+2026-02-21,Red Label,Beverages,3,125,C056,Chennai
+2026-03-09,Colgate,Oral Care,2,95,C017,Coimbatore
+2026-02-17,Pepsodent,Oral Care,4,88,C046,Madurai
+2026-08-04,Lays,Snacks,9,20,C026,Madurai
+2026-07-12,Dove,Personal Care,5,62,C056,Chennai
+2026-08-24,Colgate,Oral Care,3,95,C020,Chennai
+2026-06-17,Tata Tea,Beverages,6,140,C025,Coimbatore
+2026-07-05,Sensodyne,Oral Care,2,165,C040,Chennai
+2026-01-08,Tata Tea,Beverages,2,140,C038,Madurai
+2026-08-04,Colgate,Oral Care,6,95,C028,Chennai
+2026-02-26,Lays,Snacks,8,20,C049,Coimbatore
+2026-07-14,Lux,Personal Care,12,38,C035,Trichy
+2026-08-04,Pepsodent,Oral Care,1,88,C004,Chennai
+2026-03-16,Lays,Snacks,15,20,C031,Trichy
+2026-09-02,Red Label,Beverages,3,125,C054,Madurai
+2026-08-18,Pepsodent,Oral Care,2,88,C008,Chennai
+2026-01-05,Colgate,Oral Care,2,95,C034,Madurai
+2026-03-13,Parle-G,Snacks,8,10,C049,Coimbatore
+2026-04-15,Colgate,Oral Care,4,95,C030,Madurai
+2026-01-08,Kurkure,Snacks,10,20,C051,Trichy
+2026-03-28,Sensodyne,Oral Care,2,165,C018,Madurai
+2026-03-16,Red Label,Beverages,6,125,C054,Madurai
+2026-01-19,Lays,Snacks,9,20,C050,Madurai
+2026-07-09,Lays,Snacks,12,20,C038,Madurai
+2026-09-09,Tata Tea,Beverages,2,140,C025,Coimbatore
+2026-03-12,Colgate,Oral Care,1,95,C020,Chennai
+2026-08-15,Colgate,Oral Care,3,95,C025,Coimbatore
+2026-05-16,Parle-G,Snacks,13,10,C047,Trichy
+2026-03-02,Lux,Personal Care,9,38,C032,Chennai
+2026-07-17,Lux,Personal Care,12,38,C035,Trichy
+2026-05-21,Sensodyne,Oral Care,3,165,C045,Coimbatore
+2026-08-15,Pepsodent,Oral Care,6,88,C048,Chennai
+2026-04-01,Tata Tea,Beverages,2,140,C060,Chennai
+2026-04-12,Dove,Personal Care,5,62,C060,Chennai
+2026-05-26,Colgate,Oral Care,4,95,C018,Madurai
+2026-07-24,Lays,Snacks,13,20,C029,Coimbatore
+2026-06-05,Colgate,Oral Care,3,95,C028,Chennai
+2026-05-22,Red Label,Beverages,2,125,C016,Chennai
+2026-08-07,Lays,Snacks,4,20,C032,Chennai
+2026-02-04,Parle-G,Snacks,6,10,C060,Chennai
+2026-01-20,Bru Coffee,Beverages,4,210,C041,Coimbatore
+2026-05-20,Tata Tea,Beverages,6,140,C046,Madurai
+2026-02-11,Pepsodent,Oral Care,6,88,C050,Madurai
+2026-09-13,Lays,Snacks,8,20,C039,Trichy
+2026-03-23,Bru Coffee,Beverages,4,210,C012,Chennai
+2026-07-03,Sensodyne,Oral Care,5,165,C032,Chennai
+2026-08-18,Closeup,Oral Care,4,92,C060,Chennai
+2026-05-22,Dove,Personal Care,5,62,C049,Coimbatore
+2026-02-02,Colgate,Oral Care,2,95,C023,Trichy
+2026-03-26,Colgate,Oral Care,6,95,C004,Chennai
+2026-08-21,Tata Tea,Beverages,2,140,C006,Madurai
+2026-06-27,Lays,Snacks,4,20,C009,Coimbatore
+2026-08-11,Lays,Snacks,3,20,C026,Madurai
+2026-08-07,Tata Tea,Beverages,4,140,C036,Chennai
+2026-03-08,Pepsodent,Oral Care,1,88,C036,Chennai
+2026-04-27,Kurkure,Snacks,10,20,C058,Madurai
+2026-03-14,Lays,Snacks,3,20,C045,Coimbatore
+2026-01-23,Closeup,Oral Care,4,92,C038,Madurai
+2026-09-13,Colgate,Oral Care,5,95,C029,Coimbatore
+2026-03-25,Colgate,Oral Care,2,95,C004,Chennai
+2026-06-02,Closeup,Oral Care,6,92,C037,Coimbatore
+2026-06-09,Lux,Personal Care,14,38,C058,Madurai
+2026-05-25,parle-g,Snacks,6,10,C036,Chennai
+2026-06-16,Kurkure,Snacks,6,20,C047,Trichy
+2026-08-24,Sensodyne,Oral Care,1,165,C037,Coimbatore
+2026-04-03,Lays,Snacks,3,20,C051,Trichy
+2026-01-06,Colgate,Oral Care,3,95,C006,Madurai
+2026-01-09,KURKURE,Snacks,9,20,C042,Madurai
+2026-06-22, Colgate ,Oral Care,5,95,C023,Trichy
+2026-08-02,Pepsodent,Oral Care,1,88,C008,Chennai
+2026-04-12,Kurkure,Snacks,13,20,C035,Trichy
+2026-06-23,Sensodyne,Oral Care,5,165,C002,Madurai
+2026-01-25,Red Label,Beverages,4,125,C049,Coimbatore
+2026-01-09,Colgate,Oral Care,1,95,C054,Madurai
+2026-09-06,Bru Coffee,Beverages,6,210,C026,Madurai
+2026-02-17,Pepsodent,Oral Care,6,88,C029,Coimbatore
+2026-02-24,Colgate,Oral Care,5,95,C008,Chennai
+2026-04-03,Closeup,Oral Care,,92,C053,Coimbatore
+2026-07-28,Colgate,Oral Care,2,95,C024,Chennai
+2026-06-09,Tata Tea,Beverages,5,140,C049,Coimbatore
+2026-04-19,Closeup,Oral Care,1,92,C014,Madurai
+2026-06-09,Bru Coffee,Beverages,2,210,C060,Chennai
+2026-05-25,Lays,Snacks,3,20,C054,Madurai
+2026-03-10,Colgate,Oral Care,1,95,C005,Coimbatore
+2026-08-09,Pepsodent,Oral Care,3,88,C006,Madurai
+2026-01-05,Colgate,Oral Care,2,95,C012,Chennai
+2026-02-09,Colgate,Oral Care,4,95,C019,Trichy
+2026-07-21,Bru Coffee,Beverages,2,210,C056,Chennai
+2026-06-13,Kurkure,Snacks,13,20,C036,Chennai
+2026-04-08,Parle-G,Snacks,3,10,C047,Trichy
+2026-07-18,Parle-G,Snacks,12,10,C049,Coimbatore
+2026-04-05,Kurkure,Snacks,12,20,C036,Chennai
+2026-09-01,Lays,Snacks,12,20,C055,Trichy
+2026-05-12,Colgate,Oral Care,3,95,C025,Coimbatore
+2026-01-01,Tata Tea,Beverages,3,140,C029,Coimbatore
+2026-03-18,Colgate,Oral Care,3,95,C016,Chennai
+2026-07-20,Pepsodent,Oral Care,1,88,C011,Trichy
+2026-03-15,Sensodyne,Oral Care,2,165,C046,Madurai
+2026-07-15,Dove,Personal Care,5,62,C019,Trichy
+2026-03-07,Tata Tea,Beverages,4,140,C054,Madurai
+2026-05-18,Colgate,Oral Care,3,95,C019,Trichy
+2026-04-20,Red Label,Beverages,4,125,C018,Madurai
+2026-04-20,Colgate,Oral Care,3,95,C009,Coimbatore
+2026-07-21,Pepsodent,Oral Care,6,88,C030,Madurai
+2026-03-13,Colgate,Oral Care,4,95,C002,Madurai
+2026-06-04,Dove,Personal Care,6,62,C048,Chennai
+2026-09-22,Dove,Personal Care,4,62,C051,Trichy
+2026-05-03,Colgate,Oral Care,5,95,C022,Madurai
+2026-05-12,Lays,Snacks,12,20,C002,Madurai
+2026-03-13,Bru Coffee,Beverages,2,210,C055,Trichy
+2026-04-15,Bru Coffee,Beverages,1,210,C007,Trichy
+2026-09-09,Tata Tea,Beverages,2,140,C057,Coimbatore
+2026-02-17,Pepsodent,Oral Care,6,88,C051,Trichy
+2026-08-19,Bru Coffee,Beverages,6,210,C027,Trichy
+2026-07-22,Tata Tea,Beverages,6,140,C052,Chennai
+2026-07-05,Tata Tea,Beverages,4,140,C034,Madurai
+2026-08-03,Colgate,Oral Care,6,95,C056,Chennai
+2026-01-23,Sensodyne,Oral Care,1,165,C015,Trichy
+2026-02-21,Kurkure,Snacks,9,20,C050,Madurai
+2026-09-13,Red Label,Beverages,4,125,C037,Coimbatore
+2026-03-15,Tata Tea,Beverages,4,140,C036,Chennai
+2026-06-09,Parle-G,Snacks,9,10,C035,Trichy
+2026-09-09,Bru Coffee,Beverages,3,210,C056,Chennai
+2026-03-15,Colgate,Oral Care,3,95,C019,Trichy
+2026-04-02,Closeup,Oral Care,5,92,C057,Coimbatore
+2026-07-08, Dove ,Personal Care,3,62,C028,Chennai
+2026-07-06,Lays,Snacks,9,20,C003,Trichy
+2026-01-28,Kurkure,Snacks,15,20,C046,Madurai
+2026-03-09,Tata Tea,Beverages,4,140,C035,Trichy
+2026-04-18,Red Label,Beverages,1,125,C059,Trichy
+2026-04-03,Tata Tea,Beverages,5,140,C002,Madurai
+2026-07-24,Pepsodent,Oral Care,5,88,C060,Chennai
+2026-02-02,Sensodyne,Oral Care,4,165,C022,Madurai
+2026-04-27,Colgate,Oral Care,5,95,C029,Coimbatore
+2026-09-04,Colgate,Oral Care,5,95,C028,Chennai
+2026-01-22,Colgate,Oral Care,2,95,C024,Chennai
+2026-01-14,Bru Coffee,Beverages,3,210,C021,Coimbatore
+2026-04-18,Colgate,Oral Care,5,95,C026,Madurai
+2026-09-27,Tata Tea,Beverages,6,140,C040,Chennai
+2026-06-18,Parle-G,Snacks,12,10,C044,Chennai
+2026-06-11,Lays,Snacks,14,20,C057,Coimbatore
+2026-03-08,Tata Tea,Beverages,3,140,C048,Chennai
+2026-06-14,Tata Tea,Beverages,2,140,C035,Trichy
+2026-07-22,Colgate,Oral Care,5,95,C016,Chennai
+2026-02-12,Colgate,Oral Care,3,95,C017,Coimbatore
+2026-04-19,Closeup,Oral Care,3,92,C002,Madurai
+2026-05-06,Closeup,Oral Care,2,92,C017,Coimbatore
+2026-05-23,Lays,Snacks,14,20,C057,Coimbatore
+2026-03-04,Lays,Snacks,14,20,C040,Chennai
+2026-04-01,Tata Tea,Beverages,4,140,C058,Madurai
+2026-03-28, Sensodyne ,Oral Care,3,165,C005,Coimbatore
+2026-08-22,Pepsodent,Oral Care,5,88,C015,Trichy
+2026-07-15,Tata Tea,Beverages,1,140,C050,Madurai
+2026-05-08,Tata Tea,Beverages,3,140,C050,Madurai
+2026-07-12,Tata Tea,Beverages,1,140,C013,Coimbatore
+2026-03-12,Colgate,Oral Care,1,95,C020,Chennai
+2026-03-03,Colgate,Oral Care,4,95,C028,Chennai
+2026-02-09,Colgate,Oral Care,5,95,C003,Trichy
+2026-09-25,Pepsodent,Oral Care,1,88,C014,Madurai
+2026-08-04,Lays,Snacks,8,20,C034,Madurai
+2026-04-04,Colgate,Oral Care,4,95,C032,Chennai
+2026-09-10, Pepsodent ,Oral Care,3,88,C015,Trichy
+2026-08-08,Colgate,Oral Care,5,95,C019,Trichy
+2026-03-10,Red Label,Beverages,6,125,C044,Chennai
+2026-04-14,Colgate,Oral Care,1,95,C004,Chennai

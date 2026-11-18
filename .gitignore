@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Local database and generated secrets
+backend/app.db
+backend/sales.db
+backend/.secret_key
+*.db
+
+# Secrets - NEVER commit these
+.env
+*.env
+
+# Node
+node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

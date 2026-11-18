@@ -1,0 +1,10 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pandas>=2.0
+numpy>=1.26
+python-multipart>=0.0.9
+python-dotenv>=1.0
+openai>=1.30
+requests>=2.31
+# Only needed when DATABASE_URL points at Neon / PostgreSQL (local SQLite needs nothing extra)
+psycopg[binary]>=3.1
